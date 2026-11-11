@@ -2,7 +2,7 @@
 
 Classic ZX Spectrum games, enhanced colour editions and native Spectrum Next games, together in one library.
 
-**Downloads are coming soon.** The installers for Windows, Mac and Linux are going through final testing and will be up here in the next couple of days. Watch this repository, or the Releases page, to hear when they land.
+**Public beta coming soon.** The installers for Windows, Mac and Linux are going through final testing and will be up here in the next couple of days, open to everyone as a public beta test. Watch this repository, or the Releases page, to hear when they land.
 
 ## What it is
 
