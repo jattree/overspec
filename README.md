@@ -1,8 +1,12 @@
-# OverSpec
+# OverSpec (beta)
 
 Classic ZX Spectrum games, enhanced colour editions and native Spectrum Next games, together in one library.
 
-**Public beta coming soon.** The installers for Windows, Mac and Linux are going through final testing and will be up here in the next couple of days, open to everyone as a public beta test. Watch this repository, or the Releases page, to hear when they land.
+> **This is a beta, not a finished release.** OverSpec is still being tested. Expect bugs and rough edges, and things may change before the first full release.
+
+**Public beta coming soon.** The beta installers for Windows, Mac and Linux are going through final testing and will be up here in the next couple of days, open to everyone to try. Watch this repository, or the Releases page, to hear when they land.
+
+If something breaks in the beta, please say so on the [Issues](https://github.com/jattree/overspec/issues) page. That is what the beta is for.
 
 ## What it is
 
