@@ -58,6 +58,10 @@ You supply the games. The `.nxc` updater downloads patches, not copies of the ga
 
 Your saves and settings are kept in your own data folder, never in the program's folder. Settings > Storage shows where, and lets you change it.
 
+## What has been tested
+
+[COMPATIBILITY.md](COMPATIBILITY.md) lists every game and demo OverSpec has been run against, 1,656 so far, with the result for each. Most were run automatically and compared with a reference emulator; the few a person has played are listed separately. If a game you care about is marked as a problem, or is not there at all, tell us in an issue.
+
 ## Known limits in this build
 
 - The Windows setup program is unsigned.
