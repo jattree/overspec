@@ -4,6 +4,12 @@ Classic ZX Spectrum games, enhanced colour editions and native Spectrum Next gam
 
 > **Expect this to be somewhere between an alpha and a beta.** It has had a lot of polish, but there are probably plenty of problems we have not noticed yet. Things will change before the first full release.
 
+![The OverSpec library](screenshots/library.png)
+
+| | |
+|---|---|
+| ![A game's details page](screenshots/details.png) | ![Atic Atac in its enhanced colour edition](screenshots/game.png) |
+
 ## Download
 
 Installers for **Windows** and **Linux** are on the [Releases page](https://github.com/jattree/overspec/releases).
@@ -17,6 +23,8 @@ Installers for **Windows** and **Linux** are on the [Releases page](https://gith
 The **Mac** version will be released soon; it is going through its final testing.
 
 The Windows setup program is not code signed yet, so Windows SmartScreen will warn you. Choose "More info", then "Run anyway".
+
+What changed in each build is in the [changelog](CHANGELOG.md).
 
 ## If something goes wrong
 
