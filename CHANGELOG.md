@@ -2,6 +2,14 @@
 
 ## 0.6.20261113 (early test build)
 
+Added
+
+- **Mac:** the first Mac build, as separate packages for Apple Silicon and
+  Intel, for macOS 13 or later. It has had far less testing than the Windows
+  and Linux builds. It also carries fixes that reach Windows and Linux in
+  the next build: quitting when a save fails keeps the game open and offers
+  Retry, and a second resume point set aside no longer replaces the first.
+
 Fixed
 
 - **Windows:** games in folders with accented or non-Latin names now open.

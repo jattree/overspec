@@ -12,15 +12,21 @@ Classic ZX Spectrum games, enhanced colour editions and native Spectrum Next gam
 
 ## Download
 
-Installers for **Windows** and **Linux** are on the [Releases page](https://github.com/jattree/overspec/releases).
+Installers for **Windows**, **Linux** and **Mac** are on the [Releases page](https://github.com/jattree/overspec/releases).
 
 | System | File | How to install |
 |---|---|---|
 | Windows 10 or 11 (64-bit) | `overspec-…-windows-x64-setup.exe` | Run it. It installs for your user only, with a Start menu entry and an uninstaller. |
 | Windows, no installer | `overspec-…-windows-x64.zip` | Unzip anywhere and run `bin\overspec.exe`. |
 | Linux (x86_64) | `overspec-…-linux-x86_64-portable.tar.gz` | Unpack and run `OverSpec/install.sh`, or run `OverSpec/bin/overspec` directly. Needs glibc 2.35 or newer (Ubuntu 22.04, Debian 12, Fedora 36 and later). |
+| Mac, Apple Silicon (macOS 13 or later) | `overspec-…-macos-arm64.dmg` | Open it and drag OverSpec to Applications. |
+| Mac, Intel (macOS 13 or later) | `overspec-…-macos-x86_64.dmg` | Open it and drag OverSpec to Applications. |
 
-The **Mac** version will be released soon; it is going through its final testing.
+### Mac users: we need your feedback most
+
+We cannot test the Mac build as widely as the others. It has passed its automated checks on one Apple Silicon Mac, and the Intel build has only been run under Rosetta, never on a real Intel Mac. If you try it, please tell us how it went, even if everything worked: which Mac, which macOS, whether the window opened, whether games play, and whether you hear sound. An [issue](https://github.com/jattree/overspec/issues) is the best place.
+
+The Mac app is not notarised yet, so macOS will refuse to open it the first time. Right-click OverSpec in Applications and choose Open, or allow it under System Settings > Privacy & Security.
 
 The Windows setup program is not code signed yet, so Windows SmartScreen will warn you. Choose "More info", then "Run anyway".
 
@@ -58,6 +64,19 @@ Your saves and settings are kept in your own data folder, never in the program's
 - Starting Next games through NextZXOS is not available on Windows; they start directly.
 - The Kempston mouse follows the pointer over the game but does not capture it.
 - The Linux build is for x86_64 only.
+- The Mac build has had far less testing than the others, and is not notarised.
+
+## Coming next
+
+OverSpec aims to play every kind of Spectrum game and demo, including the less common display formats. We are working on these now:
+
+- **ULAplus**, the 64-colour palette, for games and recoloured versions that use it.
+- **Timex** hi-colour and hi-res screens on the classic machines.
+- **Radastan** mode from the ZX-Uno.
+- **Gigascreen**, where two screens are blended into one.
+- **SPECTRA** interface display modes.
+
+If you know of a game or demo that uses one of these and should work, tell us in an issue.
 
 ## The `.nxc` patches
 
