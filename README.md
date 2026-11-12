@@ -22,6 +22,8 @@ Installers for **Windows**, **Linux** and **Mac** are on the [Releases page](htt
 | Mac, Apple Silicon (macOS 13 or later) | `overspec-…-macos-arm64.dmg` | Open it and drag OverSpec to Applications. |
 | Mac, Intel (macOS 13 or later) | `overspec-…-macos-x86_64.dmg` | Open it and drag OverSpec to Applications. |
 
+The newest build, 0.6.20261114, is out for Windows and Linux. Its Mac files will follow; until then the Mac build is 0.6.20261113, on the same Releases page.
+
 ### Mac users: we need your feedback most
 
 We cannot test the Mac build as widely as the others. It has passed its automated checks on one Apple Silicon Mac, and the Intel build has only been run under Rosetta, never on a real Intel Mac. If you try it, please tell us how it went, even if everything worked: which Mac, which macOS, whether the window opened, whether games play, and whether you hear sound. An [issue](https://github.com/jattree/overspec/issues) is the best place.
@@ -34,7 +36,22 @@ What changed in each build is in the [changelog](CHANGELOG.md).
 
 ## If something goes wrong
 
-Please [open an issue](https://github.com/jattree/overspec/issues) on this repository and say what you were doing, which game, and which system you are on. If it is easier, contact me directly instead. Reports are exactly what this build is for.
+There are three ways to tell us, and all of them help.
+
+- **Report a problem**, in the in-game menu (F2) and in Settings. Pick what kind of problem it is and OverSpec sends it. No account is needed.
+- If OverSpec crashes or stops responding, the next start asks whether to send a report.
+- [Open an issue](https://github.com/jattree/overspec/issues) on this repository and say what you were doing, which game, and which system you are on. If it is easier, contact me directly instead.
+
+Reports are exactly what this build is for.
+
+### What a report holds
+
+Nothing is ever sent unless you choose to send it, and OverSpec shows what will be sent first.
+
+- A crash report holds the OverSpec version, your type of system (for example "windows-x64"), the file name of the last game started and where the program failed.
+- A problem report holds the same, plus your display settings, how many games are in your library, how long the last scan took and, if you send it from inside a game, the picture the game is showing. The library screen is never sent.
+
+Reports go to a server run by OverSpec's author, and your internet address is not stored with them.
 
 ## What it is
 
@@ -52,7 +69,7 @@ You supply the games. The `.nxc` updater downloads patches, not copies of the ga
 
 ## Getting started
 
-1. Start OverSpec and choose the folder that holds your games, or drop a folder or a game onto the window.
+1. Start OverSpec and press "Choose games folder" to pick the folder that holds your games with your system's own dialog, or drop a folder or a game onto the window. Choose the folder the games are in, not a whole drive.
 2. Pick a game and press Enter, or A on a controller.
 3. In a game, F2 (or the controller's Guide button, or Start and Select together) opens the menu. F1 returns to the library. F11 toggles full screen.
 
