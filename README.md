@@ -1,6 +1,6 @@
 # OverSpec (early test build)
 
-Classic ZX Spectrum games, enhanced colour editions and native Spectrum Next games, together in one library.
+Classic ZX Spectrum games, enhanced colour editions and native Spectrum Next games, together in one library you can drive from the sofa with a game controller.
 
 > **Expect this to be somewhere between an alpha and a beta.** It has had a lot of polish, but there are probably plenty of problems we have not noticed yet. Things will change before the first full release.
 
@@ -22,7 +22,7 @@ Installers for **Windows**, **Linux** and **Mac** are on the [Releases page](htt
 | Mac, Apple Silicon (macOS 13 or later) | `overspec-…-macos-arm64.dmg` | Open it and drag OverSpec to Applications. |
 | Mac, Intel (macOS 13 or later) | `overspec-…-macos-x86_64.dmg` | Open it and drag OverSpec to Applications. |
 
-The newest build, 0.6.20261114, is out for Windows, Linux and Mac.
+The newest build, 0.6.20261115, is out for Windows and Linux. The Mac build of it is on its way; until then the Mac files on the Releases page are 0.6.20261114.
 
 ### Mac users: we need your feedback most
 
@@ -64,14 +64,42 @@ OverSpec is an emulator built around picking a game and playing it.
 - Cassette-art surrounds, three skins, original pixels, Smooth, Scale2x and Scale4x.
 - Controller setup, in-game cheats and options, saves and rewind.
 - An updater for `.nxc` patches and their notes.
+- A full-screen interface that works entirely from a game controller, with the keyboard and mouse as alternatives. New in 0.6.20261115, and tested so far with simulated controllers only: tell us how yours behaves.
+- The 16K to +3 Spectrums, the Pentagon, the Timex TC2048 and TS2068, and the Spectrum Next, with ULAplus, Timex screen modes, Radastan, Gigascreen, multicolour and SPECTRA display hardware.
 
-You supply the games. The `.nxc` updater downloads patches, not copies of the games.
+## Games in the box
+
+OverSpec comes with something to play for every kind of display it supports, each in its own folder with a picture: Timex, multicolour, ULAplus, ZX-Uno and Radastan, Gigascreen, SPECTRA, Spec256 games in 256 colours, and NexClash `.nxc` patches. A patch is not a game: it needs your own copy of the game it changes.
+
+They are optional. The Windows setup program has a tick box for each folder, and on Linux `install.sh --no-games` leaves them out. `games/CREDITS.txt` in the package lists every title, whose it is and what is recorded about passing it on. **If one of them is yours and you would rather it was not here, [open an issue](https://github.com/jattree/overspec/issues) and it will be removed.**
+
+For everything else, you supply the games. The `.nxc` updater downloads patches, not copies of the games.
+
+## Where to find more for each format
+
+| Format | Where to look |
+|---|---|
+| 16K, 48K and 128K Spectrum games | [Spectrum Computing](https://spectrumcomputing.co.uk/) and [World of Spectrum](https://worldofspectrum.org/) |
+| Spectrum Next | [specnext.com](https://www.specnext.com/) and the Spectrum Next games on [itch.io](https://itch.io/) |
+| NexClash `.nxc` patches | [jattree/nxc](https://github.com/jattree/nxc), or the updater inside OverSpec |
+| Spec256 (256 colours) | the [Spec256 page at Spectrum Computing](https://spectrumcomputing.co.uk/tool/13/Spec256) |
+| ZX-Poly | [raydac/zxpoly](https://github.com/raydac/zxpoly) |
+| ULAplus | [Spectrum Computing](https://spectrumcomputing.co.uk/) and [ZX-Art](https://zxart.ee/), searching for ULAplus |
+| Timex TC2048 and TS2068 | [timexsinclair.com](https://timexsinclair.com/) and [Spectrum Computing](https://spectrumcomputing.co.uk/) |
+| Multicolour (BIFROST, NIRVANA) | [Spectrum Computing](https://spectrumcomputing.co.uk/) |
+| Gigascreen and other demos | [Demozoo](https://demozoo.org/) and [ZX-Art](https://zxart.ee/) |
+| ZX-Uno and Radastan | [ZX-Art](https://zxart.ee/) |
+| SPECTRA | the [SPECTRA interface's software page](https://homepages.plus.net/fruitcake/Sinclair/Spectrum/Spectra/SpectraInterface_Software.htm) |
+| Gameplay recordings (RZX) | [RZX Archive](https://www.rzxarchive.co.uk/) |
+
+Those sites say which titles their authors and publishers allow to be downloaded. Please respect that.
 
 ## Getting started
 
-1. Start OverSpec and press "Choose games folder" to pick the folder that holds your games with your system's own dialog, or drop a folder or a game onto the window. Choose the folder the games are in, not a whole drive.
-2. Pick a game and press Enter, or A on a controller.
-3. In a game, F2 (or the controller's Guide button, or Start and Select together) opens the menu. F1 returns to the library. F11 toggles full screen.
+1. Start OverSpec. The games that came with it are already listed. To add your own, open More, then Settings, and choose your games folder, or drop a folder or a game onto the window. Choose the folder the games are in, not a whole drive.
+2. Browse with the arrow keys, the D-pad or the left stick. Enter or A plays; I or Y shows details; Space or X marks a favourite; Start or M opens More. Search has an on-screen keyboard.
+3. In a game, Escape or F2 (or the controller's Guide button, or Start and Select together) opens the menu. F1 returns to the library. F11 toggles full screen.
+4. The speaker button at the top turns the sound of gameplay previews off and on.
 
 Your saves and settings are kept in your own data folder, never in the program's folder. Settings > Storage shows where, and lets you change it.
 
@@ -86,18 +114,16 @@ Your saves and settings are kept in your own data folder, never in the program's
 - The Kempston mouse follows the pointer over the game but does not capture it.
 - The Linux build is for x86_64 only.
 - The Mac build has had far less testing than the others, and is not notarised.
+- The controller interface has not yet been tried with a real controller by us; it was tested with simulated ones.
+- Gigascreen and other programs on TR-DOS disks need a TR-DOS ROM file of your own.
 
 ## Coming next
 
-OverSpec aims to play every kind of Spectrum game and demo, including the less common display formats. We are working on these now:
+- Recordings (RZX) for Spectrum Next games.
+- Sound for the video previews of enhanced editions; today only previews made from recordings have sound.
+- A signed Windows setup program and a notarised Mac app.
 
-- **ULAplus**, the 64-colour palette, for games and recoloured versions that use it.
-- **Timex** hi-colour and hi-res screens on the classic machines.
-- **Radastan** mode from the ZX-Uno.
-- **Gigascreen**, where two screens are blended into one.
-- **SPECTRA** interface display modes.
-
-If you know of a game or demo that uses one of these and should work, tell us in an issue.
+If you know of a game or demo that should work and does not, tell us in an issue.
 
 ## The `.nxc` patches
 
@@ -107,6 +133,7 @@ The patches and their setup guide are at [jattree/nxc](https://github.com/jattre
 
 - NexClash / `.nxc`: Dean Woodyatt and Jon Attree. [NexClash](https://github.com/bleughb/nexclash)
 - Spec256: Inigo Ayo and David Goti. EmuZWin: Vladimir Kladov. emuspec256 / C-port foundation: Alberto Conde. ZX-Poly: Igor Maznitsa.
+- Sinclair ROMs are (c) Amstrad, who allow their distribution with emulators. The Timex ROMs are passed on under the same statement, as Fuse does.
 - Thanks to the Fuse contributors, ZXDB, Spectrum Computing, RZX Archive and the individual recording authors.
 
 Games, artwork and colour conversions belong to their respective creators and publishers.

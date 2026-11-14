@@ -1,5 +1,85 @@
 # OverSpec changes
 
+## 0.6.20261115 (beta)
+
+More of the Spectrum's extra display hardware, checked against a test set of
+about 1,200 programs gathered for the purpose.
+
+- **A new look, made for a controller:** the library is now a full-screen
+  interface with artwork behind it, shelves of cards and a moving highlight.
+  Everything can be done with a game controller and no keyboard or mouse:
+  browsing, search (with an on-screen keyboard), choosing folders and files,
+  NextZXOS setup, the pause menu, a Spectrum keyboard in the game, Spec256
+  recolouring with undo, and the questions the player asks. The keyboard and
+  mouse still work everywhere, and the hints at the bottom follow whichever
+  you last used. It has been tested with simulated controllers; reports from
+  real ones are welcome.
+- **Cards:** each card shows the cassette front, and the one in focus turns
+  to its loading screen.
+- **Full screen is remembered** from one run to the next.
+- **Previews you can hear:** the gameplay previews in the library now play
+  their sound as well as their picture. The speaker button beside More turns
+  it off and on, and your choice is remembered.
+- **Games in the box:** OverSpec now comes with games, demos and patches for
+  every kind of display it plays: Timex, multicolour, ULAplus, the ZX-Uno,
+  Gigascreen, SPECTRA, Spec256 games in 256 colours, and NexClash `.nxc`
+  patches (a patch needs your own copy of its game). Each has a picture.
+  `games/CREDITS.txt` lists whose they are and what is recorded about passing
+  each one on; if one is yours and you want it gone, open an issue. They
+  are optional: the
+  Windows setup program has a tick box for each kind, and on Linux
+  `install.sh --no-games` leaves them out. Their saves are kept in your own
+  data folder like any other game's.
+- **ULAplus:** programs that change the palette while the picture is being
+  drawn now look right. The HAM 8x1 picture viewer showed streaks; it is clean.
+- **Multicolour and border effects:** the 16K to +3 machines now draw the
+  picture as the beam crosses the screen, eight pixels at a time, where before
+  a change part way across a line was applied to the whole line.
+- **SPECTRA:** new. The SPECTRA interface's 64 colour modes on the 48K machine,
+  with its finer attributes, enhanced border and second screen.
+- **Timex machines:** new. The Timex TC2048 and the Timex Sinclair 2068 are
+  now machines of their own, with the 2068's sound chip, joystick and sixty
+  frames a second. Its cartridges (`.dck`) play, its tapes load at once like
+  a Spectrum's, and both machines are in the machine list. A tape with TS2068,
+  TC2068 or TC2048 in its file name starts on the right one; for any other
+  Timex tape, choose the machine from that list.
+- **Timex programs started on a Spectrum:** a tape that turns out to be
+  written for a Timex, with nothing in its name to say so, now restarts on a
+  Timex TC2048 by itself. Hi-Color Hero and River Raid II showed stripes; they
+  now show their full colour.
+- **Tapes that skip a block:** when a loader chooses not to load one of its
+  blocks, the tape no longer plays that block at its real length. Some titles
+  sat on a still screen for a minute before starting.
+- **Pictures:** screen files can be opened and shown: standard `.scr`,
+  Gigascreen `.img` and MultiArtist `.mg1` to `.mg8` (the two pictures are
+  mixed), and multicolour `.mlt`, `.mc` and Timex hi-colour and hi-res `.scr`.
+  The library can list all of these except plain loading screens, which
+  would bury the games; those open from "Browse files and folders". Pictures
+  stay out of the list until you tick them in the Show menu, and each says
+  what kind of picture it is.
+- **ZX-Uno programs that read files:** a Spectrum program that loads its data
+  from an SD card through esxDOS now finds the files beside it. Return to
+  Holy Tower plays.
+- **A tidier library header:** the row of filter buttons is now one Show
+  control and a More menu. Show is a list of tick boxes: 16K, 48K, 128K and
+  Spectrum Next, with Spec256, ZX-Poly, ULAplus, Radastan, SPECTRA,
+  Gigascreen and Timex under 48K and `.nxc` under Next. Tick a machine to tick everything under it, or open it and tick only
+  what you want. Each row says how many games you have of that kind, or that
+  you have none, and what you tick is remembered. A game is filed under its machine
+  when its details, its snapshot or its file name says which one it is for;
+  one that says nothing is listed under both 48K and 128K. More holds Open a
+  file, Browse files and folders, Refresh library, Settings and About.
+- **Games that say what they are:** once you have played a game that uses
+  ULAplus, the ZX-Uno's Radastan mode, SPECTRA, Gigascreen or a Timex screen
+  mode, the library names it for that and files it under that row of the
+  Show menu. OverSpec learns this by watching the game run, so a game you
+  have not played yet is still listed as a plain Spectrum game.
+- **Fixed: choosing a machine.** Picking 128K, +2, +2A, +3 or Pentagon in the
+  machine list did nothing. It now restarts the game on that machine.
+- **128K titles:** a tape that says nothing about its machine but uses 128K
+  memory now starts on a 128K machine, as do files named with `(128)` or
+  `128 Kb`. Several titles that sat on a black screen now run.
+
 ## 0.6.20261114 (early test build)
 
 This build answers a report from someone whose first run went badly. Each
@@ -61,14 +141,6 @@ Also fixed
   installed program as it was.
 
 ## 0.6.20261113 (early test build)
-
-Added
-
-- **Mac:** the first Mac build, as separate packages for Apple Silicon and
-  Intel, for macOS 13 or later. It has had far less testing than the Windows
-  and Linux builds. It also carries fixes that reach Windows and Linux in
-  the next build: quitting when a save fails keeps the game open and offers
-  Retry, and a second resume point set aside no longer replaces the first.
 
 Fixed
 
