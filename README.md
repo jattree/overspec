@@ -22,7 +22,7 @@ Installers for **Windows**, **Linux** and **Mac** are on the [Releases page](htt
 | Mac, Apple Silicon (macOS 13 or later) | `overspec-…-macos-arm64.dmg` | Open it and drag OverSpec to Applications. |
 | Mac, Intel (macOS 13 or later) | `overspec-…-macos-x86_64.dmg` | Open it and drag OverSpec to Applications. |
 
-The newest build, 0.6.20261116, is out for Windows, Linux and Mac.
+The newest build, 0.6.20261117, is out for Windows and Linux. It fixes how several tapes load: see the [changelog](CHANGELOG.md). The Mac build of it will follow; until then 0.6.20261116 is the newest for Mac. If you are running 0.6.20261116 it should offer you the update by itself, and this is the first time it has had the chance: please tell us whether it worked.
 
 ### Mac users: we need your feedback most
 

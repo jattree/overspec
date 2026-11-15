@@ -1,5 +1,33 @@
 # OverSpec changes
 
+## 0.6.20261117 (beta)
+
+Three tape fixes, found by running the whole TOSEC set again after each one.
+
+- **Tapes: data arrives the right way up.** A Spectrum writes each bit as a
+  low pulse and then a high one, and a few loaders read those levels instead
+  of the edges between them. A tape file records only pulse lengths, so
+  whether a block came out upright depended on how many pulses its lead-in
+  tone had. Blocks that would have played upside down are now turned over.
+  Basil the Great Mouse Detective loads on all six of its tapes, and Lone
+  Wolf III side B now reaches its title.
+- **Tapes: the silence between blocks behaves as it does on a real deck.**
+  A pause on a tape is now the low level after its first millisecond, and a
+  tape that stops part way through a pause lets the rest of it pass in real
+  time instead of skipping it. Sam Stoat Safebreaker (Speedlock 1) looks at
+  the tape in that silence before it starts reading, and now loads. Skipping
+  the silence also moved the next tone against the program, which Speedlock 2
+  is sensitive to: Head over Heels loaded only by luck, and no longer depends
+  on it. A few tapes now wait out a pause that used to be skipped.
+- **Known:** P.H.M. Pegasus (Electronic Arts tape) decrypts itself with
+  whatever an unattached port returns at the moment loading ends, which
+  depends on where the picture is being drawn. It loaded in 0.6.20261116 and
+  may not in this build. The Dro Soft release loads. One cracked tape of
+  Beach-Head II has a sync pulse right on its loader's limit and is in the
+  same position. A resume point saved by
+  an older build while a tape was in the last millisecond of a pause hears
+  that pause once more.
+
 ## 0.6.20261116 (beta)
 
 - **Record and share replays of Spectrum Next games.** While a Next game is
