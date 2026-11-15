@@ -109,7 +109,7 @@ Your saves and settings are kept in your own data folder, never in the program's
 
 ## What has been tested
 
-[COMPATIBILITY.md](COMPATIBILITY.md) has the result for every file OverSpec has been run against: all 42,427 tapes, disks and snapshots in the 2012 TOSEC Spectrum set, each compared with a reference emulator, plus the colour editions, patches and Next games. 95.7% match the reference. A run with nobody at the controls does not show that a game plays to the end, so the few a person has played are listed separately.
+[COMPATIBILITY.md](COMPATIBILITY.md) has the result for every file OverSpec has been run against: all 42,427 tapes, disks and snapshots in the 2012 TOSEC Spectrum set, each compared with a reference emulator, plus the colour editions, patches and Next games. 95.7% match the reference. A run with nobody at the controls does not show that a game plays to the end, so the few a person has played are listed separately. If a game you care about is marked as a problem, tell us in an issue.
 
 ## Known limits in this build
 
