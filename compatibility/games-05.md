@@ -379,10 +379,10 @@ Page 5 of 20. What the words mean is on the [main page](../COMPATIBILITY.md).
 | Continental Circus (1989)(Dro Soft)(Side B)[128K][re-release] | tzx | 128K | Good | Exact | Picture matches the reference emulator |
 | Continental Circus (1989)(Dro Soft)[re-release] | dsk | +3 | Good | Exact | Picture matches the reference emulator |
 | Continental Circus (1989)(Mastertronic Plus)[128K][re-release] | tzx | 128K | Good | Exact | Shows the same pictures as the reference emulator, at a different moment |
-| Continental Circus (1989)(Tronix)[128K][re-release] | tzx | 128K | Good | Exact | Shows the same pictures as the reference emulator, at a different moment |
+| Continental Circus (1989)(Tronix)[128K][re-release] | tzx | 128K | Differs | Exact | Picture agrees only 0% with the reference emulator |
 | Continental Circus (1989)(Virgin Mastertronic) | dsk | +3 | Good | Exact | Picture matches the reference emulator |
 | Continental Circus (1989)(Virgin Mastertronic) | z80 | 48K | Good | Exact | Picture matches the reference emulator |
-| Continental Circus (1989)(Virgin Mastertronic)[128K] | tzx | 128K | Good | Exact | Shows the same pictures as the reference emulator, at a different moment |
+| Continental Circus (1989)(Virgin Mastertronic)[128K] | tzx | 128K | Differs | Exact | Picture agrees only 0% with the reference emulator |
 | Continental Circus (1989)(Virgin Mastertronic)[128K] | z80 | 128K | Good | Exact | Picture matches the reference emulator |
 | Continental Circus (1989)(Virgin Mastertronic)[a][128K] | z80 | 128K | Good | Exact | Picture matches the reference emulator |
 | Continental Circus (1989)(Virgin Mastertronic)[cr Matasoft - Kamilsoft][t +4][128K] | tap | 128K | Good | Exact | Picture matches the reference emulator |
@@ -776,7 +776,7 @@ Page 5 of 20. What the words mean is on the [main page](../COMPATIBILITY.md).
 | Critical Mass (1985)(Durell Software) | sp | 48K | Good | Exact | Picture matches the reference emulator |
 | Critical Mass (1985)(Durell Software) | tap | 48K | Good | Exact | Picture matches the reference emulator |
 | Critical Mass (1985)(Durell Software) | z80 | 48K | Good | Exact | Picture matches the reference emulator |
-| Critical Mass (1985)(Durell Software)(Side A) | tzx | 48K | Ahead | Exact | Runs on while the reference emulator stays on one picture |
+| Critical Mass (1985)(Durell Software)(Side A) | tzx | 48K | Differs | Exact | Picture agrees only 1% with the reference emulator |
 | Critical Mass (1985)(Durell Software)(Side B) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Critical Mass (1985)(Durell Software)[a] | z80 | 48K | Good | Exact | Picture matches the reference emulator |
 | Critical Mass (1985)(Durell Software)[cr JanSoft - YUClub] | tzx | 48K | Good | Exact | Picture matches the reference emulator |
@@ -1033,7 +1033,7 @@ Page 5 of 20. What the words mean is on the [main page](../COMPATIBILITY.md).
 | Cyberun (1985)(Ultimate Play The Game)[a] | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Cyberun (1985)(Ultimate Play The Game)[a] | z80 | 48K | Good | Exact | Picture matches the reference emulator |
 | Cybex (1987)(Pirate Software) | tap | 48K | Ahead | Exact | Runs on while the reference emulator stays on one picture |
-| Cybex (1987)(Pirate Software) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
+| Cybex (1987)(Pirate Software) | tzx | 48K | Ahead | Exact | Runs on while the reference emulator stays on one picture |
 | Cybex (1987)(System 4)[re-release] | tzx | 48K | Ahead | Exact | Gets further than the reference emulator in the same time |
 | Cybo Run (1984)(Calisto) | tap | 48K | Good | Exact | Picture matches the reference emulator |
 | Cybo Run (1984)(Calisto) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
@@ -1119,15 +1119,15 @@ Page 5 of 20. What the words mean is on the [main page](../COMPATIBILITY.md).
 | Daley Thompson's Decathlon - Day 1 (1984)(Ocean) | tzx | 48K | Check | Exact | The reference emulator gets further in the same time |
 | Daley Thompson's Decathlon - Day 1 (1984)(Ocean) | z80 | 48K | Good | Exact | Picture matches the reference emulator |
 | Daley Thompson's Decathlon - Day 1 (1984)(Ocean)[a2] | tzx | 48K | Good | Exact | Picture matches the reference emulator |
-| Daley Thompson's Decathlon - Day 1 (1984)(Ocean)[a2][small case] | tzx | 48K | Differs | Exact | Picture agrees only 9% with the reference emulator |
+| Daley Thompson's Decathlon - Day 1 (1984)(Ocean)[a2][small case] | tzx | 48K | Check | Exact | The reference emulator gets further in the same time |
 | Daley Thompson's Decathlon - Day 1 (1984)(Ocean)[a] | sp | 48K | Good | Exact | Picture matches the reference emulator |
 | Daley Thompson's Decathlon - Day 1 (1984)(Ocean)[a] | tzx | 48K | Check | Exact | The reference emulator gets further in the same time |
-| Daley Thompson's Decathlon - Day 1 (1984)(Ocean)[a][large case] | tzx | 48K | Differs | Exact | Picture agrees only 9% with the reference emulator |
-| Daley Thompson's Decathlon - Day 1 (1984)(Ocean)[a][small case] | tzx | 48K | Differs | Exact | Picture agrees only 9% with the reference emulator |
+| Daley Thompson's Decathlon - Day 1 (1984)(Ocean)[a][large case] | tzx | 48K | Check | Exact | The reference emulator gets further in the same time |
+| Daley Thompson's Decathlon - Day 1 (1984)(Ocean)[a][small case] | tzx | 48K | Check | Exact | The reference emulator gets further in the same time |
 | Daley Thompson's Decathlon - Day 1 (1984)(Ocean)[large case] | tzx | 48K | Check | Exact | The reference emulator gets further in the same time |
 | Daley Thompson's Decathlon - Day 1 (1984)(Ocean)[small case] | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Daley Thompson's Decathlon - Day 1 (1984)(The Hit Squad)[re-release] | tzx | 48K | Good | Exact | Shows the same pictures as the reference emulator, at a different moment |
-| Daley Thompson's Decathlon - Day 1 (1984)(Zafiro Software Division)[a][re-release] | tzx | 48K | Differs | Exact | Picture agrees only 9% with the reference emulator |
+| Daley Thompson's Decathlon - Day 1 (1984)(Zafiro Software Division)[a][re-release] | tzx | 48K | Check | Exact | The reference emulator gets further in the same time |
 | Daley Thompson's Decathlon - Day 1 (1984)(Zafiro Software Division)[re-release] | tzx | 48K | Check | Exact | The reference emulator gets further in the same time |
 | Daley Thompson's Decathlon - Day 2 (1984)(Ocean) | sp | 48K | Good | Exact | Picture matches the reference emulator |
 | Daley Thompson's Decathlon - Day 2 (1984)(Ocean) | tzx | 48K | Check | Exact | The reference emulator gets further in the same time |
@@ -1178,9 +1178,9 @@ Page 5 of 20. What the words mean is on the [main page](../COMPATIBILITY.md).
 | Daley Thompson's Supertest - Day 1 (1985)(Ocean)[a] | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Daley Thompson's Supertest - Day 1 (1985)(Ocean)[cr Vatroslav] | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Daley Thompson's Supertest - Day 1 (1988)(Erbe Software)[re-release] | tzx | 48K | Good | Exact | Picture matches the reference emulator |
-| Daley Thompson's Supertest - Day 2 (1985)(Ocean) | tzx | 48K | Check | Exact | Picture agrees 72% with the reference emulator |
+| Daley Thompson's Supertest - Day 2 (1985)(Ocean) | tzx | 48K | Good | Exact | Matches the reference emulator over a three minute run |
 | Daley Thompson's Supertest - Day 2 (1985)(Ocean) | z80 | 48K | Check | Exact | Picture agrees 74% with the reference emulator |
-| Daley Thompson's Supertest - Day 2 (1985)(Ocean)[a2] | tzx | 48K | Check | Exact | Picture agrees 72% with the reference emulator |
+| Daley Thompson's Supertest - Day 2 (1985)(Ocean)[a2] | tzx | 48K | Good | Exact | Matches the reference emulator over a three minute run |
 | Daley Thompson's Supertest - Day 2 (1985)(Ocean)[a] | tzx | 48K | Good | Exact | Matches the reference emulator over a three minute run |
 | Daley Thompson's Supertest - Day 2 (1985)(Ocean)[cr Vatroslav] | tzx | 48K | Good | Exact | Matches the reference emulator over a three minute run |
 | Daley Thompson's Supertest - Day 2 (1988)(Erbe Software)[re-release] | tzx | 48K | Good | Exact | Picture matches the reference emulator |

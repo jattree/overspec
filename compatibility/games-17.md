@@ -58,7 +58,7 @@ Page 17 of 20. What the words mean is on the [main page](../COMPATIBILITY.md).
 | Soldier of Light (1988)(Dro Soft)(Side A)[re-release] | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Soldier of Light (1988)(Dro Soft)(Side B)[re-release] | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Soldier of Light (1988)(Dro Soft)[re-release] | tzx | 48K | Good | Exact | Matches the reference emulator over a three minute run |
-| Soldier of Light (1988)(RAD Games)[re-release] | tzx | 48K | Check | Exact | Picture agrees 85% with the reference emulator |
+| Soldier of Light (1988)(RAD Games)[re-release] | tzx | 48K | Good | Exact | Matches the reference emulator over a three minute run |
 | Soldier of the Future (1994)(Ivan Gudkov)(ru) | trd | Pentagon 128K | Good | Exact | Picture matches the reference emulator |
 | Soldier of the Future (1994)(Ivan Gudkov)(ru)[h Spectrum Warriors] | trd | Pentagon 128K | Good | Exact | Picture matches the reference emulator |
 | Soldiers (1998)(Alexander Sizenko)(ru) | trd | Pentagon 128K | Good | Exact | Picture matches the reference emulator |
@@ -734,7 +734,7 @@ Page 17 of 20. What the words mean is on the [main page](../COMPATIBILITY.md).
 | Spy vs Spy (1985)(Beyond Software)[a2] | z80 | 48K | Good | Exact | Picture matches the reference emulator |
 | Spy vs Spy (1985)(Beyond Software)[a3] | tzx | 48K | Check | Exact | The reference emulator gets further in the same time |
 | Spy vs Spy (1985)(Beyond Software)[a] | tap | 48K | Check | Exact | The reference emulator gets further in the same time |
-| Spy vs Spy (1985)(Beyond Software)[a] | tzx | 48K | Good | Exact | Shows the same pictures as the reference emulator, at a different moment |
+| Spy vs Spy (1985)(Beyond Software)[a] | tzx | 48K | Ahead | Exact | Gets further than the reference emulator in the same time |
 | Spy vs Spy (1985)(Beyond Software)[a] | z80 | 48K | Good | Exact | Picture matches the reference emulator |
 | Spy vs Spy (1985)(Hi-Tec Software)[re-release] | tzx | 48K | Check | Exact | The reference emulator gets further in the same time |
 | Spy vs Spy (1985)(Zafiro Software Division)[re-release] | tzx | 48K | Good | Exact | Matches the reference emulator over a three minute run |

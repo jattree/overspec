@@ -552,7 +552,7 @@ Page 2 of 3. What the words mean is on the [main page](../COMPATIBILITY.md).
 | Light Magic (1985)(New Generation Software) | tap | 48K | Good | Exact | Picture matches the reference emulator |
 | Light Magic (1985)(New Generation Software) | tzx | 48K | Good | Exact | Shows the same pictures as the reference emulator, at a different moment |
 | Light Magic (1985)(New Generation Software) | z80 | 48K | Good | Exact | Picture matches the reference emulator |
-| Light Magic (1985)(New Generation Software)(Side A) | tzx | 48K | Good | Exact | Shows the same pictures as the reference emulator, at a different moment |
+| Light Magic (1985)(New Generation Software)(Side A) | tzx | 48K | Check | Exact | Picture agrees 60% with the reference emulator |
 | Light Magic (1985)(New Generation Software)(Side B) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Light Magic (1985)(New Generation Software)[a2] | z80 | 48K | Good | Exact | Picture matches the reference emulator |
 | Light Magic (1985)(New Generation Software)[a] | z80 | 48K | Good | Exact | Picture matches the reference emulator |

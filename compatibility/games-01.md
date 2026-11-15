@@ -193,8 +193,8 @@ Page 1 of 20. What the words mean is on the [main page](../COMPATIBILITY.md).
 | 1994 Locospotter (1994)(Ashley Greenup) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | 1999 (1987)(Alternative Software) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | 1999 (1987)(Alternative Software) | z80 | 48K | Good | Exact | Picture matches the reference emulator |
-| 1999 (1987)(Alternative Software)[a2] | tzx | 48K | Good | Exact | Picture matches the reference emulator |
-| 1999 (1987)(Alternative Software)[a] | tzx | 48K | Differs | Exact | Picture agrees only 1% with the reference emulator |
+| 1999 (1987)(Alternative Software)[a2] | tzx | 48K | Ahead | Exact | Runs on while the reference emulator stays on one picture |
+| 1999 (1987)(Alternative Software)[a] | tzx | 48K | Ahead | Exact | Runs on while the reference emulator stays on one picture |
 | 1999 (1987)(Alternative Software)[a] | z80 | 48K | Good | Exact | Picture matches the reference emulator |
 | 1999 (1987)(Alternative Software)[h Prophecy] | scl | Pentagon 128K | Good | Exact | Picture matches the reference emulator |
 | 1D Tetris (1998)(CSSCGC) | z80 | 48K | Good | Exact | Picture matches the reference emulator |
@@ -239,7 +239,7 @@ Page 1 of 20. What the words mean is on the [main page](../COMPATIBILITY.md).
 | 2112 AD (1985)(Design Design Software)[a8] | z80 | 48K | Good | Exact | Picture matches the reference emulator |
 | 2112 AD (1985)(Design Design Software)[a] | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | 2112 AD (1985)(Design Design Software)[a] | z80 | 48K | Good | Exact | Picture matches the reference emulator |
-| 2112 AD (1985)(Design Design Software)[b] | tzx | 48K | Differs | Exact | Picture agrees only 8% with the reference emulator |
+| 2112 AD (1985)(Design Design Software)[b] | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | 2D Mini Maze (1996)(CSSCGC) | z80 | 48K | Good | Exact | Picture matches the reference emulator |
 | 3 Mega-Tunes (19xx)(Richard Braithwaite)[128K] | tap | 128K | Good | Exact | Picture matches the reference emulator |
 | 3-2-1 (1985)(Cheetahsoft)(Side A)[16K][aka Un, Dos, Tres - Responda Otra Vez] | tzx | 48K | Good | Exact | Shows the same pictures as the reference emulator, at a different moment |
@@ -599,7 +599,7 @@ Page 1 of 20. What the words mean is on the [main page](../COMPATIBILITY.md).
 | 911 TS (1985)(Elite Systems)[a] | z80 | 48K | Good | Exact | Picture matches the reference emulator |
 | 911 TS (1985)(Elite Systems)[h] | scl | Pentagon 128K | Good | Exact | Picture matches the reference emulator |
 | 99Y (1986)(UK Lead)(sv) | tap | 48K | Good | Exact | Picture matches the reference emulator |
-| A Day in the Life (1985)(Micromega) | tzx | 48K | Differs | Exact | Picture agrees only 10% with the reference emulator |
+| A Day in the Life (1985)(Micromega) | tzx | 48K | Check | Exact | The reference emulator gets further in the same time |
 | A Day in the Life (1985)(Micromega) | z80 | 48K | Good | Exact | Picture matches the reference emulator |
 | A Day in the Life (1985)(Micromega)[a2] | z80 | 48K | Good | Exact | Picture matches the reference emulator |
 | A Day in the Life (1985)(Micromega)[a3] | z80 | 48K | Good | Exact | Picture matches the reference emulator |
@@ -782,16 +782,16 @@ Page 1 of 20. What the words mean is on the [main page](../COMPATIBILITY.md).
 | Abu Simbel Profanation (1985)(Dinamic Software)(es) | tzx | 48K | Check | Exact | The reference emulator gets further in the same time |
 | Abu Simbel Profanation (1985)(Dinamic Software)(es) | z80 | 48K | Good | Exact | Picture matches the reference emulator |
 | Abu Simbel Profanation (1985)(Dinamic Software)(es)[a2] | tzx | 48K | Check | Exact | Picture agrees 88% with the reference emulator |
-| Abu Simbel Profanation (1985)(Dinamic Software)(ES)[a3] | tzx | 48K | Check | Exact | Picture agrees 73% with the reference emulator |
+| Abu Simbel Profanation (1985)(Dinamic Software)(ES)[a3] | tzx | 48K | Check | Exact | The reference emulator gets further in the same time |
 | Abu Simbel Profanation (1985)(Dinamic Software)(es)[a] | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Abu Simbel Profanation (1985)(Dinamic Software)(es)[a] | z80 | 48K | Good | Exact | Picture matches the reference emulator |
-| Abu Simbel Profanation (1986)(Erbe Software)(ES)[a][re-release] | tzx | 48K | Check | Exact | Picture agrees 73% with the reference emulator |
+| Abu Simbel Profanation (1986)(Erbe Software)(ES)[a][re-release] | tzx | 48K | Check | Exact | The reference emulator gets further in the same time |
 | Abu Simbel Profanation (1986)(Erbe Software)(es)[re-release] | tzx | 48K | Good | Exact | Shows the same pictures as the reference emulator, at a different moment |
 | Abu Simbel Profanation (1987)(Dinamic Software)(ES) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Abu Simbel Profanation (1987)(Dinamic Software)(es)[t] | sp | 48K | Good | Exact | Picture matches the reference emulator |
 | Abu Simbel Profanation (1987)(Gremlin Graphics Software)[a2][re-release] | tap | 48K | Good | Exact | Picture matches the reference emulator |
 | Abu Simbel Profanation (1987)(Gremlin Graphics Software)[a][re-release] | tap | 48K | Good | Exact | Picture matches the reference emulator |
-| Abu Simbel Profanation (1987)(Gremlin Graphics Software)[a][re-release] | tzx | 48K | Check | Exact | Picture agrees 73% with the reference emulator |
+| Abu Simbel Profanation (1987)(Gremlin Graphics Software)[a][re-release] | tzx | 48K | Check | Exact | The reference emulator gets further in the same time |
 | Abu Simbel Profanation (1987)(Gremlin Graphics Software)[a][re-release] | z80 | 48K | Good | Exact | Picture matches the reference emulator |
 | Abu Simbel Profanation (1987)(Gremlin Graphics Software)[re-release] | tap | 48K | Good | Exact | Picture matches the reference emulator |
 | Abu Simbel Profanation (1987)(Gremlin Graphics Software)[re-release] | tzx | 48K | Check | Exact | Picture agrees 62% with the reference emulator |
@@ -1149,7 +1149,7 @@ Page 1 of 20. What the words mean is on the [main page](../COMPATIBILITY.md).
 | Adventure F - The Eye of Bain (1984)(Artic Computing)[a4] | z80 | 48K | Good | Exact | Picture matches the reference emulator |
 | Adventure F - The Eye of Bain (1984)(Artic Computing)[a] | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Adventure F - The Eye of Bain (1984)(Artic Computing)[a] | z80 | 48K | Good | Exact | Picture matches the reference emulator |
-| Adventure F - The Eye of Bain (1984)(Artic Computing)[b] | tzx | 48K | Check | Exact | Picture agrees 85% with the reference emulator |
+| Adventure F - The Eye of Bain (1984)(Artic Computing)[b] | tzx | 48K | Good | Exact | Shows the same pictures as the reference emulator, at a different moment |
 | Adventure G - Ground Zero (1984)(Artic Computing) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Adventure G - Ground Zero (1984)(Artic Computing) | z80 | 48K | Good | Exact | Picture matches the reference emulator |
 | Adventure G - Ground Zero (1984)(Artic Computing)[a] | z80 | 48K | Good | Exact | Picture matches the reference emulator |

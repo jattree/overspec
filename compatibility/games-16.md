@@ -142,11 +142,11 @@ Page 16 of 20. What the words mean is on the [main page](../COMPATIBILITY.md).
 | Sam Spade (1983)(Silversoft)[a2][16K] | z80 | 48K | Good | Exact | Picture matches the reference emulator |
 | Sam Spade (1983)(Silversoft)[a][16K] | z80 | 48K | Good | Exact | Picture matches the reference emulator |
 | Sam Stoat Safebreaker (1985)(Gremlin Graphics Software) | tap | 48K | Good | Exact | Picture matches the reference emulator |
-| Sam Stoat Safebreaker (1985)(Gremlin Graphics Software) | tzx | 48K | Differs | Exact | Stays on one picture while the reference emulator runs on |
+| Sam Stoat Safebreaker (1985)(Gremlin Graphics Software) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Sam Stoat Safebreaker (1985)(Gremlin Graphics Software) | z80 | 48K | Good | Exact | Picture matches the reference emulator |
-| Sam Stoat Safebreaker (1985)(Gremlin Graphics Software)[a2] | tzx | 48K | Differs | Exact | Stays on one picture while the reference emulator runs on |
-| Sam Stoat Safebreaker (1985)(Gremlin Graphics Software)[a3] | tzx | 48K | Differs | Exact | Stays on one picture while the reference emulator runs on |
-| Sam Stoat Safebreaker (1985)(Gremlin Graphics Software)[a] | tzx | 48K | Differs | Exact | Stays on one picture while the reference emulator runs on |
+| Sam Stoat Safebreaker (1985)(Gremlin Graphics Software)[a2] | tzx | 48K | Good | Exact | Picture matches the reference emulator |
+| Sam Stoat Safebreaker (1985)(Gremlin Graphics Software)[a3] | tzx | 48K | Good | Exact | Picture matches the reference emulator |
+| Sam Stoat Safebreaker (1985)(Gremlin Graphics Software)[a] | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Sam Stoat Safebreaker (1985)(Gremlin Graphics Software)[a] | z80 | 48K | Good | Exact | Picture matches the reference emulator |
 | Sam's Un-Excellent Adventure (1994)(Zenobi Software) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Sam's Un-Excellent Adventure (1994)(Zenobi Software) | z80 | 48K | Good | Exact | Picture matches the reference emulator |
@@ -920,11 +920,11 @@ Page 16 of 20. What the words mean is on the [main page](../COMPATIBILITY.md).
 | Si Da Sida (1988)(Tai Soft)(ES)[Juego] | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Si Yo Fuera Rico (19xx)(Costa, Rafael Vico)(ES) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Side Arms (1988)(Go!) | dsk | +3 | Check | Exact | The reference emulator gets further in the same time |
-| Side Arms (1988)(Go!) | tzx | 48K | Good | Exact | Shows the same pictures as the reference emulator, at a different moment |
+| Side Arms (1988)(Go!) | tzx | 48K | Check | Exact | Picture agrees 88% with the reference emulator |
 | Side Arms (1988)(Go!) | z80 | 48K | Good | Exact | Picture matches the reference emulator |
 | Side Arms (1988)(Go!)[a2] | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Side Arms (1988)(Go!)[a] | tzx | 48K | Good | Exact | Shows the same pictures as the reference emulator, at a different moment |
-| Side Arms (1988)(Kixx)[re-release] | tzx | 48K | Good | Exact | Picture matches the reference emulator |
+| Side Arms (1988)(Kixx)[re-release] | tzx | 48K | Good | Exact | Shows the same pictures as the reference emulator, at a different moment |
 | Sideral War (1989)(Delta Software)(ES)[a] | tzx | 48K | Good | Exact | Matches the reference emulator over a three minute run |
 | Sideral War (1990)(Delta Software) | z80 | 48K | Good | Exact | Picture matches the reference emulator |
 | Sideral War (1990)(Delta Software)[128K] | tap | 128K | Good | Exact | Picture matches the reference emulator |
@@ -1225,7 +1225,7 @@ Page 16 of 20. What the words mean is on the [main page](../COMPATIBILITY.md).
 | Sky High Stuntman (1991)(Codemasters) | z80 | 48K | Good | Exact | Picture matches the reference emulator |
 | Sky High Stuntman (1991)(Codemasters)[48-128K] | tap | 128K | Good | Exact | Picture matches the reference emulator |
 | Sky High Stuntman (1991)(Codemasters)[48-128K] | tzx | 128K | Good | Exact | Picture matches the reference emulator |
-| Sky Ranger (1986)(Mastertronic) | tzx | 48K | Check | Exact | Picture agrees 69% with the reference emulator |
+| Sky Ranger (1986)(Mastertronic) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Sky Ranger (1986)(Microsphere) | tap | 48K | Good | Exact | Picture matches the reference emulator |
 | Sky Ranger (1986)(Microsphere) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Sky Ranger (1986)(Microsphere)[a] | tzx | 48K | Good | Exact | Picture matches the reference emulator |

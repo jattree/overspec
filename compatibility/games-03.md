@@ -190,9 +190,9 @@ Page 3 of 20. What the words mean is on the [main page](../COMPATIBILITY.md).
 | Bash 'n' Grab (1997)(CSSCGC) | z80 | 48K | Good | Exact | Picture matches the reference emulator |
 | Basic Rally (2005)(Master Games) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Basil - The Great Mouse Detective (1987)(Erbe Software)[48-128K][re-release] | tzx | 128K | Ahead | Exact | Runs on while the reference emulator stays on one picture |
-| Basil - The Great Mouse Detective (1987)(Erbe Software)[a][48-128K][re-release] | tzx | 128K | Good | Exact | Picture matches the reference emulator |
+| Basil - The Great Mouse Detective (1987)(Erbe Software)[a][48-128K][re-release] | tzx | 128K | Ahead | Exact | Runs on while the reference emulator stays on one picture |
 | Basil - The Great Mouse Detective (1987)(Gremlin Graphics Software) | z80 | 48K | Good | Exact | Picture matches the reference emulator |
-| Basil - The Great Mouse Detective (1987)(Gremlin Graphics Software)[48-128K] | tzx | 128K | Good | Exact | Picture matches the reference emulator |
+| Basil - The Great Mouse Detective (1987)(Gremlin Graphics Software)[48-128K] | tzx | 128K | Ahead | Exact | Runs on while the reference emulator stays on one picture |
 | Basil - The Great Mouse Detective (1987)(Gremlin Graphics Software)[a2] | z80 | 48K | Good | Exact | Picture matches the reference emulator |
 | Basil - The Great Mouse Detective (1987)(Gremlin Graphics Software)[a2][48-128K] | tzx | 128K | Ahead | Exact | Runs on while the reference emulator stays on one picture |
 | Basil - The Great Mouse Detective (1987)(Gremlin Graphics Software)[a3][48-128K] | tzx | 128K | Ahead | Exact | Runs on while the reference emulator stays on one picture |
@@ -343,7 +343,7 @@ Page 3 of 20. What the words mean is on the [main page](../COMPATIBILITY.md).
 | Battle Ships (1988)(Encore)[a] | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Battle Ships (1988)(Encore)[a] | z80 | 48K | Good | Exact | Picture matches the reference emulator |
 | Battle Ships (1988)(Encore)[h Alexander Sharov] | scl | Pentagon 128K | Good | Exact | Picture matches the reference emulator |
-| Battle Ships (1988)(MCM Software)[a][re-release] | tzx | 48K | Good | Exact | Shows the same pictures as the reference emulator, at a different moment |
+| Battle Ships (1988)(MCM Software)[a][re-release] | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Battle Ships (1988)(MCM Software)[re-release] | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Battle Ships - Modem Version (1988)(Encore)[h Fenomen] | trd | Pentagon 128K | Good | Exact | Picture matches the reference emulator |
 | Battle Stations - Guerrilla War (19xx)(Ocean)(Side A)[48-128K] | tzx | 128K | Good | Exact | Picture matches the reference emulator |
@@ -395,10 +395,10 @@ Page 3 of 20. What the words mean is on the [main page](../COMPATIBILITY.md).
 | Battlefield Germany - 2 Players (1987)(PSS) | z80 | 48K | Good | Exact | Picture matches the reference emulator |
 | Battlefield Germany - 2 Players (1987)(PSS)[a] | z80 | 48K | Good | Exact | Picture matches the reference emulator |
 | Battleships (1984)(Interface Publications)[16K] | tap | 48K | Good | Exact | Picture matches the reference emulator |
-| Batty (1987)(Encore)[re-release] | tzx | 48K | Good | Exact | Picture matches the reference emulator |
+| Batty (1987)(Encore)[re-release] | tzx | 48K | Good | Exact | Shows the same pictures as the reference emulator, at a different moment |
 | Batty (1987)(Hit-Pak) | sp | 48K | Good | Exact | Picture matches the reference emulator |
 | Batty (1987)(Hit-Pak) | tap | 48K | Good | Exact | Picture matches the reference emulator |
-| Batty (1987)(Hit-Pak) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
+| Batty (1987)(Hit-Pak) | tzx | 48K | Good | Exact | Matches the reference emulator over a three minute run |
 | Batty (1987)(Hit-Pak) | z80 | 48K | Good | Exact | Picture matches the reference emulator |
 | Batty (1987)(Hit-Pak)[a2] | z80 | 48K | Good | Exact | Picture matches the reference emulator |
 | Batty (1987)(Hit-Pak)[a3] | z80 | 48K | Good | Exact | Picture matches the reference emulator |
@@ -479,7 +479,7 @@ Page 3 of 20. What the words mean is on the [main page](../COMPATIBILITY.md).
 | Beach-Head II - The Dictator Strikes Back! (1986)(U.S. Gold)[a] | tap | 48K | Good | Exact | Picture matches the reference emulator |
 | Beach-Head II - The Dictator Strikes Back! (1986)(U.S. Gold)[a] | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Beach-Head II - The Dictator Strikes Back! (1986)(U.S. Gold)[a] | z80 | 48K | Good | Exact | Picture matches the reference emulator |
-| Beach-Head II - The Dictator Strikes Back! (1986)(U.S. Gold)[cr Alexandros] | tzx | 48K | Good | Exact | Picture matches the reference emulator |
+| Beach-Head II - The Dictator Strikes Back! (1986)(U.S. Gold)[cr Alexandros] | tzx | 48K | Differs | Exact | Stays on the cracker's screen in this build: its sync pulse is right on its loader's limit |
 | Beach-Head II - The Dictator Strikes Back! (1986)(U.S. Gold)[cr Nikola Popevic] | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Beach-Head II - The Dictator Strikes Back! (1988)(Dro Soft)[re-release] | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Beaky and the Egg Snatchers (1984)(Fantasy Software) | tap | 48K | Good | Exact | Picture matches the reference emulator |
@@ -898,7 +898,7 @@ Page 3 of 20. What the words mean is on the [main page](../COMPATIBILITY.md).
 | Black Lamp (1988)(Firebird Software)[a2] | z80 | 48K | Good | Exact | Picture matches the reference emulator |
 | Black Lamp (1988)(Firebird Software)[a3] | z80 | 48K | Good | Exact | Matches the reference emulator over a three minute run |
 | Black Lamp (1988)(Firebird Software)[a] | z80 | 48K | Good | Exact | Picture matches the reference emulator |
-| Black Lamp (1988)(Firebird Software)[a][48-128K] | tzx | 128K | Check | Exact | Picture agrees 62% with the reference emulator |
+| Black Lamp (1988)(Firebird Software)[a][48-128K] | tzx | 128K | Check | Exact | Picture agrees 61% with the reference emulator |
 | Black Lamp (1988)(Firebird Software)[cr][48-128K] | tap | 128K | Good | Exact | Picture matches the reference emulator |
 | Black Lamp (1988)(MCM Software)[48-128K][re-release] | tzx | 128K | Good | Exact | Picture matches the reference emulator |
 | Black Magic (1987)(U.S. Gold) | tap | 48K | Good | Exact | Picture matches the reference emulator |
@@ -1319,7 +1319,7 @@ Page 3 of 20. What the words mean is on the [main page](../COMPATIBILITY.md).
 | Bomb Jack II (1987)(Elite Systems)[a7] | z80 | 48K | Good | Exact | Picture matches the reference emulator |
 | Bomb Jack II (1987)(Elite Systems)[a] | z80 | 48K | Good | Exact | Picture matches the reference emulator |
 | Bomb Jack II (1987)(Encore)[re-release] | tzx | 48K | Good | Exact | Shows the same pictures as the reference emulator, at a different moment |
-| Bomb Jack II (1987)(Zafi Chip)[re-release] | tzx | 48K | Good | Exact | Picture matches the reference emulator |
+| Bomb Jack II (1987)(Zafi Chip)[re-release] | tzx | 48K | Good | Exact | Shows the same pictures as the reference emulator, at a different moment |
 | Bomba (19xx)(-)(hu)[16K] | z80 | 48K | Good | Exact | Picture matches the reference emulator |
 | Bombarder (1987)(Kamasoft)(sk)[16K] | tap | 48K | Good | Exact | Picture matches the reference emulator |
 | Bombarder (1987)(Kamasoft)(sk)[16K] | tzx | 48K | Good | Exact | Picture matches the reference emulator |

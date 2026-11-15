@@ -20,7 +20,7 @@ Page 13 of 20. What the words mean is on the [main page](../COMPATIBILITY.md).
 | Munsters, The (1989)(Again Again)[a3] | tzx | 48K | Ahead | Exact | Runs on while the reference emulator stays on one picture |
 | Munsters, The (1989)(Again Again)[a] | tap | 48K | Good | Exact | Picture matches the reference emulator |
 | Munsters, The (1989)(Again Again)[a] | tzx | 48K | Ahead | Exact | Runs on while the reference emulator stays on one picture |
-| Munsters, The (1989)(System 4)[re-release] | tzx | 48K | Check | Exact | Picture agrees 57% with the reference emulator |
+| Munsters, The (1989)(System 4)[re-release] | tzx | 48K | Ahead | Exact | Runs on while the reference emulator stays on one picture |
 | Murder (1983)(Rabbit Software) | tap | 48K | Good | Exact | Picture matches the reference emulator |
 | Murder (1983)(Rabbit Software) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Murder (1983)(Rabbit Software) | z80 | 48K | Good | Exact | Picture matches the reference emulator |
@@ -619,13 +619,13 @@ Page 13 of 20. What the words mean is on the [main page](../COMPATIBILITY.md).
 | Nightmare (1986)(K'Soft)[a] | z80 | 48K | Good | Exact | Picture matches the reference emulator |
 | Nightmare (1986)(The Guild) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Nightmare Park (19xx)(Aackosoft)[16K] | tzx | 48K | Good | Exact | Picture matches the reference emulator |
-| Nightmare Rally (1986)(Erbe Software)[a][re-release] | tzx | 48K | Differs | Exact | Picture agrees only 22% with the reference emulator |
-| Nightmare Rally (1986)(Erbe Software)[re-release] | tzx | 48K | Differs | Exact | Picture agrees only 22% with the reference emulator |
+| Nightmare Rally (1986)(Erbe Software)[a][re-release] | tzx | 48K | Good | Exact | Matches the reference emulator over a three minute run |
+| Nightmare Rally (1986)(Erbe Software)[re-release] | tzx | 48K | Good | Exact | Matches the reference emulator over a three minute run |
 | Nightmare Rally (1986)(Ocean) | sp | 48K | Good | Exact | Picture matches the reference emulator |
 | Nightmare Rally (1986)(Ocean) | tap | 48K | Good | Exact | Picture matches the reference emulator |
-| Nightmare Rally (1986)(Ocean) | tzx | 48K | Check | Exact | Picture agrees 87% with the reference emulator |
+| Nightmare Rally (1986)(Ocean) | tzx | 48K | Good | Exact | Matches the reference emulator over a three minute run |
 | Nightmare Rally (1986)(Ocean) | z80 | 48K | Good | Exact | Picture matches the reference emulator |
-| Nightmare Rally (1986)(Ocean)[a] | tzx | 48K | Check | Exact | Picture agrees 87% with the reference emulator |
+| Nightmare Rally (1986)(Ocean)[a] | tzx | 48K | Good | Exact | Matches the reference emulator over a three minute run |
 | Nightshade (1985)(Ultimate Play The Game) | tap | 48K | Good | Exact | Picture matches the reference emulator |
 | Nightshade (1985)(Ultimate Play The Game) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Nightshade (1985)(Ultimate Play The Game) | z80 | 48K | Good | Exact | Picture matches the reference emulator |
@@ -1361,7 +1361,7 @@ Page 13 of 20. What the words mean is on the [main page](../COMPATIBILITY.md).
 | P.H.M. Pegasus (1988)(Dro Soft)[re-release] | tzx | 48K | Check | Exact | The reference emulator gets further in the same time |
 | P.H.M. Pegasus (1988)(Electronic Arts) | dsk | +3 | Good | Exact | Picture matches the reference emulator |
 | P.H.M. Pegasus (1988)(Electronic Arts) | tap | 48K | Good | Exact | Picture matches the reference emulator |
-| P.H.M. Pegasus (1988)(Electronic Arts) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
+| P.H.M. Pegasus (1988)(Electronic Arts) | tzx | 48K | Differs | Exact | Does not start in this build: it decrypts itself with what an unattached port returns when loading ends |
 | P.H.M. Pegasus (1988)(Electronic Arts) | z80 | 48K | Good | Exact | Picture matches the reference emulator |
 | P.H.M. Pegasus (1988)(Electronic Arts)[a] | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Pac-Land (1989)(Grandslam Entertainments) | dsk | +3 | Good | Exact | Picture matches the reference emulator |

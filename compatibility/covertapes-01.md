@@ -235,7 +235,7 @@ Page 1 of 2. What the words mean is on the [main page](../COMPATIBILITY.md).
 | Battle on Hoth (1983)(Your Computer) | z80 | 48K | Good | Exact | Picture matches the reference emulator |
 | Battle on Hoth (1983)(Your Computer)[a] | z80 | 48K | Good | Exact | Picture matches the reference emulator |
 | Battle Ships (1992)(Encore - Sinclair User)[password MARINE] | tzx | 48K | Good | Exact | Picture matches the reference emulator |
-| Batty (1987)(Hit-Pak - Your Sinclair) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
+| Batty (1987)(Hit-Pak - Your Sinclair) | tzx | 48K | Good | Exact | Matches the reference emulator over a three minute run |
 | Beacon Adventure (1984)(Sinclair User)[16K] | tap | 48K | Good | Exact | Picture matches the reference emulator |
 | Bear a Grudge (1988)(Sinclair User) | tap | 48K | Good | Exact | Picture matches the reference emulator |
 | Bear a Grudge (1988)(Sinclair User) | z80 | 48K | Good | Exact | Picture matches the reference emulator |
@@ -1079,9 +1079,9 @@ Page 1 of 2. What the words mean is on the [main page](../COMPATIBILITY.md).
 | Herbert's Dummy Run Competition (1985)(16-48 Tape Magazine)[a] | z80 | 48K | Good | Exact | Picture matches the reference emulator |
 | Hero Quest (demo) (1991)(Gremlin Graphics Software - Crash) | tap | 48K | Good | Exact | Picture matches the reference emulator |
 | Hero Quest (demo) (1991)(Gremlin Graphics Software - Crash) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
-| Hexcellent (1993)(Your Sinclair) | tzx | 48K | Check | Exact | Picture agrees 68% with the reference emulator |
+| Hexcellent (1993)(Your Sinclair) | tzx | 48K | Good | Exact | Shows the same pictures as the reference emulator, at a different moment |
 | Hexcellent (1993)(Your Sinclair) | z80 | 48K | Good | Exact | Picture matches the reference emulator |
-| Hexcellent (1993)(Your Sinclair)[a] | tzx | 48K | Check | Exact | Picture agrees 69% with the reference emulator |
+| Hexcellent (1993)(Your Sinclair)[a] | tzx | 48K | Good | Exact | Shows the same pictures as the reference emulator, at a different moment |
 | Highway Encounter (1991)(Vortex Software - Sinclair User) | tzx | 48K | Check | Exact | Picture agrees 65% with the reference emulator |
 | Hiperynto (1985)(MicroHobby)(es) | z80 | 48K | Good | Exact | Picture matches the reference emulator |
 | Hobby Suerte - Maquina (1985)(MicroHobby)(es) | tap | 48K | Good | Exact | Picture matches the reference emulator |
@@ -1388,7 +1388,7 @@ Page 1 of 2. What the words mean is on the [main page](../COMPATIBILITY.md).
 | MicroHobby - Issue 205 - Tape 31 (1990)(MicroHobby)(es)(Side B) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | MicroHobby - Issue 205 - Tape 32 (1990)(MicroHobby)(es)(Side A) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | MicroHobby - Issue 205 - Tape 32 (1990)(MicroHobby)(es)(Side B) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
-| MicroHobby - Issue 206 - Tape 33 (1991)(MicroHobby)(es)(Side A) | tzx | 48K | Differs | Exact | Picture agrees only 11% with the reference emulator |
+| MicroHobby - Issue 206 - Tape 33 (1991)(MicroHobby)(es)(Side A) | tzx | 48K | Check | Exact | The reference emulator gets further in the same time |
 | MicroHobby - Issue 206 - Tape 33 (1991)(MicroHobby)(es)(Side B) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | MicroHobby - Issue 207 - Tape 34 (1991)(MicroHobby)(es)(Side A) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | MicroHobby - Issue 207 - Tape 34 (1991)(MicroHobby)(es)(Side B) | tzx | 48K | Good | Exact | Picture matches the reference emulator |

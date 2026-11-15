@@ -199,7 +199,7 @@ Page 8 of 20. What the words mean is on the [main page](../COMPATIBILITY.md).
 | Freex (1984)(Software Super Savers) | tap | 48K | Good | Exact | Picture matches the reference emulator |
 | Freex (1984)(Software Super Savers) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Freex (1984)(Software Super Savers) | z80 | 48K | Good | Exact | Picture matches the reference emulator |
-| Freex (1985)(Software Super Savers) | tzx | 48K | Ahead | Exact | Gets further than the reference emulator in the same time |
+| Freex (1985)(Software Super Savers) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Freez'Bees (1984)(Prism Leisure)[re-release] | tzx | 48K | Check | Exact | Picture agrees 85% with the reference emulator |
 | Freez'Bees (1984)(Silversoft) | tap | 48K | Check | Exact | Picture agrees 85% with the reference emulator |
 | Freez'Bees (1984)(Silversoft) | tzx | 48K | Check | Exact | Picture agrees 85% with the reference emulator |
@@ -226,7 +226,7 @@ Page 8 of 20. What the words mean is on the [main page](../COMPATIBILITY.md).
 | Friday the 13th (1986)(Domark)[a] | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Friday the 13th (1986)(Domark)[a] | z80 | 48K | Good | Exact | Picture matches the reference emulator |
 | Friday the 13th (1986)(Z Cobra)[re-release][aka Viernes 13] | tzx | 48K | Good | Exact | Picture matches the reference emulator |
-| Fridge Frenzy (1985)(Bug-Byte Software) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
+| Fridge Frenzy (1985)(Bug-Byte Software) | tzx | 48K | Check | Exact | Picture agrees 77% with the reference emulator |
 | Fridge Frenzy (1985)(Bug-Byte Software) | z80 | 48K | Check | Exact | The reference emulator gets further in the same time |
 | Fridge Frenzy (1985)(Bug-Byte Software)[a2] | z80 | 48K | Good | Exact | Picture matches the reference emulator |
 | Fridge Frenzy (1985)(Bug-Byte Software)[a] | z80 | 48K | Good | Exact | Picture matches the reference emulator |
@@ -317,7 +317,7 @@ Page 8 of 20. What the words mean is on the [main page](../COMPATIBILITY.md).
 | Froot Loop (1984)(Ntd Software) | tap | 48K | Good | Exact | Picture matches the reference emulator |
 | Froot Loop (1984)(Ntd Software) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Frosch (19xx)(-)(de) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
-| Frost Byte (1986)(Erbe Software) | tzx | 48K | Differs | Exact | Picture agrees only 9% with the reference emulator |
+| Frost Byte (1986)(Erbe Software) | tzx | 48K | Ahead | Exact | Gets further than the reference emulator in the same time |
 | Frost Byte (1986)(IBSA) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Frost Byte (1986)(Mikro-Gen) | tap | 48K | Good | Exact | Picture matches the reference emulator |
 | Frost Byte (1986)(Mikro-Gen) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
@@ -475,7 +475,7 @@ Page 8 of 20. What the words mean is on the [main page](../COMPATIBILITY.md).
 | G-LOC (1992)(Erbe Software)[128K][re-release] | tzx | 128K | Good | Exact | Shows the same pictures as the reference emulator, at a different moment |
 | G-LOC (1992)(U.S. Gold)(Side A) | dsk | +3 | Good | Exact | Picture matches the reference emulator |
 | G-LOC (1992)(U.S. Gold)(Side B) | dsk | +3 | Good | Exact | Shows the same pictures as the reference emulator, at a different moment |
-| G-LOC (1992)(U.S. Gold)[128K] | tzx | 128K | Good | Exact | Picture matches the reference emulator |
+| G-LOC (1992)(U.S. Gold)[128K] | tzx | 128K | Good | Exact | Matches the reference emulator over a three minute run |
 | G-LOC (1992)(U.S. Gold)[128K] | z80 | 128K | Good | Exact | Picture matches the reference emulator |
 | G-LOC (1992)(U.S. Gold)[128K][needs tape load] | z80 | 128K | Good | Exact | Picture matches the reference emulator |
 | G-LOC (1992)(U.S. Gold)[cr Torasoft][t Torasoft][128K] | tap | 128K | Good | Exact | Picture matches the reference emulator |
@@ -529,7 +529,7 @@ Page 8 of 20. What the words mean is on the [main page](../COMPATIBILITY.md).
 | Galakzions (1983)(Mikro-Gen)[a2][16K] | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Galakzions (1983)(Mikro-Gen)[a3][16K] | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Galakzions (1983)(Mikro-Gen)[a][16K] | tzx | 48K | Good | Exact | Picture matches the reference emulator |
-| Galaxian (1984)(Atarisoft) | tzx | 48K | Check | Exact | Picture agrees 88% with the reference emulator |
+| Galaxian (1984)(Atarisoft) | tzx | 48K | Good | Exact | Matches the reference emulator over a three minute run |
 | Galaxian (1984)(Atarisoft) | z80 | 48K | Good | Exact | Picture matches the reference emulator |
 | Galaxian (1984)(Atarisoft)[a2] | z80 | 48K | Good | Exact | Picture matches the reference emulator |
 | Galaxian (1984)(Atarisoft)[a] | z80 | 48K | Good | Exact | Picture matches the reference emulator |
@@ -660,10 +660,10 @@ Page 8 of 20. What the words mean is on the [main page](../COMPATIBILITY.md).
 | Games, The - Summer Edition (1989)(Erbe Software)[re-release] | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Games, The - Winter Edition (1988)(Erbe Software)[128K][re-release] | tzx | 128K | Good | Exact | Picture matches the reference emulator |
 | Games, The - Winter Edition (1988)(Erbe Software)[re-release] | tzx | 48K | Good | Exact | Picture matches the reference emulator |
-| Games, The - Winter Edition (1988)(Kixx)[128K][re-release] | tzx | 128K | Check | Exact | Picture agrees 72% with the reference emulator |
-| Games, The - Winter Edition (1988)(Kixx)[re-release] | tzx | 48K | Check | Exact | Picture agrees 72% with the reference emulator |
+| Games, The - Winter Edition (1988)(Kixx)[128K][re-release] | tzx | 128K | Good | Exact | Matches the reference emulator over a three minute run |
+| Games, The - Winter Edition (1988)(Kixx)[re-release] | tzx | 48K | Good | Exact | Matches the reference emulator over a three minute run |
 | Games, The - Winter Edition (1988)(U.S. Gold) | tap | 48K | Good | Exact | Picture matches the reference emulator |
-| Games, The - Winter Edition (1988)(U.S. Gold) | tzx | 48K | Check | Exact | Picture agrees 72% with the reference emulator |
+| Games, The - Winter Edition (1988)(U.S. Gold) | tzx | 48K | Good | Exact | Matches the reference emulator over a three minute run |
 | Games, The - Winter Edition (1988)(U.S. Gold)[128K] | tzx | 128K | Good | Exact | Matches the reference emulator over a three minute run |
 | Games, The - Winter Edition (1988)(U.S. Gold)[a] | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Gangplank (1987)(Pirate Software) | tap | 48K | Good | Exact | Picture matches the reference emulator |
@@ -898,7 +898,7 @@ Page 8 of 20. What the words mean is on the [main page](../COMPATIBILITY.md).
 | Ghostbusters II (1989)(Activision)[cr Saposoftware][t][128K] | tap | 128K | Good | Exact | Picture matches the reference emulator |
 | Ghostbusters II (1989)(Activision)[t][48-128K] | tap | 128K | Good | Exact | Picture matches the reference emulator |
 | Ghostbusters II (1989)(Activision)[t][48-128K] | tzx | 128K | Good | Exact | Picture matches the reference emulator |
-| Ghostbusters II (1989)(The Hit Squad)[48-128K][re-release] | tzx | 128K | Check | Exact | Picture agrees 87% with the reference emulator |
+| Ghostbusters II (1989)(The Hit Squad)[48-128K][re-release] | tzx | 128K | Good | Exact | Matches the reference emulator over a three minute run |
 | Ghostly Grange (1987)(Sparklers) | tap | 48K | Good | Exact | Picture matches the reference emulator |
 | Ghostly Grange (1987)(Sparklers) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Ghostly Grange (1987)(Sparklers) | z80 | 48K | Good | Exact | Picture matches the reference emulator |
@@ -1286,8 +1286,8 @@ Page 8 of 20. What the words mean is on the [main page](../COMPATIBILITY.md).
 | Goolf's Return (1984)(Green Fish Software Enterprise) | tap | 48K | Good | Exact | Picture matches the reference emulator |
 | Goolf's Return (1984)(Green Fish Software Enterprise) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Goolf's Return (1984)(Green Fish Software Enterprise) | z80 | 48K | Good | Exact | Picture matches the reference emulator |
-| Goonies, The (1986)(Erbe Software)[a][re-release] | tzx | 48K | Good | Exact | Picture matches the reference emulator |
-| Goonies, The (1986)(Erbe Software)[re-release] | tzx | 48K | Check | Exact | Picture agrees 54% with the reference emulator |
+| Goonies, The (1986)(Erbe Software)[a][re-release] | tzx | 48K | Good | Exact | Shows the same pictures as the reference emulator, at a different moment |
+| Goonies, The (1986)(Erbe Software)[re-release] | tzx | 48K | Good | Exact | Shows the same pictures as the reference emulator, at a different moment |
 | Goonies, The (1986)(U.S. Gold) | tap | 48K | Good | Exact | Picture matches the reference emulator |
 | Goonies, The (1986)(U.S. Gold) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Goonies, The (1986)(U.S. Gold) | z80 | 48K | Good | Exact | Picture matches the reference emulator |

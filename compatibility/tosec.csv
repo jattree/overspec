@@ -130,7 +130,7 @@ title,category,format,machine,result,restore,detail,sha256
 10 Great Games - Bounder + Footballer of the Year (1988)(Gremlin Graphics Software),Compilations,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,a5d25eabe343ae29ca9f8fe7dd4e1a24d00ce227b2957358624ce1f056a841ed
 10 Great Games - Trailblazer + Highway Encounter + Monty on the Run (1988)(Gremlin Graphics Software)[48-128K],Compilations,tzx,Spectrum 128K,Good,Exact,Picture matches the reference emulator,4ba8f3063c2e20d25da3212e80e0d9ca6f2d7e02e6152157fdfcd873b983e111
 10 Great Games - West Bank + Jack the Nipper (1988)(Gremlin Graphics Software),Compilations,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,ec34ce95bc424e2e34594c22c58ed3fed2ea95938ae2a1d7e4f19466e06e5862
-10 Great Games II - Basil - The Great Mouse Detective + Mask (1988)(Gremlin Graphics Software)[48-128K],Compilations,tzx,Spectrum 128K,Good,Exact,Picture matches the reference emulator,0196c8ddd46ba03d97fe0596f2be05a05e495b85159aa2658d5ed39662f915fa
+10 Great Games II - Basil - The Great Mouse Detective + Mask (1988)(Gremlin Graphics Software)[48-128K],Compilations,tzx,Spectrum 128K,Ahead,Exact,Runs on while the reference emulator stays on one picture,0196c8ddd46ba03d97fe0596f2be05a05e495b85159aa2658d5ed39662f915fa
 10 Great Games II - Death Wish 3 + The Final Matrix + Convoy Raider + Samurai Trilogy (1988)(Gremlin Graphics Software)[48-128K],Compilations,tzx,Spectrum 128K,Good,Exact,Picture matches the reference emulator,f5da0d7fee825bb7545fb4c1793228e00f3095f130685d581260a877488632ae
 10 Great Games II - Jack the Nipper II - In Coconut Capers (1988)(Gremlin Graphics Software),Compilations,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,14f0819edcf1fe3f850a953b48e3154f32e06713ced88025ce80a078fc0153c3
 10 Great Games II - The Duct + Thing Bounces Back + Auf Wiedersehen Monty (1988)(Gremlin Graphics Software)[48-128K],Compilations,tzx,Spectrum 128K,Good,Exact,Picture matches the reference emulator,c07b6add7d087ba08b1666ee92b943729c70ce9c8d56d45e40a0d785e3c1a5c5
@@ -435,8 +435,8 @@ title,category,format,machine,result,restore,detail,sha256
 1998 Demo 2 (1998)(Hooy-Program)[128K],Demos,tap,Spectrum 128K,Good,Exact,Picture matches the reference emulator,5570279d09009711f14bae69f983a2d2b948bb6e2c94213fd7ecb3c2b368c802
 1999 (1987)(Alternative Software),Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,b5c173f103dd4ff5417fc11581e363396cee1c13d225bccd345619cc592d3486
 1999 (1987)(Alternative Software),Games,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,1b14a35d0a008f5f153e971f780a130d3e7b8b7848c94b004b1423e9966f7c59
-1999 (1987)(Alternative Software)[a2],Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,4d11b13ad5c9c4b5b406db0bef11a89a4870f1f9f6e190024d3cfd01ce973b86
-1999 (1987)(Alternative Software)[a],Games,tzx,Spectrum 48K,Differs,Exact,Picture agrees only 1% with the reference emulator,4e10537a1fd88b034fb6f110df6816bc139a9f7e2bb31eeda70f98ab14c25acb
+1999 (1987)(Alternative Software)[a2],Games,tzx,Spectrum 48K,Ahead,Exact,Runs on while the reference emulator stays on one picture,4d11b13ad5c9c4b5b406db0bef11a89a4870f1f9f6e190024d3cfd01ce973b86
+1999 (1987)(Alternative Software)[a],Games,tzx,Spectrum 48K,Ahead,Exact,Runs on while the reference emulator stays on one picture,4e10537a1fd88b034fb6f110df6816bc139a9f7e2bb31eeda70f98ab14c25acb
 1999 (1987)(Alternative Software)[a],Games,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,a8d7cc7c716ce60d921f94efb223d172384c831df7249e8998c8893a1fa0c596
 1999 (1987)(Alternative Software)[h Prophecy],Games,scl,Pentagon 128K,Good,Exact,Picture matches the reference emulator,9da83206ddffc8640a5e81adc0b97240316518193150d0da7dfc648ec47b0e17
 1D Tetris (1998)(CSSCGC),Games,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,27676eea67808da5db4be2742ce0670f8e1d401fd107043407c0a8fd4739022e
@@ -512,7 +512,7 @@ title,category,format,machine,result,restore,detail,sha256
 2112 AD (1985)(Design Design Software)[a8],Games,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,145867d4df8dc959d425c2e80afdcc9c34c43d7ef141dbccccec7bf4b7939044
 2112 AD (1985)(Design Design Software)[a],Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,954b80f7930fb1182024f0cd484a2c2409189c6dc59286ac3c184db94d251a40
 2112 AD (1985)(Design Design Software)[a],Games,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,89abea47b7f15b971353d89fa68f72472d610041ff5a1fe86eb444687d1f77e9
-2112 AD (1985)(Design Design Software)[b],Games,tzx,Spectrum 48K,Differs,Exact,Picture agrees only 8% with the reference emulator,51c1f3d9076a0346b246eb9e29e825f83a0879ce4dfda6bc7d5f44647bf0bc64
+2112 AD (1985)(Design Design Software)[b],Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,51c1f3d9076a0346b246eb9e29e825f83a0879ce4dfda6bc7d5f44647bf0bc64
 2112 AD (1991)(Design Design Software - Crash),Covertapes,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,5a567f1e30bc273d321a44748d2c43de7ae1ad62244da260b7ded4790fa80e09
 2112 AD (1992)(Design Design Software - Your Sinclair),Covertapes,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,0e351252484ee631ac5013f52d2c6adf5fc850c7a466d224aa37cd03578603d6
 2D Game Maker (1987)(CRL Group),Applications,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,59971cef19acba9c01f1de0b88ee1ec9df0cdbd97cf4b1998437b4324769bdea
@@ -927,7 +927,7 @@ title,category,format,machine,result,restore,detail,sha256
 4-Most Fight & Fright - Who Dares Wins II + Aliens US (1991)(Alternative Software),Compilations,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,f842b4facd3bc3a434a09e1d3fa7f2e73fa6f26e51365423c9bb4f6ebfcbcfa0
 4-Most Fun - Everyone's a Wally + Rik the Roadie (1991)(Alternative Software),Compilations,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,e2718a6d96c7829bd6eb5d9a23703aa7b0acb8dd564818197f7b1175aa09791a
 4-Most Fun - Slug + Bargain Basement (1991)(Alternative Software),Compilations,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,a4e8add6d8ca809950a02e7851bf590e926f62d7f23f01d76020e527949456ea
-4-Most Horror (1991)(Alternative Software),Compilations,tzx,Spectrum 48K,Check,Exact,Picture agrees 68% with the reference emulator,b4aefdfa5761f9a0618a3e10ec650cffb1d173ed5b52e418a25fcc2a2f2afaac
+4-Most Horror (1991)(Alternative Software),Compilations,tzx,Spectrum 48K,Ahead,Exact,Runs on while the reference emulator stays on one picture,b4aefdfa5761f9a0618a3e10ec650cffb1d173ed5b52e418a25fcc2a2f2afaac
 4-Most Horror - Mr. Weems and the She Vampires + N.E.I.L. Android (1991)(Alternative Software),Compilations,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,c5610050c583bc6adc79635926fd7810c74bd2de39d36833a90c2618eeb260f8
 4-Most Horror - The Rocky Horror Show + Nosferatu the Vampyre (1991)(Alternative Software),Compilations,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,106d02f8a6eac3bb9cead191c00a01be63051069ea0adee4072798e4e62ee599
 4-Most Megaheros - Dandy + Freddy Hardest (1991)(Alternative Software),Compilations,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,193135ca2dd7d7da99d40fca91a1f86c84b92115a5fafdf04608ff9b65996813
@@ -1098,7 +1098,7 @@ title,category,format,machine,result,restore,detail,sha256
 911 TS (1985)(Elite Systems)[a],Games,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,fdbf98abacffc3a9f7f89630e72d5c0ec7affd3527f04a227ffb3306e1113cc7
 911 TS (1985)(Elite Systems)[h],Games,scl,Pentagon 128K,Good,Exact,Picture matches the reference emulator,da4b692b52371661d8d5cca5a8d8d50b4592a3f856b45541c3532a9536bc781d
 99Y (1986)(UK Lead)(sv),Games,tap,Spectrum 48K,Good,Exact,Picture matches the reference emulator,7f5ea52b36473caa89e0c1d8777ea4902461c8b1a3a1ed88198dffec6910e377
-A Day in the Life (1985)(Micromega),Games,tzx,Spectrum 48K,Differs,Exact,Picture agrees only 10% with the reference emulator,0114e6e7830b335143a8fe2dbd397f420999732d7737ab85980bd73a974ba342
+A Day in the Life (1985)(Micromega),Games,tzx,Spectrum 48K,Check,Exact,The reference emulator gets further in the same time,0114e6e7830b335143a8fe2dbd397f420999732d7737ab85980bd73a974ba342
 A Day in the Life (1985)(Micromega),Games,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,d25bf6f42562a5618fdf337a1b3f5718d3cfd1cdee82cf7b99da6699ba3f4364
 A Day in the Life (1985)(Micromega)[a2],Games,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,b6de1b2f9a353fa2c3624cd096d91ab83c03cd491981b05bde91d806bc8fba97
 A Day in the Life (1985)(Micromega)[a3],Games,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,8206ba6820ecf1abbcdd28077370379140c1911b300060486f60fc6501a9a2e4
@@ -1320,16 +1320,16 @@ Abu Simbel Profanation (1985)(Dinamic Software)(es),Games,tap,Spectrum 48K,Good,
 Abu Simbel Profanation (1985)(Dinamic Software)(es),Games,tzx,Spectrum 48K,Check,Exact,The reference emulator gets further in the same time,880c686f0cd96349219c98ac04d651b7e6d4c3b36f569bad92c34a84d34ab2ec
 Abu Simbel Profanation (1985)(Dinamic Software)(es),Games,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,7aa9191bf3c9b57a35ffdabfecb1e57eb168116c30b60901c216fbf2d9b750d8
 Abu Simbel Profanation (1985)(Dinamic Software)(es)[a2],Games,tzx,Spectrum 48K,Check,Exact,Picture agrees 88% with the reference emulator,d2d9bdddbf3a31a0d653557e9ddeefa2241fd002a0b62b51a675098c24138d26
-Abu Simbel Profanation (1985)(Dinamic Software)(ES)[a3],Games,tzx,Spectrum 48K,Check,Exact,Picture agrees 73% with the reference emulator,0f791affcd2e66603565db5983461df4dea3da0a1d72cf4850777d153da63988
+Abu Simbel Profanation (1985)(Dinamic Software)(ES)[a3],Games,tzx,Spectrum 48K,Check,Exact,The reference emulator gets further in the same time,0f791affcd2e66603565db5983461df4dea3da0a1d72cf4850777d153da63988
 Abu Simbel Profanation (1985)(Dinamic Software)(es)[a],Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,27a81cfc0ccf3c0167108d1ec918df0eba9246e966a74af0e1ebc14426d8ec72
 Abu Simbel Profanation (1985)(Dinamic Software)(es)[a],Games,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,465a33ca98585691577169c2e85c2aa0b1dc14799999423111632c19ac234c2f
-Abu Simbel Profanation (1986)(Erbe Software)(ES)[a][re-release],Games,tzx,Spectrum 48K,Check,Exact,Picture agrees 73% with the reference emulator,4df44ca4ea83b1f14bc7aade291865c2a475a280687681fc2bef57b74a62f656
+Abu Simbel Profanation (1986)(Erbe Software)(ES)[a][re-release],Games,tzx,Spectrum 48K,Check,Exact,The reference emulator gets further in the same time,4df44ca4ea83b1f14bc7aade291865c2a475a280687681fc2bef57b74a62f656
 Abu Simbel Profanation (1986)(Erbe Software)(es)[re-release],Games,tzx,Spectrum 48K,Good,Exact,"Shows the same pictures as the reference emulator, at a different moment",3675b7f9613c692d6f6618568f5b396ab518a88e02509bd259a168cd9a3eee15
 Abu Simbel Profanation (1987)(Dinamic Software)(ES),Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,34674016c7fadd4d3158dc83bea1ea61588da2c155835c0dda45cf25a09f797c
 Abu Simbel Profanation (1987)(Dinamic Software)(es)[t],Games,sp,Spectrum 48K,Good,Exact,Picture matches the reference emulator,5e0968756ef9b4b6cd467a248b2ab364ae5865391cdd9e35bd0a1d3b94be6aad
 Abu Simbel Profanation (1987)(Gremlin Graphics Software)[a2][re-release],Games,tap,Spectrum 48K,Good,Exact,Picture matches the reference emulator,1327f5ac950c47fa1f0fef9b29c8b1104ee66ffad62c9dd6d710d619608bd22b
 Abu Simbel Profanation (1987)(Gremlin Graphics Software)[a][re-release],Games,tap,Spectrum 48K,Good,Exact,Picture matches the reference emulator,2f66867b337259873bb815698dc2589ecee376731e88c8ae0c4a78b0a9d0d60d
-Abu Simbel Profanation (1987)(Gremlin Graphics Software)[a][re-release],Games,tzx,Spectrum 48K,Check,Exact,Picture agrees 73% with the reference emulator,e432970008051bfab054996b1dba252baa5e6956300ccd4ee8a55731039f4527
+Abu Simbel Profanation (1987)(Gremlin Graphics Software)[a][re-release],Games,tzx,Spectrum 48K,Check,Exact,The reference emulator gets further in the same time,e432970008051bfab054996b1dba252baa5e6956300ccd4ee8a55731039f4527
 Abu Simbel Profanation (1987)(Gremlin Graphics Software)[a][re-release],Games,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,0c7f9cd31d597ab26e2c050fdfc1ae97f82e1a631541b253caab9c55c1c002c8
 Abu Simbel Profanation (1987)(Gremlin Graphics Software)[re-release],Games,tap,Spectrum 48K,Good,Exact,Picture matches the reference emulator,d608e9b5a5a50eb90e94e9e0ec83e730add1cfcb787aaa3028597cc229e8f250
 Abu Simbel Profanation (1987)(Gremlin Graphics Software)[re-release],Games,tzx,Spectrum 48K,Check,Exact,Picture agrees 62% with the reference emulator,cf06d55c77c52cedcef2a4e2842eb32616616a9b330aa3ae7e353990cfefe284
@@ -1778,7 +1778,7 @@ Adventure F - The Eye of Bain (1984)(Artic Computing)[a3],Games,z80,Spectrum 48K
 Adventure F - The Eye of Bain (1984)(Artic Computing)[a4],Games,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,39689c1be554d095573ce23671598bb06aa7def282eca646bd7d57061afca60d
 Adventure F - The Eye of Bain (1984)(Artic Computing)[a],Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,55f1259791d707aa2e6136cec5659584b75e70cdd5004fc33f1a2ba2cd73640d
 Adventure F - The Eye of Bain (1984)(Artic Computing)[a],Games,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,9e3109c733071dbc4be36715fc16e92736dce6ae735cb0d8e0bf95133e6eff3e
-Adventure F - The Eye of Bain (1984)(Artic Computing)[b],Games,tzx,Spectrum 48K,Check,Exact,Picture agrees 85% with the reference emulator,3e8d8c8b4b6632ae393bf8f5a3824f729cbdbae117bb67550530bc4aacbdf950
+Adventure F - The Eye of Bain (1984)(Artic Computing)[b],Games,tzx,Spectrum 48K,Good,Exact,"Shows the same pictures as the reference emulator, at a different moment",3e8d8c8b4b6632ae393bf8f5a3824f729cbdbae117bb67550530bc4aacbdf950
 Adventure G - Ground Zero (1984)(Artic Computing),Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,4a53f86d67206d61a2ee7ab25605a8d9b8221d7f6e6f9de953270e92316166c3
 Adventure G - Ground Zero (1984)(Artic Computing),Games,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,0aca0223b43cd6f552208f3dfff95aede76deb164553c31ae5a05305c4283790
 Adventure G - Ground Zero (1984)(Artic Computing)[a],Games,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,01dd31cb2be6c15e7601a561ad283dba734b4fdd984dcbfde5493e0307555025
@@ -3085,7 +3085,7 @@ Arcade Flight Simulator (1989)(Codemasters)[a],Games,z80,Spectrum 48K,Good,Exact
 Arcade Flight Simulator (1989)(Codemasters)[h Cleopatra],Games,scl,Pentagon 128K,Good,Exact,Picture matches the reference emulator,dd0738a0fe688cd7303913577b454a5b87821fdabb042b50691a319124fe144c
 Arcade Flight Simulator (1989)(Codemasters)[h Flash][t],Games,scl,Pentagon 128K,Good,Exact,Matches the reference emulator over a three minute run,4f035c467da01757df7f909003d66980fe6c7ca1fbd6baa7c7e8042be4da7ecb
 Arcade Force Four - Gauntlet (1988)(U.S. Gold)[48-128K],Compilations,tzx,Spectrum 128K,Good,Exact,Picture matches the reference emulator,6817243cfc04da6b551701d7ef2fe3170fa183c5c5f4dda318b9cbc905731dbf
-Arcade Force Four - Indiana Jones and the Temple of Doom (1988)(U.S. Gold),Compilations,tzx,Spectrum 48K,Good,Exact,"Shows the same pictures as the reference emulator, at a different moment",cb1230d5ef7dcc537c1f4af08ef730c7504b558c713b515c161a205ff7167fc1
+Arcade Force Four - Indiana Jones and the Temple of Doom (1988)(U.S. Gold),Compilations,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,cb1230d5ef7dcc537c1f4af08ef730c7504b558c713b515c161a205ff7167fc1
 Arcade Force Four - Metro-Cross (1988)(U.S. Gold),Compilations,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,ba64da914496750b617f61704a6ae8badfb3bc446bcef3b653bc81fc4f4f8e2b
 Arcade Force Four - Road Runner (1988)(U.S. Gold),Compilations,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,16b033cfb87e38cb3300d341166a6c994737177c74fc8f13b7fbe1dd991ffff5
 Arcade Fruit Machine (1990)(Zeppelin Games),Games,tap,Spectrum 48K,Good,Exact,Picture matches the reference emulator,96a6b9211c7ee0bc3469b8591f4ffec9d844622fe4d641b70d9c3af76bc0ed4e
@@ -4168,7 +4168,7 @@ Back to the Future (1985)(Electric Dreams Software)[a],Games,tzx,Spectrum 48K,Go
 Back to the Future (1985)(Electric Dreams Software)[a],Games,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,156c11931a2bad034b237258b5840632d9e729e00c617618900437978aca4f9d
 Back to the Future (1985)(Electric Dreams Software)[a][BleepLoad],Games,tzx,Spectrum 48K,Good,Exact,Matches the reference emulator over a three minute run,06b05a6bc4f121f7035ff24c034203b93d0c2f459f7c41a11d96bb642c5fd84d
 Back to the Future (1985)(Electric Dreams Software)[BleepLoad],Games,tzx,Spectrum 48K,Good,Exact,Matches the reference emulator over a three minute run,ab3f2ffc47f4149a1806eb14ab0df1f8ff02d5876c2c77c6a31336c22070857d
-Back to the Future (1987)(Proein Soft Line)[re-release],Games,tzx,Spectrum 48K,Check,Exact,Picture agrees 55% with the reference emulator,63f0c53d86714cdab8651db4436b6f0aae984cdb76aa5ff553ab79b9700b735a
+Back to the Future (1987)(Proein Soft Line)[re-release],Games,tzx,Spectrum 48K,Good,Exact,Matches the reference emulator over a three minute run,63f0c53d86714cdab8651db4436b6f0aae984cdb76aa5ff553ab79b9700b735a
 Back to the Future (1988)(MCM Software)[re-release],Games,tzx,Spectrum 48K,Good,Exact,Matches the reference emulator over a three minute run,0c9014c4cc266313303f3a1f00ab02a12c124a18a3ea6a87dd79d7084f015b3b
 Back to the Future II (1990)(Image Works)(Side A),Games,dsk,Spectrum +3,Good,Exact,Picture matches the reference emulator,82eb9a99b2577e3e04d3b6797af25f2652c34ed250b7643b9c0b05241496e115
 Back to the Future II (1990)(Image Works)(Side A)[128K],Games,tzx,Spectrum 128K,Good,Exact,Picture matches the reference emulator,4460dee589fc823d9962624026e6d05af9ef2b3ea36e3a845920ead727528497
@@ -4524,9 +4524,9 @@ Basicode 2+ (1984)(NOS Hobbyscoop),Applications,z80,Spectrum 48K,Good,Exact,Pict
 Basicode 3 v1.0 (1984)(J. Bredenbeek),Applications,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,8a13fb4a01c4e17bb85d8639496b01a8d600c852a5b06fd9f212e51b25fef44b
 Basicode 3 v1.0 (1984)(J. Bredenbeek)[a],Applications,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,a8b85c294f9b1b34367f650649c172168e68f842d0d8f78937c26e9c62e3b184
 Basil - The Great Mouse Detective (1987)(Erbe Software)[48-128K][re-release],Games,tzx,Spectrum 128K,Ahead,Exact,Runs on while the reference emulator stays on one picture,f36bc22d0bcf804d06ae22b6fe7a9a8d1bc1d4ae3cd62d26222cb6ce9cebcbfe
-Basil - The Great Mouse Detective (1987)(Erbe Software)[a][48-128K][re-release],Games,tzx,Spectrum 128K,Good,Exact,Picture matches the reference emulator,ec21a72abb68860c267ba039df5e0f2de4923987acc49282e578b7e1c424980f
+Basil - The Great Mouse Detective (1987)(Erbe Software)[a][48-128K][re-release],Games,tzx,Spectrum 128K,Ahead,Exact,Runs on while the reference emulator stays on one picture,ec21a72abb68860c267ba039df5e0f2de4923987acc49282e578b7e1c424980f
 Basil - The Great Mouse Detective (1987)(Gremlin Graphics Software),Games,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,c48dd3750e36428e3f5136c1cd03bae93b7fbc1460b2008c1b6f31a4cb0625ba
-Basil - The Great Mouse Detective (1987)(Gremlin Graphics Software)[48-128K],Games,tzx,Spectrum 128K,Good,Exact,Picture matches the reference emulator,c038c61849cbad0451621b45909138e64235ac2c43a5cb30d0a707a179faf15b
+Basil - The Great Mouse Detective (1987)(Gremlin Graphics Software)[48-128K],Games,tzx,Spectrum 128K,Ahead,Exact,Runs on while the reference emulator stays on one picture,c038c61849cbad0451621b45909138e64235ac2c43a5cb30d0a707a179faf15b
 Basil - The Great Mouse Detective (1987)(Gremlin Graphics Software)[a2],Games,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,0daee35daa42b9a2b81f4a9cd23da44ff952ee13c92ff9b5925a7bf11f86f5cd
 Basil - The Great Mouse Detective (1987)(Gremlin Graphics Software)[a2][48-128K],Games,tzx,Spectrum 128K,Ahead,Exact,Runs on while the reference emulator stays on one picture,4d288c67d07fa3b0e01634274088156455ef70891ba0f530273a15c8eef56509
 Basil - The Great Mouse Detective (1987)(Gremlin Graphics Software)[a3][48-128K],Games,tzx,Spectrum 128K,Ahead,Exact,Runs on while the reference emulator stays on one picture,9fb6803a34db740929e08374adb302b66487eb3c955d725a529d0e92f65e79e3
@@ -4694,7 +4694,7 @@ Battle Ships (1988)(Encore)[a2],Games,z80,Spectrum 48K,Good,Exact,Picture matche
 Battle Ships (1988)(Encore)[a],Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,012c146a5e25595f9574efbb3692fc76ca081e829f52d6dd6b3cef2115f1571b
 Battle Ships (1988)(Encore)[a],Games,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,34ea3b043ce3e2a5d862fd226a26d251982a5ff5d864d214a555306d45ee7782
 Battle Ships (1988)(Encore)[h Alexander Sharov],Games,scl,Pentagon 128K,Good,Exact,Picture matches the reference emulator,584cbdfa823f4f54a234861f0051cd3140cbe33d35e6bd64e0362193eeaf4225
-Battle Ships (1988)(MCM Software)[a][re-release],Games,tzx,Spectrum 48K,Good,Exact,"Shows the same pictures as the reference emulator, at a different moment",d74c019e0cfe34a2b77181f7c9be455a34e6ef9e5c20688da915d28249b73a36
+Battle Ships (1988)(MCM Software)[a][re-release],Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,d74c019e0cfe34a2b77181f7c9be455a34e6ef9e5c20688da915d28249b73a36
 Battle Ships (1988)(MCM Software)[re-release],Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,45d15cfe82582ef468c4a328435e01d36083a847d6e33d43483755e232f3d51a
 Battle Ships (1992)(Encore - Sinclair User)[password MARINE],Covertapes,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,f7be4f18efb95990131e810e080f9268d053b19aad895de4d632dbd87ad1024f
 Battle Ships - Modem Version (1988)(Encore)[h Fenomen],Games,trd,Pentagon 128K,Good,Exact,Picture matches the reference emulator,d662547fac5e3ad8377819a90b34811b5dd1a5dff4f2c235e6804d9d0b1abddc
@@ -4747,11 +4747,11 @@ Battlefield Germany - 2 Players (1987)(PSS),Games,tzx,Spectrum 48K,Good,Exact,Pi
 Battlefield Germany - 2 Players (1987)(PSS),Games,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,6b18227472c7426de9ab287fa7b0bc269fb458e77a28f8feeabff9d3590cd66e
 Battlefield Germany - 2 Players (1987)(PSS)[a],Games,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,b8c70f4956edc468f38ddb21d70a71a5ef7ba7429ea8951818fd1164b967b8e7
 Battleships (1984)(Interface Publications)[16K],Games,tap,Spectrum 48K,Good,Exact,Picture matches the reference emulator,a8e09a179e4da239f25ed3a5eba720b1821defeffdfb95b4d579a9310feba28d
-Batty (1987)(Encore)[re-release],Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,ef3528d8dacf7f15a9198d9f406e23ca20aedc2b34089fbb5c7967069c815099
-Batty (1987)(Hit-Pak - Your Sinclair),Covertapes,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,5f6e3861d3d4d585b33f0e510e4d94b6bf8ec04b96b5a5fb4723620c3c441b8b
+Batty (1987)(Encore)[re-release],Games,tzx,Spectrum 48K,Good,Exact,"Shows the same pictures as the reference emulator, at a different moment",ef3528d8dacf7f15a9198d9f406e23ca20aedc2b34089fbb5c7967069c815099
+Batty (1987)(Hit-Pak - Your Sinclair),Covertapes,tzx,Spectrum 48K,Good,Exact,Matches the reference emulator over a three minute run,5f6e3861d3d4d585b33f0e510e4d94b6bf8ec04b96b5a5fb4723620c3c441b8b
 Batty (1987)(Hit-Pak),Games,sp,Spectrum 48K,Good,Exact,Picture matches the reference emulator,f628d60e341b41af1d2e9769372de42e215859b1d5966ab792d1d39b5c09cd66
 Batty (1987)(Hit-Pak),Games,tap,Spectrum 48K,Good,Exact,Picture matches the reference emulator,b73af3e14aa42bff6166efb1a3354de570d425cb1372c15f3d44901eece26c6e
-Batty (1987)(Hit-Pak),Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,a4daa021d769f096a90aa3ccdafb52afc055a4b94aa9548f506fd24b3fbc8380
+Batty (1987)(Hit-Pak),Games,tzx,Spectrum 48K,Good,Exact,Matches the reference emulator over a three minute run,a4daa021d769f096a90aa3ccdafb52afc055a4b94aa9548f506fd24b3fbc8380
 Batty (1987)(Hit-Pak),Games,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,13678b49a49192bf0858a73a5c869d03f785eacc505291d233349793ed796045
 Batty (1987)(Hit-Pak)[a2],Games,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,caabd05e6dd03c384cbdcbf3715807107d5d0417002ea21c150169f4c8a49738
 Batty (1987)(Hit-Pak)[a3],Games,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,e27f60aa7a0bb4448ec3b19f8d97ccd8faf5f8d50f8d81465df2546b82384e6e
@@ -4844,7 +4844,7 @@ Beach-Head II - The Dictator Strikes Back! (1986)(U.S. Gold)[a4],Games,z80,Spect
 Beach-Head II - The Dictator Strikes Back! (1986)(U.S. Gold)[a],Games,tap,Spectrum 48K,Good,Exact,Picture matches the reference emulator,6cdb27180ce7d253119f00c02398ce6e1a6699fc7b094bdd1e10d84469b02689
 Beach-Head II - The Dictator Strikes Back! (1986)(U.S. Gold)[a],Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,ab57f04cefe845ae0d35c559c111d86643308ed937046bb8f929f0375b8e0be9
 Beach-Head II - The Dictator Strikes Back! (1986)(U.S. Gold)[a],Games,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,834c39adf38b515c54d8f3d7fd9bb3b6d80b419840347af55f00093b253aaed5
-Beach-Head II - The Dictator Strikes Back! (1986)(U.S. Gold)[cr Alexandros],Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,ef4a7c6c1f90c8c9aa1e21829769e22c9ffce3839c6e616795df5c4cd1d9d9bb
+Beach-Head II - The Dictator Strikes Back! (1986)(U.S. Gold)[cr Alexandros],Games,tzx,Spectrum 48K,Differs,Exact,Stays on the cracker's screen in this build: its sync pulse is right on its loader's limit,ef4a7c6c1f90c8c9aa1e21829769e22c9ffce3839c6e616795df5c4cd1d9d9bb
 Beach-Head II - The Dictator Strikes Back! (1986)(U.S. Gold)[cr Nikola Popevic],Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,cea98b7647d1d52eb27e84300f02044631f22a47156222d8df270435f9332d47
 Beach-Head II - The Dictator Strikes Back! (1988)(Dro Soft)[re-release],Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,e719a4d6e03a067cdaa6283044e9ed64937dcd9d2028dac348f48a0434ddd814
 Beacon Adventure (1984)(Sinclair User)[16K],Covertapes,tap,Spectrum 48K,Good,Exact,Picture matches the reference emulator,861d36418974e5563abb2fef655d465fd2a14a6f6f75c2f15633a32b412e5b06
@@ -5458,7 +5458,7 @@ Black Lamp (1988)(Firebird Software)[48-128K][BleepLoad],Games,tzx,Spectrum 128K
 Black Lamp (1988)(Firebird Software)[a2],Games,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,1ca2630afd3492a6a82b6cbc42d71be8c0d88b33dc35a8d7f5595887b85618f4
 Black Lamp (1988)(Firebird Software)[a3],Games,z80,Spectrum 48K,Good,Exact,Matches the reference emulator over a three minute run,2620d4cfff29d23b0ad677f637ad911de21a1748a5d5d9fc08fecbd46571b1e7
 Black Lamp (1988)(Firebird Software)[a],Games,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,969931b864c75525667774583f1333dbd5db066d163266c1087fcb48578e70fb
-Black Lamp (1988)(Firebird Software)[a][48-128K],Games,tzx,Spectrum 128K,Check,Exact,Picture agrees 62% with the reference emulator,dfb8216cc3b350918485302b271754b23afed0d1a106fc48a7b03be07cbaaf47
+Black Lamp (1988)(Firebird Software)[a][48-128K],Games,tzx,Spectrum 128K,Check,Exact,Picture agrees 61% with the reference emulator,dfb8216cc3b350918485302b271754b23afed0d1a106fc48a7b03be07cbaaf47
 Black Lamp (1988)(Firebird Software)[cr][48-128K],Games,tap,Spectrum 128K,Good,Exact,Picture matches the reference emulator,a944575f9ab8e682d526593ea032dec3e11002255060bccc494bc0d10a7bac36
 Black Lamp (1988)(MCM Software)[48-128K][re-release],Games,tzx,Spectrum 128K,Good,Exact,Picture matches the reference emulator,db0828bebe0bf2370bbd3a8df9dc35566bcc1a356c7d21cd4c1eb968e2b5629b
 Black Magic (1987)(U.S. Gold),Games,tap,Spectrum 48K,Good,Exact,Picture matches the reference emulator,0d1ed64b2a93392936a6f17d487e8a24372c9c617bd31aa344c3674eddc66d88
@@ -6030,7 +6030,7 @@ Bomb Jack II (1987)(Elite Systems)[a6],Games,z80,Spectrum 48K,Good,Exact,Picture
 Bomb Jack II (1987)(Elite Systems)[a7],Games,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,8050ebff3796ae971bf6ce88a280b1234ed7e399e77554dcdc7e9ea6a83be010
 Bomb Jack II (1987)(Elite Systems)[a],Games,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,33c9b6b5b28286d8cb86265ca03e3639ec7786836eeb1a48452a4c50a7ad7490
 Bomb Jack II (1987)(Encore)[re-release],Games,tzx,Spectrum 48K,Good,Exact,"Shows the same pictures as the reference emulator, at a different moment",b134bc179ce58fb6c95b920c39f0d164e0db7813a50cfce64bb78686903d97a6
-Bomb Jack II (1987)(Zafi Chip)[re-release],Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,e79b6f6460b4f25b68667b8e48b507807bd655702108302f5533d23fb5503ac5
+Bomb Jack II (1987)(Zafi Chip)[re-release],Games,tzx,Spectrum 48K,Good,Exact,"Shows the same pictures as the reference emulator, at a different moment",e79b6f6460b4f25b68667b8e48b507807bd655702108302f5533d23fb5503ac5
 Bomba (19xx)(-)(hu)[16K],Games,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,21f500e178a049fa7c10d1532eeefc4e7c13d9432678f074e8fa8666050d966a
 Bombarder (1987)(Kamasoft)(sk)[16K],Games,tap,Spectrum 48K,Good,Exact,Picture matches the reference emulator,48bb0fed42c896869878dc00cc7092bcda99e733467395291ebf1183d0f597b0
 Bombarder (1987)(Kamasoft)(sk)[16K],Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,6418f74583f09237de0a58a4ce1ddce842f8293ff52978d7774173eec40c833d
@@ -6621,10 +6621,10 @@ Buccaneer (1985)(Firebird Software),Games,tap,Spectrum 48K,Good,Exact,Picture ma
 Buccaneer (1985)(Firebird Software),Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,e3379c3c8f083256bd5a6a556424a2e165479246c3eb1805c53082a377bc311b
 Buccaneer (1985)(Firebird Software)[a],Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,8de1e7700ec36508992e42d843d489013afd8eacc3e9519896227cc72f74d9f0
 Buck Rogers - Planet of Zoom (1985)(U.S. Gold),Games,tap,Spectrum 48K,Good,Exact,"Shows the same pictures as the reference emulator, at a different moment",7a1e7187cf91f41e29edbe22b4b0269f8cfde2b3faaf926a543bf17f81fae0fb
-Buck Rogers - Planet of Zoom (1985)(U.S. Gold),Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,546706b9192f586250b354fbf1ac3159b46574fccee8e44bd150b842304a2bb4
+Buck Rogers - Planet of Zoom (1985)(U.S. Gold),Games,tzx,Spectrum 48K,Good,Exact,"Shows the same pictures as the reference emulator, at a different moment",546706b9192f586250b354fbf1ac3159b46574fccee8e44bd150b842304a2bb4
 Buck Rogers - Planet of Zoom (1985)(U.S. Gold),Games,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,cf6d125282422d3861dcd7bc706023e81c5ac4f2ab126a454b3a38d07123b7a7
 Buck Rogers - Planet of Zoom (1985)(U.S. Gold)[a2],Games,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,8ed4192e681701c790302418a4481b713a6215b5217fce0e2f9568ac9e4996e0
-Buck Rogers - Planet of Zoom (1985)(U.S. Gold)[a],Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,ff6a7709e8ebe696d45aeaeabd3d94600c1933a7cb2a8c8efb8197cb08aab1d1
+Buck Rogers - Planet of Zoom (1985)(U.S. Gold)[a],Games,tzx,Spectrum 48K,Good,Exact,"Shows the same pictures as the reference emulator, at a different moment",ff6a7709e8ebe696d45aeaeabd3d94600c1933a7cb2a8c8efb8197cb08aab1d1
 Buck Rogers - Planet of Zoom (1985)(U.S. Gold)[a],Games,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,505838a19324a3aabd557285d07072610d5d0bffb0e8daa7682a607d8bed7577
 Buckaroo Banzai (1987)(Adventure International),Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,123600df502c51c8c14fc9c0fd53c2fa26e7fcd7799fef490a498e495c48e59a
 Buckaroo Banzai (1987)(Adventure International),Games,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,669bfaedfe2eb4b106384646131188f59d3971b48b3290f9f87268e61ec55edd
@@ -6856,7 +6856,7 @@ Buzz 18 (1999)(Eternity Industry)(ru),Magazines,scl,Pentagon 128K,Good,Exact,Pic
 Buzz 20 (2002)(Placebo)(ru),Magazines,trd,Pentagon 128K,Good,Exact,Picture matches the reference emulator,f98681dbb6af2408fb8fcf0818b36f76b9f44083ee2529e2933655193e917856
 Buzz Off! (1984)(Electric Software),Games,tzx,Spectrum 48K,Good,Exact,"Shows the same pictures as the reference emulator, at a different moment",24784f7247cbae35e5d2248d72276c3045d7e4e4ddf80d1a0cf4e65cc84250c1
 By Fair Means or Foul (1989)(Superior Software),Games,dsk,Spectrum +3,Good,Exact,Picture matches the reference emulator,98a5740478f80e3b33341ea4b313d122c1f5b664159bac114011c2bff06cc7b3
-By Fair Means or Foul (1989)(Superior Software),Games,tzx,Spectrum 48K,Differs,Exact,Picture agrees only 15% with the reference emulator,b85c3dc81f088086ec64e9681e5d4f04ab2c0d38cc2d591635f8e57c8ddb40cd
+By Fair Means or Foul (1989)(Superior Software),Games,tzx,Spectrum 48K,Ahead,Exact,Runs on while the reference emulator stays on one picture,b85c3dc81f088086ec64e9681e5d4f04ab2c0d38cc2d591635f8e57c8ddb40cd
 By Fair Means or Foul (1989)(Superior Software),Games,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,822ca2826e087cc587296610c534b724a2176571fc3922a5e0ff384b40268460
 By Fair Means or Foul (1989)(Superior Software)[a],Games,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,d688db357b2f50be8cb05b4f216473b9c11588cb7b647979f32586804c053bcf
 Bye Bye (1996)(Mr. Incognito)[128K],Demos,tap,Spectrum 128K,Good,Exact,Picture matches the reference emulator,60242e8babfedde58ff3ddc71b8b6e1d2c0a32d511ebd95476ec48ce301abcb4
@@ -7044,7 +7044,7 @@ Capitan Trueno (1989)(Dinamic Software)(es)(Side A)[a2],Games,tzx,Spectrum 48K,G
 Capitan Trueno (1989)(Dinamic Software)(es)(Side A)[a],Games,tap,Spectrum 48K,Good,Exact,Picture matches the reference emulator,313af215e1a435a77f023e7e4118f5e66e208b2e76d3996e461ea22504334a83
 Capitan Trueno (1989)(Dinamic Software)(es)(Side A)[a],Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,d9700eafc5c152f04af57f5f6792c52419ebc1a116eb0899acae235bd4d4173c
 Capitan Trueno (1989)(Dinamic Software)(es)(Side B),Games,tap,Spectrum 48K,Good,Exact,Picture matches the reference emulator,23d57871c984680e167b0a1cf5822125ed99b656f5b6ad85271a0bc1e6017cd6
-Capitan Trueno (1989)(Dinamic Software)(es)(Side B),Games,tzx,Spectrum 48K,Check,Exact,The reference emulator gets further in the same time,909c052cf894853a90bbba9ae72e02bf9442788bcf47d54f56e2ce3dd6116ead
+Capitan Trueno (1989)(Dinamic Software)(es)(Side B),Games,tzx,Spectrum 48K,Ahead,Exact,Gets further than the reference emulator in the same time,909c052cf894853a90bbba9ae72e02bf9442788bcf47d54f56e2ce3dd6116ead
 Capitan Trueno (1989)(Dinamic Software)(es)(Side B)[a2],Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,3488ba9df9b32f05e18845d85024b25781e5a56534171db65f7a4e2cd6850a0e
 Capitan Trueno (1989)(Dinamic Software)(es)(Side B)[a],Games,tap,Spectrum 48K,Good,Exact,Picture matches the reference emulator,9e50c9d288156e58a70dc763cce6750802bc30597d77a745ead229b7996bf1bf
 Capitan Trueno (1989)(Dinamic Software)(es)(Side B)[a],Games,tzx,Spectrum 48K,Good,Exact,"Shows the same pictures as the reference emulator, at a different moment",4409eb811515137bb2baee10df5c364c1963aefacf8518c2ac340fe0bd1d6e7a
@@ -8051,7 +8051,7 @@ Circus Games (1988)(Tynesoft)(Side A),Games,dsk,Spectrum +3,Good,Exact,Picture m
 Circus Games (1988)(Tynesoft)(Side B),Games,dsk,Spectrum +3,Good,Exact,Picture matches the reference emulator,011e3cb2372761a16c60f1902f48b05a19b63f41926d9564b29a3576862117d5
 "Circus, Le (1986)(16-48 Tape Magazine)",Covertapes,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,bdfe8651786d087720b93facc7de163142e6da8fb5c3c9eb25922fc4beb5f425
 Cisco Heat (1991)(Image Works)[128K],Games,tap,Spectrum 128K,Good,Exact,Picture matches the reference emulator,5826523df329c2e69e8c7a43bcec1e4b941cfba4ede554d0e29c9fa21f558acd
-Cisco Heat (1991)(Image Works)[128K],Games,tzx,Spectrum 128K,Check,Exact,Picture agrees 88% with the reference emulator,200ef62142889e6c832e06b4b3a427470b67e5168e308fa64d40e66b04f06fbd
+Cisco Heat (1991)(Image Works)[128K],Games,tzx,Spectrum 128K,Good,Exact,"Shows the same pictures as the reference emulator, at a different moment",200ef62142889e6c832e06b4b3a427470b67e5168e308fa64d40e66b04f06fbd
 Cisco Heat (1991)(Image Works)[128K],Games,z80,Spectrum 128K,Good,Exact,Picture matches the reference emulator,295bdf7d8a2b5ed18e62b298a8145a66c2441280602c9fe73bd05cb953b3913b
 Cisco Heat (1991)(Image Works)[a][128K],Games,tzx,Spectrum 128K,Good,Exact,"Shows the same pictures as the reference emulator, at a different moment",085c159091c24d399593f859cc75665bc690e38366552ad1625352fb061c5da4
 Cisco Heat (1991)(Image Works)[f Ramsoft][128K],Games,slt,Spectrum 128K,Good,Exact,Picture matches the reference emulator,47bbc5b4ac4f90414ed4af46caab2f40908430e46219e58fa341b52cea727897
@@ -8660,7 +8660,7 @@ Compact Office - Word Processor (1986)(Robtek),Applications,tzx,Spectrum 48K,Goo
 Compactbyt (1984)(A. Cano)(es)[16K],Applications,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,f9a4f4de1334b549587e432f864cac3a006c153580460725e267da61b71de7ef
 Compendium - Shove a Sledge (1987)(Gremlin Graphics Software),Compilations,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,02fd754b982f4f49f163788646297af99e078d3b8cc198e3973613e395200b2f
 Compendium - Shove a Sledge (1987)(Gremlin Graphics Software)[a],Compilations,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,7749b4aab609c225ec289d54b531318a2b4b959460b981d84d151877209d2652
-Compendium - Shove a Sledge + Tiddly Drinks (1987)(Gremlin Graphics Software),Compilations,tzx,Spectrum 48K,Good,Exact,"Shows the same pictures as the reference emulator, at a different moment",6180e21c94c8376a955bac20ba6acfe869bf8e32b0fa80bc99ac64e958d08279
+Compendium - Shove a Sledge + Tiddly Drinks (1987)(Gremlin Graphics Software),Compilations,tzx,Spectrum 48K,Good,Exact,Matches the reference emulator over a three minute run,6180e21c94c8376a955bac20ba6acfe869bf8e32b0fa80bc99ac64e958d08279
 Compendium - Snakes and Hazards (1987)(Gremlin Graphics Software),Compilations,tap,Spectrum 48K,Good,Exact,"Shows the same pictures as the reference emulator, at a different moment",ec024f62d3758c1f2a041f7bff0ba9f6870617ce0fc8ac706b355625e1d06c11
 Compendium - Snakes and Hazards (1987)(Gremlin Graphics Software),Compilations,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,760262b6dd51ff35068ed3efa844b67eace759645561b414a34bab0a3f1f2caa
 Compendium - Snakes and Hazards (1987)(Gremlin Graphics Software)[a],Compilations,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,56f087669210bb8743bb431c823c6fad55cdbbd9a6042309c6c36cac591a6c76
@@ -8897,10 +8897,10 @@ Continental Circus (1989)(Dro Soft)(Side A)[128K][re-release],Games,tzx,Spectrum
 Continental Circus (1989)(Dro Soft)(Side B)[128K][re-release],Games,tzx,Spectrum 128K,Good,Exact,Picture matches the reference emulator,6c484764b1a7b8b7fc970158e9e4758ca132bcc86506e711f18fdeddb9e8f51e
 Continental Circus (1989)(Dro Soft)[re-release],Games,dsk,Spectrum +3,Good,Exact,Picture matches the reference emulator,6544140603a276a7adeba8395c469a7cc15d1b601c08aae24a09cb6d68cedd0c
 Continental Circus (1989)(Mastertronic Plus)[128K][re-release],Games,tzx,Spectrum 128K,Good,Exact,"Shows the same pictures as the reference emulator, at a different moment",6c7eef27270b63acffdb9ff883f2ed78454d92e05e7f5be30a5b573c12c26707
-Continental Circus (1989)(Tronix)[128K][re-release],Games,tzx,Spectrum 128K,Good,Exact,"Shows the same pictures as the reference emulator, at a different moment",afeee21fa8c96a695213d7f48f19f266ab014ee4970efb0bdd15be1121c933ea
+Continental Circus (1989)(Tronix)[128K][re-release],Games,tzx,Spectrum 128K,Differs,Exact,Picture agrees only 0% with the reference emulator,afeee21fa8c96a695213d7f48f19f266ab014ee4970efb0bdd15be1121c933ea
 Continental Circus (1989)(Virgin Mastertronic),Games,dsk,Spectrum +3,Good,Exact,Picture matches the reference emulator,4d74d15d3c55dae71c3f6fdbd4e07d5a95d1cf2a7612548a5d21e417c1081463
 Continental Circus (1989)(Virgin Mastertronic),Games,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,33443c222f29d218b291e60e1b6c03f748785275389b9c7dad874665d997e272
-Continental Circus (1989)(Virgin Mastertronic)[128K],Games,tzx,Spectrum 128K,Good,Exact,"Shows the same pictures as the reference emulator, at a different moment",24e86719bf183e03618bf713d3ee23f0e8307c8e698f229f15f2d6d0a8eb899d
+Continental Circus (1989)(Virgin Mastertronic)[128K],Games,tzx,Spectrum 128K,Differs,Exact,Picture agrees only 0% with the reference emulator,24e86719bf183e03618bf713d3ee23f0e8307c8e698f229f15f2d6d0a8eb899d
 Continental Circus (1989)(Virgin Mastertronic)[128K],Games,z80,Spectrum 128K,Good,Exact,Picture matches the reference emulator,5bb6c1b4b2fb0fafe9cd52041b559aadb274e495d83df66e804c4a0ddaf494b2
 Continental Circus (1989)(Virgin Mastertronic)[a][128K],Games,z80,Spectrum 128K,Good,Exact,Picture matches the reference emulator,b2542f69f70ebb5ba603421101bcd4ce6bcbdc2113045d6e2fab20da6f2f3f28
 Continental Circus (1989)(Virgin Mastertronic)[cr Matasoft - Kamilsoft][t +4][128K],Games,tap,Spectrum 128K,Good,Exact,Picture matches the reference emulator,1ee56051ec4faf0f60e28f73ce2bfafcc1bb9b82c99ef5e4bae06ca8e2bd0add
@@ -9683,7 +9683,7 @@ Crimen Perfecto (1984)(MicroHobby)(es),Covertapes,tzx,Spectrum 48K,Good,Exact,Pi
 Critical Mass (1985)(Durell Software),Games,sp,Spectrum 48K,Good,Exact,Picture matches the reference emulator,8b11d6f04562f4071e8928c9e9d47cac916dd47d8221f25627af47f7743946e8
 Critical Mass (1985)(Durell Software),Games,tap,Spectrum 48K,Good,Exact,Picture matches the reference emulator,a8b37f794080483bc0198a24eed5cfb700befdd8a1673e1e89d408ce87f3c445
 Critical Mass (1985)(Durell Software),Games,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,f6a53554a4e8b0c7c8cb8466e3ee37930cecd11f603184a4d7e7a4f9d3b82c36
-Critical Mass (1985)(Durell Software)(Side A),Games,tzx,Spectrum 48K,Ahead,Exact,Runs on while the reference emulator stays on one picture,a5005e22a739950788b633e44577855225590326874f6ec57f62644231debf79
+Critical Mass (1985)(Durell Software)(Side A),Games,tzx,Spectrum 48K,Differs,Exact,Picture agrees only 1% with the reference emulator,a5005e22a739950788b633e44577855225590326874f6ec57f62644231debf79
 Critical Mass (1985)(Durell Software)(Side B),Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,dbac6e65c9e62c6bdb2c5ff521c4908e95aed9448a3660908d86d1a907f19e70
 Critical Mass (1985)(Durell Software)[a],Games,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,6ff4fd4bfea55a90396616126c91b0139e474fe75676118f410e68837dd7fc6d
 Critical Mass (1985)(Durell Software)[cr JanSoft - YUClub],Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,680100de9c3f2a1abde3f45afe2f15d0faa43dd1e348023c71913256a67d584d
@@ -9988,7 +9988,7 @@ Cyberun (1985)(Ultimate Play The Game)[a],Games,tap,Spectrum 48K,Good,Exact,Pict
 Cyberun (1985)(Ultimate Play The Game)[a],Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,b49ccbb1fe7aecc67762c9f50a00ab5fa75af5ed2597fc0e1e5b1f2c5bee5389
 Cyberun (1985)(Ultimate Play The Game)[a],Games,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,c84863f1afaa6e0c930b36819bc080493ec3e91451a9be0669c866375c370135
 Cybex (1987)(Pirate Software),Games,tap,Spectrum 48K,Ahead,Exact,Runs on while the reference emulator stays on one picture,1d955df9bbb7f9546833a94fc3cdf384cdbca7253ceded068b632e5e9d4e5bf5
-Cybex (1987)(Pirate Software),Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,eb14c0ccc87c65211f8d242e551448504b3d2d6bfb0dddf5ac86c220c2fb8432
+Cybex (1987)(Pirate Software),Games,tzx,Spectrum 48K,Ahead,Exact,Runs on while the reference emulator stays on one picture,eb14c0ccc87c65211f8d242e551448504b3d2d6bfb0dddf5ac86c220c2fb8432
 Cybex (1987)(System 4)[re-release],Games,tzx,Spectrum 48K,Ahead,Exact,Gets further than the reference emulator in the same time,24994d9afe7c486839f8ea21869e8252d87ab59db3dc0901164befd13dda483d
 Cybo Run (1984)(Calisto),Games,tap,Spectrum 48K,Good,Exact,Picture matches the reference emulator,b31fb29dd7e2b57dcd7c091f79f12ed4234c9b8492eea601df9363604d5b2451
 Cybo Run (1984)(Calisto),Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,b8b0b63d8ddcfcaeaedba20e595a235fba562ce13f3963cc3ea114081b790824
@@ -10092,15 +10092,15 @@ Daley Thompson's Decathlon - Day 1 (1984)(Ocean),Games,sp,Spectrum 48K,Good,Exac
 Daley Thompson's Decathlon - Day 1 (1984)(Ocean),Games,tzx,Spectrum 48K,Check,Exact,The reference emulator gets further in the same time,846f7ae11fcc98ba603e7975bdd5ea3cdca56451f6b1b09237eb2b9d4a7550aa
 Daley Thompson's Decathlon - Day 1 (1984)(Ocean),Games,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,5a13bf629dc1c9ebdf5a7a5abd3ad1e8bbc9a535fb4159feae92c0546cb7021e
 Daley Thompson's Decathlon - Day 1 (1984)(Ocean)[a2],Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,6296ba8b0ca4e236653258bf256e80be03248dbe53c4986f7edba9f3d5051b12
-Daley Thompson's Decathlon - Day 1 (1984)(Ocean)[a2][small case],Games,tzx,Spectrum 48K,Differs,Exact,Picture agrees only 9% with the reference emulator,ee732e0c2f57ca6f3a9a3411b78121400eae82a2c91ca65d8e9bb45370878c62
+Daley Thompson's Decathlon - Day 1 (1984)(Ocean)[a2][small case],Games,tzx,Spectrum 48K,Check,Exact,The reference emulator gets further in the same time,ee732e0c2f57ca6f3a9a3411b78121400eae82a2c91ca65d8e9bb45370878c62
 Daley Thompson's Decathlon - Day 1 (1984)(Ocean)[a],Games,sp,Spectrum 48K,Good,Exact,Picture matches the reference emulator,af05cfa2a99e328c7edc87b5399ac8047b6cc80633094d38a32f79f5c492408f
 Daley Thompson's Decathlon - Day 1 (1984)(Ocean)[a],Games,tzx,Spectrum 48K,Check,Exact,The reference emulator gets further in the same time,b590fd513ee3fb30d020abd1246630165655575540749f66994056eb83f222ea
-Daley Thompson's Decathlon - Day 1 (1984)(Ocean)[a][large case],Games,tzx,Spectrum 48K,Differs,Exact,Picture agrees only 9% with the reference emulator,965977fd14afeacceb388fedca91b6ffca105a69e2250cadd02fbf2025acf0e8
-Daley Thompson's Decathlon - Day 1 (1984)(Ocean)[a][small case],Games,tzx,Spectrum 48K,Differs,Exact,Picture agrees only 9% with the reference emulator,b110e32a3524c405dcacbc2e415167745c6a24ed0e588575efe870b2d9221376
+Daley Thompson's Decathlon - Day 1 (1984)(Ocean)[a][large case],Games,tzx,Spectrum 48K,Check,Exact,The reference emulator gets further in the same time,965977fd14afeacceb388fedca91b6ffca105a69e2250cadd02fbf2025acf0e8
+Daley Thompson's Decathlon - Day 1 (1984)(Ocean)[a][small case],Games,tzx,Spectrum 48K,Check,Exact,The reference emulator gets further in the same time,b110e32a3524c405dcacbc2e415167745c6a24ed0e588575efe870b2d9221376
 Daley Thompson's Decathlon - Day 1 (1984)(Ocean)[large case],Games,tzx,Spectrum 48K,Check,Exact,The reference emulator gets further in the same time,3b5a5f5cd225b358fc4900a09bf7f28a7d6c2843984a23ee33b634b9f46654b2
 Daley Thompson's Decathlon - Day 1 (1984)(Ocean)[small case],Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,da1baa6aeb6d80e6f5f83e5b9517599e41099c06bcb64bc7f787c0f4dfa71e07
 Daley Thompson's Decathlon - Day 1 (1984)(The Hit Squad)[re-release],Games,tzx,Spectrum 48K,Good,Exact,"Shows the same pictures as the reference emulator, at a different moment",f1c9de0d3fe753faeaa6939ed4123b2f00369f64554eefed77e82aac2c53d1e9
-Daley Thompson's Decathlon - Day 1 (1984)(Zafiro Software Division)[a][re-release],Games,tzx,Spectrum 48K,Differs,Exact,Picture agrees only 9% with the reference emulator,7999b1de45e234b88a81085a6355396272c002a50f18a677217016ff19962168
+Daley Thompson's Decathlon - Day 1 (1984)(Zafiro Software Division)[a][re-release],Games,tzx,Spectrum 48K,Check,Exact,The reference emulator gets further in the same time,7999b1de45e234b88a81085a6355396272c002a50f18a677217016ff19962168
 Daley Thompson's Decathlon - Day 1 (1984)(Zafiro Software Division)[re-release],Games,tzx,Spectrum 48K,Check,Exact,The reference emulator gets further in the same time,b172d6273672dfb5a4b6fab46f5b91bb80c424b0d1adac9ff64f181b215e4f2f
 Daley Thompson's Decathlon - Day 2 (1984)(Ocean),Games,sp,Spectrum 48K,Good,Exact,Picture matches the reference emulator,1f2d49ff482d3a7f2b395088c3d3727f96cb5884a428b6a23c9c9f6e1effe23a
 Daley Thompson's Decathlon - Day 2 (1984)(Ocean),Games,tzx,Spectrum 48K,Check,Exact,The reference emulator gets further in the same time,dff9fdd7013a5f60bec5694a76e7c63daae6cc56524ee874063a70f60d2c99d2
@@ -10151,9 +10151,9 @@ Daley Thompson's Supertest - Day 1 (1985)(Ocean)[a2],Games,tzx,Spectrum 48K,Good
 Daley Thompson's Supertest - Day 1 (1985)(Ocean)[a],Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,b1745d75b1e18fd041988189cc8063c712b4e58fca0abdcfe688ad898d98b11c
 Daley Thompson's Supertest - Day 1 (1985)(Ocean)[cr Vatroslav],Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,eab321e8b1af570afb0ee013d8703f6d96757e3ea53d498c56f9ebb7176369c8
 Daley Thompson's Supertest - Day 1 (1988)(Erbe Software)[re-release],Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,4598017e1911c4c9fdde7394a559bff6236a224dc44bd822af0c7da25bd93c29
-Daley Thompson's Supertest - Day 2 (1985)(Ocean),Games,tzx,Spectrum 48K,Check,Exact,Picture agrees 72% with the reference emulator,ac93877e78d47f8b23f0e21959e6ae4cb449313e9945d92e93fdefbb151c51b1
+Daley Thompson's Supertest - Day 2 (1985)(Ocean),Games,tzx,Spectrum 48K,Good,Exact,Matches the reference emulator over a three minute run,ac93877e78d47f8b23f0e21959e6ae4cb449313e9945d92e93fdefbb151c51b1
 Daley Thompson's Supertest - Day 2 (1985)(Ocean),Games,z80,Spectrum 48K,Check,Exact,Picture agrees 74% with the reference emulator,5efde643bf4cfb729e56723f85daffa4dc6300ad6f4db728c01904249dbfd526
-Daley Thompson's Supertest - Day 2 (1985)(Ocean)[a2],Games,tzx,Spectrum 48K,Check,Exact,Picture agrees 72% with the reference emulator,d0ca0049f07a3fdd9881471f262f2ed6ff37b47673fbb7e26111c19c4da35033
+Daley Thompson's Supertest - Day 2 (1985)(Ocean)[a2],Games,tzx,Spectrum 48K,Good,Exact,Matches the reference emulator over a three minute run,d0ca0049f07a3fdd9881471f262f2ed6ff37b47673fbb7e26111c19c4da35033
 Daley Thompson's Supertest - Day 2 (1985)(Ocean)[a],Games,tzx,Spectrum 48K,Good,Exact,Matches the reference emulator over a three minute run,7b99e10c57045efa836da5ca89d6f0cd6a3935f2dabd2eb748e870be685356bb
 Daley Thompson's Supertest - Day 2 (1985)(Ocean)[cr Vatroslav],Games,tzx,Spectrum 48K,Good,Exact,Matches the reference emulator over a three minute run,c3de8f5eb3c46411e2330c41b85091777e8fc8c2fac63fcc1d86603f2121aa05
 Daley Thompson's Supertest - Day 2 (1988)(Erbe Software)[re-release],Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,a0370ee9e91adfe44f27b5744b42ab5411680a893b4bbcf515031411d49a962f
@@ -11888,8 +11888,8 @@ Dr. Jekyll and Mr. Hyde - Part 3 - Denouement (1988)(Essential Myth),Games,z80,S
 Dr. Jekyll and Mr. Hyde - Part 3 - Denouement (1988)(Essential Myth)[128K],Games,z80,Spectrum 128K,Differs,Exact,Picture agrees only 6% with the reference emulator,a07503666f5a1201a774b6ee7a9524af1d1ab726449e061112a5266f9e7af5ec
 Dr. Jekyll and Mr. Hyde - Part 3 - Denouement (1988)(Essential Myth)[a][128K],Games,z80,Spectrum 128K,Good,Exact,Picture matches the reference emulator,8f26932c40c11b5d08ab1557567974f3c943c152187dc0e8e78ef32b097adf2f
 Dr. Jekyll vs Mr Hyde (1989)(Morbosoft)(es),Games,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,c0a1ffd456ea5e069400f993c628e4838470b01cce92bfc81a7a8a2b8c74db17
-Dr. Maddo (1986)(Americana Software)[a][re-release],Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,38c8172c3b8976b553a8564d46094050de0a1a56335b9074ec3f2d94f50a6bad
-Dr. Maddo (1986)(Americana Software)[re-release],Games,tzx,Spectrum 48K,Good,Exact,"Shows the same pictures as the reference emulator, at a different moment",d955420c01f81dc087141f4473e97f44ed37e4ebe1d794eed78dd22325a189be
+Dr. Maddo (1986)(Americana Software)[a][re-release],Games,tzx,Spectrum 48K,Good,Exact,"Shows the same pictures as the reference emulator, at a different moment",38c8172c3b8976b553a8564d46094050de0a1a56335b9074ec3f2d94f50a6bad
+Dr. Maddo (1986)(Americana Software)[re-release],Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,d955420c01f81dc087141f4473e97f44ed37e4ebe1d794eed78dd22325a189be
 Dr. Maddo (1986)(U.S. Gold),Games,tap,Spectrum 48K,Good,Exact,Picture matches the reference emulator,4aa3afebcfa69cbabc386004c7323992f87fa0a9287a98881fcf8565329f1a18
 Dr. Maddo (1986)(U.S. Gold),Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,fa7d2a3a57ab3f25c601ff89e31c407485e54813a06505cfecf6725f1b7ee628
 Dr. Maddo (1986)(U.S. Gold),Games,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,22e172dfe97576992b09422fe5cbda17422e92ea8378bc0dc0918eaf864f64b5
@@ -12079,7 +12079,7 @@ Draughts Genius (1987)(Rack-It),Games,sp,Spectrum 48K,Good,Exact,Picture matches
 Draughts Genius (1987)(Rack-It),Games,tap,Spectrum 48K,Differs,Exact,Picture agrees only 20% with the reference emulator,4e0e3841b2e3e5790dc1ffeca74480d2de6dfda940c04bcdc97f88833599c965
 Draughts Genius (1987)(Rack-It),Games,tzx,Spectrum 48K,Differs,Exact,Picture agrees only 20% with the reference emulator,7d0a74719dbb67a1f14ff85e25dfd273fa0aa3df73f6b895be0e7966b6443894
 Draughts Genius (1987)(Rack-It),Games,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,e8d35faefc6b077a3c9ea40f6a399c9c4fd93bd62164e4a69031e91338f9f40f
-Draughts Genius (1987)(Rack-It)[a2],Games,tzx,Spectrum 48K,Differs,Exact,Picture agrees only 19% with the reference emulator,f6c1818785e9c8b24217d59329258a36311d9835355dd84130454fbd85212966
+Draughts Genius (1987)(Rack-It)[a2],Games,tzx,Spectrum 48K,Differs,Exact,Picture agrees only 20% with the reference emulator,f6c1818785e9c8b24217d59329258a36311d9835355dd84130454fbd85212966
 Draughts Genius (1987)(Rack-It)[a2],Games,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,bfd993455de0eb178647b48dc5420e76dab9ffd9ac38a1fd2be5bc42090e1517
 Draughts Genius (1987)(Rack-It)[a3],Games,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,21622202dcc53426496095ba835c5fd8bdbcff09907f8235259ecfbdec677cb3
 Draughts Genius (1987)(Rack-It)[a4],Games,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,a4e74d09c5c2bcc9551df3f474a9e29e3969c9eda65990efb25f98a03148bfe8
@@ -12814,7 +12814,7 @@ Empires - Player 2 (1984)(Imperial Software)(Side B),Games,tzx,Spectrum 48K,Good
 Empires - Player 3 (1984)(Imperial Software)(Side A),Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,49ce430cef655c5d089c40e9f953492aed22e51eb152b3b362e7aca03f2971d5
 Empires - Player 3 (1984)(Imperial Software)(Side B),Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,281ffc3420920fa440e1c1d25c52595db0568986025b31e90f5db779ee3c4583
 Empires - Umpire (1984)(Imperial Software)(Side A),Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,4bbec7b33fc2c0a238ec80d692119f7eb86cb8246a8cdf4a07982490079d07e1
-Empires - Umpire (1984)(Imperial Software)(Side B),Games,tzx,Spectrum 48K,Check,Exact,Picture agrees 75% with the reference emulator,11f36022fd3cf8a30273fbccc8b9e5546985d032689c83aa88926a2f2cbfba4e
+Empires - Umpire (1984)(Imperial Software)(Side B),Games,tzx,Spectrum 48K,Check,Exact,The reference emulator gets further in the same time,11f36022fd3cf8a30273fbccc8b9e5546985d032689c83aa88926a2f2cbfba4e
 Emulate (1997)(Phantasy)[cr X-Agon][128K],Demos,tap,Spectrum 128K,Good,Exact,Picture matches the reference emulator,4453bbffe54cef4429bc059b04f0c2eef613b4188695b4bd2466ffdb289db67f
 Emulator Speed Test (19xx)(-),Games,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,f07dd6f6b96b3ba086d4360a0e8bd6d93bf671dcd053a1431b4adb7844ad66f3
 En Busca De La Joya Encantada (2006)(RML Soft)(ES)[Bytemaniacos 2006 BASIC Contest],Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,e8590c9de3acade0abdf5d384b5bc11e52b4f516bc5c89bf2964f71ed7596679
@@ -12991,8 +12991,8 @@ Epyx Action - California Games (1990)(U.S. Gold)(Side A),Games,tzx,Spectrum 48K,
 Epyx Action - California Games (1990)(U.S. Gold)(Side B),Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,fc90f8f519be8a64fc1e41bc15ace2045668eae9169f71fa3aff9fc97bf626eb
 Epyx Action - Impossible Mission II (1990)(U.S. Gold),Games,tzx,Spectrum 48K,Good,Exact,Matches the reference emulator over a three minute run,73a75cc7ee86a3aefc94316c8aac827ac0abfe5401d111b1da10e69c0e14eb77
 Epyx Action - Street Sports Basketball (1990)(U.S. Gold),Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,b9e45993d52429193e52f32a773601f9adbec821570a170c205b89f436496d79
-Epyx Action - The Games - Winter Edition (1990)(U.S. Gold),Games,tzx,Spectrum 48K,Check,Exact,Picture agrees 72% with the reference emulator,a6fc32337c1cf7cf31d7e75faec31c2ec68f444443735cb329a8fdb86d84411b
-Epyx Action - The Games - Winter Edition (1990)(U.S. Gold)[128K],Games,tzx,Spectrum 128K,Check,Exact,Picture agrees 72% with the reference emulator,409966291bf2197b5c638477654bc803a487ada52b5aac7bb9ef18d0069a04dc
+Epyx Action - The Games - Winter Edition (1990)(U.S. Gold),Games,tzx,Spectrum 48K,Good,Exact,Matches the reference emulator over a three minute run,a6fc32337c1cf7cf31d7e75faec31c2ec68f444443735cb329a8fdb86d84411b
+Epyx Action - The Games - Winter Edition (1990)(U.S. Gold)[128K],Games,tzx,Spectrum 128K,Good,Exact,Matches the reference emulator over a three minute run,409966291bf2197b5c638477654bc803a487ada52b5aac7bb9ef18d0069a04dc
 Equinox (1986)(Erbe Software)[a][re-release],Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,90455a75e3c02e60bc98cde1d824002fc18b11715867456b6da4bd51f919404f
 Equinox (1986)(Erbe Software)[re-release],Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,b62212a3b24f98e3775dbe43e397e1e4b7993898d8793df8a3cf2e6d9e03d778
 Equinox (1986)(IBSA)[re-release],Games,tzx,Spectrum 48K,Differs,Exact,Stays on one picture while the reference emulator runs on,d8e890c2e7e58dd3a28292ae3e2724113bff7115b07d58cfc884784435dcc769
@@ -13362,7 +13362,7 @@ Explorador (1984)(Microparadise Software)(es),Games,tzx,Spectrum 48K,Good,Exact,
 "Explorador, El (1984)(Microparadise Software)(es)",Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,ef16cbf1bd04ef594bc6796de4d4bbe65067b93f3c67d94544bd83cb90dffa7a
 Explorer (1984)(Clockbyte)(de),Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,0ccd42c6af03c355382742a27e3a0dfa67f0ea9b066c9879b7391b977c56aa1d
 Explorer (1986)(Electric Dreams Software),Games,tap,Spectrum 48K,Good,Exact,Picture matches the reference emulator,94bc1569051c20d3ae1f3f0116c7bab61713e647c2a9076a3aecc9e1f8431394
-Explorer (1986)(Electric Dreams Software),Games,tzx,Spectrum 48K,Differs,Exact,Picture agrees only 33% with the reference emulator,c00d11d0bc31041f2dd6fbf662d306e83faf291694b647bf00bbecbc42e632b5
+Explorer (1986)(Electric Dreams Software),Games,tzx,Spectrum 48K,Ahead,Exact,Runs on while the reference emulator stays on one picture,c00d11d0bc31041f2dd6fbf662d306e83faf291694b647bf00bbecbc42e632b5
 Explorer (1986)(Electric Dreams Software),Games,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,be65f9f1dd9f5084b335e140c16f4d18508421843affe75a1e6afb63ce27f536
 Explorer (1986)(Electric Dreams Software)[a2],Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,f7ecfb640c390cb0dda03a151e63f34c489a0a8e8b8528a3da48867762a4fd2a
 Explorer (1986)(Electric Dreams Software)[a],Games,tzx,Spectrum 48K,Ahead,Exact,Runs on while the reference emulator stays on one picture,65257ffabdb85f16b2887b77e78c3f1a875cf122f0cfc60f7e0fa99834fe89b0
@@ -13457,7 +13457,7 @@ F-16 Fighting Falcon (1990)(Virgin Mastertronic)[48-128K][lightgun],Games,tzx,Sp
 F-19 (1986)(Load 'n' Run)(es)[aka Flak],Covertapes,tap,Spectrum 48K,Good,Exact,Picture matches the reference emulator,57c939c18cd1a05452f574f9d3fbd0d38cae8f8c5eceeb5a0470df6efb03aefa
 F-19 Stealth Fighter (1990)(Erbe Software)(Tape 1 of 2 Side A)[re-release][aka Project Stealth Fighter],Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,1f905a8172949e3cc4f2cb720a513bf40ee008fc70806df83e0c01d111b7987c
 F-19 Stealth Fighter (1990)(Erbe Software)(Tape 1 of 2 Side B)[re-release][aka Project Stealth Fighter],Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,f0ea5c64cfd3c1d09aa4a28ad31bfefa0fca5d7929913b4a138c26f8a6460367
-F-19 Stealth Fighter (1990)(Erbe Software)(Tape 2 of 2 Side A)[re-release][aka Project Stealth Fighter],Games,tzx,Spectrum 48K,Check,Exact,Picture agrees 60% with the reference emulator,476bf4af49b83c62c664d37ca35a80d7fc358c513467a48800df25d801e80024
+F-19 Stealth Fighter (1990)(Erbe Software)(Tape 2 of 2 Side A)[re-release][aka Project Stealth Fighter],Games,tzx,Spectrum 48K,Good,Exact,Matches the reference emulator over a three minute run,476bf4af49b83c62c664d37ca35a80d7fc358c513467a48800df25d801e80024
 F-19 Stealth Fighter (1990)(Erbe Software)(Tape 2 of 2 Side B)[re-release][aka Project Stealth Fighter],Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,54a46d93de451aa5ab2ac71a686b0f753cb3ac144aea796e68ebd7697254b41d
 F-Disk Editor (1988)(Igor Kapultsevich),Applications,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,5901b45d009bb0cc993424096374735d3c5dbb716d442cf4238a2313a8a4f409
 F-Disk Editor (1988)(Igor Kapultsevich),Applications,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,2ca0946fe1b1ea50cbba7df370c6e7483e561536aed16cb0d7a5832422c5cb9a
@@ -13893,7 +13893,7 @@ Final Frog (1991)(Pepsi Soft)(es),Games,tzx,Spectrum 48K,Good,Exact,Picture matc
 "Final Matrix, The (1987)(Gremlin Graphics Software)",Games,tap,Spectrum 48K,Good,Exact,Picture matches the reference emulator,d39af2c9dda479cbf184779d3c68f434dc51a621732661cacdd85cf647e7f6c0
 "Final Matrix, The (1987)(Gremlin Graphics Software)",Games,tzx,Spectrum 48K,Check,Exact,Picture agrees 67% with the reference emulator,2617e6279ae02b67cd8c963f79a3314c80c06cb7200b3dcf5e41281ab61ab94f
 "Final Matrix, The (1987)(Gremlin Graphics Software)",Games,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,ba8a5be76cf88a7df630e79c4b70732612abcdc071e348b9a604371546fa14cc
-"Final Matrix, The (1987)(Gremlin Graphics Software)[a2]",Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,67063c35bb290af9b3374cb2553231e9aecbc54859f669105c10dd9bf62cb160
+"Final Matrix, The (1987)(Gremlin Graphics Software)[a2]",Games,tzx,Spectrum 48K,Differs,Exact,Picture agrees only 26% with the reference emulator,67063c35bb290af9b3374cb2553231e9aecbc54859f669105c10dd9bf62cb160
 "Final Matrix, The (1987)(Gremlin Graphics Software)[a]",Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,675281dd9f91504224f572d45ff75a50867f537b49c8f22921ce2be9c48ca043
 "Final Matrix, The (1987)(Gremlin Graphics Software)[a]",Games,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,eadd6876b418e731dba28ef37d6662a12758223dbde68fe308c0d72cc386389b
 Final Strike 1 (19xx)(The Unbelievables),Demos,tap,Spectrum 48K,Good,Exact,Picture matches the reference emulator,e8f07b00a3fe9d40ac8480f98c8cb65e5dcb0d60f7c906dd88a573e2b1ae1202
@@ -14702,7 +14702,7 @@ Freedom Fighter (1988)(The Power House)[a],Games,tzx,Spectrum 48K,Good,Exact,Pic
 Freex (1984)(Software Super Savers),Games,tap,Spectrum 48K,Good,Exact,Picture matches the reference emulator,c9ae1a9230ce5dd4ba934c7696c8bb7b3bb6f7dabb6c9411fe3edcc6ae8e4785
 Freex (1984)(Software Super Savers),Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,3e91f008c1c634271d0660911fc0fc476ff5f89163d220c14d62e73a971eb0bb
 Freex (1984)(Software Super Savers),Games,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,1b1e72c31d2fd8872391a8af3221e71f24622f577d9264072ade80429e5e6e43
-Freex (1985)(Software Super Savers),Games,tzx,Spectrum 48K,Ahead,Exact,Gets further than the reference emulator in the same time,2c3c5999f97ef11c38810822c9417a8723a7c0b5db1a4812f2bdb0fa688c8dd6
+Freex (1985)(Software Super Savers),Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,2c3c5999f97ef11c38810822c9417a8723a7c0b5db1a4812f2bdb0fa688c8dd6
 Freez'Bees (1984)(Prism Leisure)[re-release],Games,tzx,Spectrum 48K,Check,Exact,Picture agrees 85% with the reference emulator,9a20f57f04599ec6a1a71c6f561fe7303988bf811acaf620d5015d83bed25d33
 Freez'Bees (1984)(Silversoft),Games,tap,Spectrum 48K,Check,Exact,Picture agrees 85% with the reference emulator,1ce570f0189bd5606013ae89656a49ce96b98aa582896db79a4bfbc19a1e34c3
 Freez'Bees (1984)(Silversoft),Games,tzx,Spectrum 48K,Check,Exact,Picture agrees 85% with the reference emulator,e45dc115b71ef8bd6bd003fb4c37f3d2993e874fa643b87205f98f99c93e67b2
@@ -14752,7 +14752,7 @@ Friday the 13th (1986)(Domark)[a],Games,tap,Spectrum 48K,Good,Exact,Picture matc
 Friday the 13th (1986)(Domark)[a],Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,4fe48a0f1a1acc9e858ecbd5435b977ac1c1dabcb21a431c0e8440614e4ffbe9
 Friday the 13th (1986)(Domark)[a],Games,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,05ba1d44a6feb15b4cc19db8c1cf8aeb0b0cd75fb8edf0353c5e0d3252c89d47
 Friday the 13th (1986)(Z Cobra)[re-release][aka Viernes 13],Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,672090e124aa72ba678e13ba66934316c89c7fe94ef17f2acc7d35be5e135106
-Fridge Frenzy (1985)(Bug-Byte Software),Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,42196664ac1d219a6416ec760e562188ca85c4111e8729937627974d53fdd647
+Fridge Frenzy (1985)(Bug-Byte Software),Games,tzx,Spectrum 48K,Check,Exact,Picture agrees 77% with the reference emulator,42196664ac1d219a6416ec760e562188ca85c4111e8729937627974d53fdd647
 Fridge Frenzy (1985)(Bug-Byte Software),Games,z80,Spectrum 48K,Check,Exact,The reference emulator gets further in the same time,3e26d6a1b0211e7a7e668dff7c058d0cb664102fb4015f23bc9cdf48aa807eef
 Fridge Frenzy (1985)(Bug-Byte Software)[a2],Games,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,12ce9e6073d6e3bf414c11f3db51031fe83ab9e7069bf6004567108c466838dc
 Fridge Frenzy (1985)(Bug-Byte Software)[a],Games,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,3a1c004487c56dbba1611e33a302a83beb8d77192b8dc308dcb24b4a738e88a3
@@ -14853,7 +14853,7 @@ Fronton (2004)(Jose Maria Gonzalez Ondina)(es),Games,tap,Spectrum 48K,Good,Exact
 Froot Loop (1984)(Ntd Software),Games,tap,Spectrum 48K,Good,Exact,Picture matches the reference emulator,cd5010d7811d5cefbb983263c911c1fbdf46534968873a8c8cd05e0fcfca379f
 Froot Loop (1984)(Ntd Software),Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,06160260b6e199dfede18c86c30f1a79620ee2ca9f320b6da07ffb8f766659a4
 Frosch (19xx)(-)(de),Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,137b563457d775e49e66ec7be7e17026e953e6d06886ab9dd011651b5485a672
-Frost Byte (1986)(Erbe Software),Games,tzx,Spectrum 48K,Differs,Exact,Picture agrees only 9% with the reference emulator,723c44bc82cfd2b4d10a3df4fc3cd1bbae5cb34e4d88408e6ad4916cd414e14a
+Frost Byte (1986)(Erbe Software),Games,tzx,Spectrum 48K,Ahead,Exact,Gets further than the reference emulator in the same time,723c44bc82cfd2b4d10a3df4fc3cd1bbae5cb34e4d88408e6ad4916cd414e14a
 Frost Byte (1986)(IBSA),Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,9337b81ed944c8b41b38aea15bff993b3beaa55058818f6a249bd7808bc834b8
 Frost Byte (1986)(Mikro-Gen),Games,tap,Spectrum 48K,Good,Exact,Picture matches the reference emulator,92125a167441348cde5d4d9f717f96a7a261813e37f215d3ff9417594d4a80a7
 Frost Byte (1986)(Mikro-Gen),Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,602c76c27eaf18a428123c7f81039f0135960644aef5e731d58421a55c192ab1
@@ -15109,7 +15109,7 @@ G-Force (1983)(Eurobyte)[a],Games,z80,Spectrum 48K,Good,Exact,Picture matches th
 G-LOC (1992)(Erbe Software)[128K][re-release],Games,tzx,Spectrum 128K,Good,Exact,"Shows the same pictures as the reference emulator, at a different moment",62b343318b429ac87edceafc42ebd08691caf6ed4cb9a713f9806d91f92a35dd
 G-LOC (1992)(U.S. Gold)(Side A),Games,dsk,Spectrum +3,Good,Exact,Picture matches the reference emulator,3afa7b3ec5dc26033d7e0389d4cc724af422ebee1067819e3d083cc8d910e7ce
 G-LOC (1992)(U.S. Gold)(Side B),Games,dsk,Spectrum +3,Good,Exact,"Shows the same pictures as the reference emulator, at a different moment",34cd44ffe4cb3f71b3e2e4c7697cc0383bb286baa5ab24ec5753544fdd5602bf
-G-LOC (1992)(U.S. Gold)[128K],Games,tzx,Spectrum 128K,Good,Exact,Picture matches the reference emulator,2a07839862df1b0369fa9c86d61b5bc1d05af6ff75ff9ab7762ae5012da7232e
+G-LOC (1992)(U.S. Gold)[128K],Games,tzx,Spectrum 128K,Good,Exact,Matches the reference emulator over a three minute run,2a07839862df1b0369fa9c86d61b5bc1d05af6ff75ff9ab7762ae5012da7232e
 G-LOC (1992)(U.S. Gold)[128K],Games,z80,Spectrum 128K,Good,Exact,Picture matches the reference emulator,677198a33d33b337e3ad42e35ba594aae2e19a3a0cd77b4729f629a71cf7c74a
 G-LOC (1992)(U.S. Gold)[128K][needs tape load],Games,z80,Spectrum 128K,Good,Exact,Picture matches the reference emulator,5dabddc6bcefebd03af378430d5f3ee6ddd7a493961f268c8bf1db97f4368eed
 G-LOC (1992)(U.S. Gold)[cr Torasoft][t Torasoft][128K],Games,tap,Spectrum 128K,Good,Exact,Picture matches the reference emulator,71f561d5448cf34a350fd4a0a2ce6a6f839bd93ac540c99de333ffde9be8889a
@@ -15177,7 +15177,7 @@ Galakzions (1983)(Mikro-Gen)[16K],Games,z80,Spectrum 48K,Good,Exact,Picture matc
 Galakzions (1983)(Mikro-Gen)[a2][16K],Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,ef45576c9a0b16280f08fb22285c6a90dcf79c115fd2e567ca172ca0105eb64f
 Galakzions (1983)(Mikro-Gen)[a3][16K],Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,2b4ff242861fd03cdad62b7255830ef2303003a9e67fdb488c91c2cd01cc9c36
 Galakzions (1983)(Mikro-Gen)[a][16K],Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,23c13276e409b20ac1eeedacb802dda7197e49c43c58141965d020ec3f35ba84
-Galaxian (1984)(Atarisoft),Games,tzx,Spectrum 48K,Check,Exact,Picture agrees 88% with the reference emulator,212ea75a105d2554508145c18f48fcb4510267023565172c870fa3851427470c
+Galaxian (1984)(Atarisoft),Games,tzx,Spectrum 48K,Good,Exact,Matches the reference emulator over a three minute run,212ea75a105d2554508145c18f48fcb4510267023565172c870fa3851427470c
 Galaxian (1984)(Atarisoft),Games,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,b1ff289239688a7ad6ea6469aad827be30816490f25006350e8acaafec1dcb8b
 Galaxian (1984)(Atarisoft)[a2],Games,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,790934f90dfd636f5bcffbd3e7b4f28c67391abb3e299d8ce11b32825c3207c2
 Galaxian (1984)(Atarisoft)[a],Games,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,288610bae2bfa9c9aa23595900e5c9268b282602b9ee54c1683cc06d13206bbb
@@ -15564,10 +15564,10 @@ Games Tape 3 - Time-Line (1983)(Gilsoft International)[16K],Compilations,tzx,Spe
 "Games, The - Summer Edition (1989)(Erbe Software)[re-release]",Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,9f6a2280583a5497875874e233916e8048de16126fe82273ab16f96cc7892706
 "Games, The - Winter Edition (1988)(Erbe Software)[128K][re-release]",Games,tzx,Spectrum 128K,Good,Exact,Picture matches the reference emulator,bc02a9188438f9223521135d1564abd650dfd9ad40e698ff86168e5f8309955c
 "Games, The - Winter Edition (1988)(Erbe Software)[re-release]",Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,865839ef07406d3a766c89bf182e60e10aaa725a47f7d8bf977269394b37686f
-"Games, The - Winter Edition (1988)(Kixx)[128K][re-release]",Games,tzx,Spectrum 128K,Check,Exact,Picture agrees 72% with the reference emulator,f40556b77ab5082d613445814e1b776b382d7fd1efeef8f251f63a385930c91d
-"Games, The - Winter Edition (1988)(Kixx)[re-release]",Games,tzx,Spectrum 48K,Check,Exact,Picture agrees 72% with the reference emulator,b55ba623d37c8b893394715ac6753451899734c680c7ac19c02945615d78352a
+"Games, The - Winter Edition (1988)(Kixx)[128K][re-release]",Games,tzx,Spectrum 128K,Good,Exact,Matches the reference emulator over a three minute run,f40556b77ab5082d613445814e1b776b382d7fd1efeef8f251f63a385930c91d
+"Games, The - Winter Edition (1988)(Kixx)[re-release]",Games,tzx,Spectrum 48K,Good,Exact,Matches the reference emulator over a three minute run,b55ba623d37c8b893394715ac6753451899734c680c7ac19c02945615d78352a
 "Games, The - Winter Edition (1988)(U.S. Gold)",Games,tap,Spectrum 48K,Good,Exact,Picture matches the reference emulator,791baff5b808a7cc143520be6a4a3ae16f0ff09e9a8329443948cd5c8bfde1ce
-"Games, The - Winter Edition (1988)(U.S. Gold)",Games,tzx,Spectrum 48K,Check,Exact,Picture agrees 72% with the reference emulator,c7d8f1072906bb40eb17c0f542c1dd9b74d1f2980e5c99aa3a15c6988f5a5ab7
+"Games, The - Winter Edition (1988)(U.S. Gold)",Games,tzx,Spectrum 48K,Good,Exact,Matches the reference emulator over a three minute run,c7d8f1072906bb40eb17c0f542c1dd9b74d1f2980e5c99aa3a15c6988f5a5ab7
 "Games, The - Winter Edition (1988)(U.S. Gold)[128K]",Games,tzx,Spectrum 128K,Good,Exact,Matches the reference emulator over a three minute run,800b03662b9177d35cd658580337c4f5764442641a9781229fcaddf760517a0b
 "Games, The - Winter Edition (1988)(U.S. Gold)[a]",Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,7156d98c8ddd492f6127261d9b14d35261b57ed772aad8c9a6fff29feba79a9c
 Gamma (1985)(Load 'n' Run)(es)[aka Havoc],Covertapes,tap,Spectrum 48K,Good,Exact,Picture matches the reference emulator,a6b52fe73d8afebf6e566de902673b795eca560cd0ec4072e63db46059ff3ba1
@@ -15879,7 +15879,7 @@ Ghostbusters II (1989)(Activision)[a][48-128K],Games,tzx,Spectrum 128K,Good,Exac
 Ghostbusters II (1989)(Activision)[cr Saposoftware][t][128K],Games,tap,Spectrum 128K,Good,Exact,Picture matches the reference emulator,9c4630f7d397243854d9acf7f98157b59d335f1f9a3655fadedf70b4d325dd9d
 Ghostbusters II (1989)(Activision)[t][48-128K],Games,tap,Spectrum 128K,Good,Exact,Picture matches the reference emulator,daff4bd4ff66ac8c29c871d671cdd4991e8834c6a24ec66f3a0c18de0bc6220f
 Ghostbusters II (1989)(Activision)[t][48-128K],Games,tzx,Spectrum 128K,Good,Exact,Picture matches the reference emulator,2303e74906e7287df31dab4c43c69a6b8480559c5693229d0660ec7b9430d8e0
-Ghostbusters II (1989)(The Hit Squad)[48-128K][re-release],Games,tzx,Spectrum 128K,Check,Exact,Picture agrees 87% with the reference emulator,0e1b5232fd52062de839ae8272a19377ec4c669546d3b8b26a94fa9f69922b4a
+Ghostbusters II (1989)(The Hit Squad)[48-128K][re-release],Games,tzx,Spectrum 128K,Good,Exact,Matches the reference emulator over a three minute run,0e1b5232fd52062de839ae8272a19377ec4c669546d3b8b26a94fa9f69922b4a
 Ghostbusters II (demo) (1989)(Activision - MicroHobby),Covertapes,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,6d00c3a66945b1960303bc0c2d9a4e7d786d5824d7bbea3050e5bbbd795c91fe
 "Ghostbusters, The - Part II (19xx)(Theo Devil)",Demos,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,c4bf175015d86aae1aa8e5df316caf5bdd9ebc11200d558adb6b38cf56645de8
 "Ghostbusters, The - Part II (19xx)(Theo Devil)[a]",Demos,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,d72889ba77fa8bb5f0aa5b019e324d05c5b333bb773bbe3081437abe4d4fa144
@@ -16173,7 +16173,7 @@ Going Critical (1998)(Adventure Probe Software),Games,tzx,Spectrum 48K,Good,Exac
 Gold (1983)(Hilderbay),Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,f3eb11cf803ba9480e01822c7d7dd14d65beecec95f1de124d872d9ff851c4a8
 "Gold Collection, The - Beach-Head (1986)(U.S. Gold)",Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,e714ecdd1bd81eca1efc5d1b1665802ef37cf590ac7e892c9f2efe03c1ab682a
 "Gold Collection, The - Spy Hunter (1986)(U.S. Gold)",Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,dd4fb9b45d4b04ab0648052d2058864602f889641e7b2fe87ad3cccf2e4269e2
-"Gold Collection, The - Tapper + Buck Rogers - Planet of Zoom (1986)(U.S. Gold)",Compilations,tzx,Spectrum 48K,Differs,Exact,Picture agrees only 27% with the reference emulator,fbc0aaee649828f73e97930291999b3260ccf403f9b6022be43d881e8950a8b4
+"Gold Collection, The - Tapper + Buck Rogers - Planet of Zoom (1986)(U.S. Gold)",Compilations,tzx,Spectrum 48K,Good,Exact,"Shows the same pictures as the reference emulator, at a different moment",fbc0aaee649828f73e97930291999b3260ccf403f9b6022be43d881e8950a8b4
 "Gold Collection, The - Zaxxon + Blue Max (1986)(U.S. Gold)",Compilations,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,5d27a1cf160c572eb4d7b7ae9eddcb2522c3ec12326e036df1931ab4bf88341b
 Gold Digger (1983)(Blaby Computer Games),Games,tap,Spectrum 48K,Good,Exact,Picture matches the reference emulator,3d9a8899e4f5592bd93012125b16815c2f93d3462585c7f4d464624fba64ab9f
 Gold Digger (1983)(Blaby Computer Games),Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,df7b776323839c880ede4d9fa611b31ecf27d847f8ccddbce4958d415fba2470
@@ -16325,8 +16325,8 @@ Goolf's Exit (1986)(Green Fish Software Enterprise),Games,z80,Spectrum 48K,Good,
 Goolf's Return (1984)(Green Fish Software Enterprise),Games,tap,Spectrum 48K,Good,Exact,Picture matches the reference emulator,9c1e91c9a1b801c4ca2fcff3db4a1f359b2dff23f42d63a516f77a7853ac096b
 Goolf's Return (1984)(Green Fish Software Enterprise),Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,b0978ac50cad32499c71b7c01a1d6b5b9731b6ecbef61fb82af86a62fd0b4c0a
 Goolf's Return (1984)(Green Fish Software Enterprise),Games,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,cae808f2ce6c80d3ea6406a3ff38ca6b01e81ab065c07ae8b556c0c4540a0c49
-"Goonies, The (1986)(Erbe Software)[a][re-release]",Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,d81c84fa1ff7849e41c54f25f6f3e7459bd7aa3d1315e575ec79706455dbb2d0
-"Goonies, The (1986)(Erbe Software)[re-release]",Games,tzx,Spectrum 48K,Check,Exact,Picture agrees 54% with the reference emulator,243592100af188bb856fd85fa477c8516c941ba8eb7d021ad7ff97a6ddd1bc36
+"Goonies, The (1986)(Erbe Software)[a][re-release]",Games,tzx,Spectrum 48K,Good,Exact,"Shows the same pictures as the reference emulator, at a different moment",d81c84fa1ff7849e41c54f25f6f3e7459bd7aa3d1315e575ec79706455dbb2d0
+"Goonies, The (1986)(Erbe Software)[re-release]",Games,tzx,Spectrum 48K,Good,Exact,"Shows the same pictures as the reference emulator, at a different moment",243592100af188bb856fd85fa477c8516c941ba8eb7d021ad7ff97a6ddd1bc36
 "Goonies, The (1986)(U.S. Gold)",Games,tap,Spectrum 48K,Good,Exact,Picture matches the reference emulator,ebc52180201108c8b2ab57693afe8f4796642548427f73635f6dd53ffe981425
 "Goonies, The (1986)(U.S. Gold)",Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,391f2897b78a4eed1633f1cd7d39dae801aa8abd4035e19fe31bc89419fad8f0
 "Goonies, The (1986)(U.S. Gold)",Games,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,d1645debd7f362855f6ff49bd7bb1eb55178feae638954a59767d782e3ddc6a6
@@ -17514,9 +17514,9 @@ Hexagon 2 (1997)(Style Group)(ru),Games,trd,Pentagon 128K,Good,Exact,"Shows the 
 "Hexagonal Museum, The - Intro (1984)(Double Play Adventures)[a]",Games,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,3435ae8113384004e345c6a777315d4e586b3671d39897405417a43ddec46578
 Hexagonia (2001)(VTS),Games,tap,Spectrum 48K,Good,Exact,Picture matches the reference emulator,a49d9c2604c6efd9e41cb82aea6ce153710c55ba3fcc961026022bbb13ecce66
 Hexagonia (2001)(VTS),Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,1f335ead9fe70c01aff54d99da22ee36a8011a21878fa2f05951117e69bfa2d2
-Hexcellent (1993)(Your Sinclair),Covertapes,tzx,Spectrum 48K,Check,Exact,Picture agrees 68% with the reference emulator,b7b4d20de0029992b49bffc739f6e85c5c878d0e00636809e839069159eea79c
+Hexcellent (1993)(Your Sinclair),Covertapes,tzx,Spectrum 48K,Good,Exact,"Shows the same pictures as the reference emulator, at a different moment",b7b4d20de0029992b49bffc739f6e85c5c878d0e00636809e839069159eea79c
 Hexcellent (1993)(Your Sinclair),Covertapes,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,24920f2428fdb853be0e1c1e4ac2e9c24cd54dfe46546e160d4884e9bb380881
-Hexcellent (1993)(Your Sinclair)[a],Covertapes,tzx,Spectrum 48K,Check,Exact,Picture agrees 69% with the reference emulator,507bb67cacd4ee3c83f28adb48c9b94ef100bb02706427765c2366a3cf8ab2c8
+Hexcellent (1993)(Your Sinclair)[a],Covertapes,tzx,Spectrum 48K,Good,Exact,"Shows the same pictures as the reference emulator, at a different moment",507bb67cacd4ee3c83f28adb48c9b94ef100bb02706427765c2366a3cf8ab2c8
 Hexogen (1990)(The Jokers),Demos,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,e8744c144de5b74100183abfbc6dac9002aae70a9ba571ec1361809ea7c971f7
 Hexxagon (1994)(WE Group)(ru),Games,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,662cf4fb618f57651e9e5d5e3b343997d7e85032716dcde33126f8377cd165cf
 Hexxagon (1994)(WE Group)(ru)[128K],Games,tap,Spectrum 128K,Good,Exact,Picture matches the reference emulator,7e0f00f30b31d236edd2b11c90951422634c7dc2374f6b387a6cc74e97e539ba
@@ -17738,8 +17738,8 @@ Hit Man (1984)(Scorpio Gamesworld)(Side A),Games,tzx,Spectrum 48K,Good,Exact,Pic
 Hit Man (1984)(Scorpio Gamesworld)(Side B),Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,c3b61fd35a16212d7f08bd0da52e1ffc4b5a0b8598259d4944c693abf345dbff
 "Hit Pack, The - Ninja Scooter Simulator + European Five-a-Side (1987)(Paxman Promotions)",Compilations,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,e73397bd9568eb092a288b41f8f3092e6c839d23bef8e579d69adb93b8ca4898
 "Hit Pack, The - Turbo Boat Simulator + Cauldron II - The Pumpkin Strikes Back (1987)(Paxman Promotions)",Compilations,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,d320791473d46872166628b2cc153f1d9b1460857e18ee50720dc7181c176615
-Hit Parade - Issue 01 (1988)(Sipe)(it),Magazines,tzx,Spectrum 48K,Check,Exact,Picture agrees 51% with the reference emulator,969e7d3e76e7789a90b7f4365c6521476c8b64f8ae9f723ce199ce7906d85190
-Hit Parade - Issue 02 (1988)(Sipe)(it)(Side A),Magazines,tzx,Spectrum 48K,Check,Exact,Picture agrees 51% with the reference emulator,3f8c610db2a1d2659af16c5084c5aab6519dbc4e36bb457eb2982ad4e5dba049
+Hit Parade - Issue 01 (1988)(Sipe)(it),Magazines,tzx,Spectrum 48K,Ahead,Exact,Runs on while the reference emulator stays on one picture,969e7d3e76e7789a90b7f4365c6521476c8b64f8ae9f723ce199ce7906d85190
+Hit Parade - Issue 02 (1988)(Sipe)(it)(Side A),Magazines,tzx,Spectrum 48K,Ahead,Exact,Runs on while the reference emulator stays on one picture,3f8c610db2a1d2659af16c5084c5aab6519dbc4e36bb457eb2982ad4e5dba049
 Hit Parade - Issue 02 (1988)(Sipe)(it)(Side B),Magazines,tzx,Spectrum 48K,Good,Exact,Matches the reference emulator over a three minute run,eccf7ba1ef65e64cae40960c2613c60a86edeb7b0aedbfa615d44abdb9d3c347
 Hit Parade - Issue 03 (1988)(Sipe)(it),Magazines,tzx,Spectrum 48K,Ahead,Exact,Runs on while the reference emulator stays on one picture,aad2aa3edc089a41a9f6d031b66664be20309b05bc9be7d2b8f18b95e5f3b066
 "Hit Squad, The (1988)(Codemasters)",Games,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,5d6edcc298db1937295382791058176917a7059544f61ee4b5d82f9a300d3085
@@ -18676,14 +18676,14 @@ Indiana Jones and the Last Crusade (1989)(U.S. Gold)[t +4][48-128K],Games,tzx,Sp
 Indiana Jones and the Last Crusade (demo) (1989)(U.S. Gold - MicroHobby),Covertapes,tzx,Spectrum 48K,Good,Exact,"Shows the same pictures as the reference emulator, at a different moment",1a2716c079b8383fcddbac1de16c0e25904c4b9c8c2c5ab86fecbbe42a3a7fc7
 Indiana Jones and the Last Crusade (demo) (1989)(U.S. Gold - Sinclair User),Covertapes,tzx,Spectrum 48K,Good,Exact,"Shows the same pictures as the reference emulator, at a different moment",7b60d6c93c1ba8a4b9ec8e0e08b0807452b3ef62bc373bbc56f644b7ee41bceb
 Indiana Jones and the Last Crusade (demo) (1989)(U.S. Gold - Sinclair User),Covertapes,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,16050b40fb4b8539ed1271be07587f44707c2dd063990753e536762457d90aaa
-Indiana Jones and the Temple of Doom (1987)(Erbe Software)(Side A)[a][re-release],Games,tzx,Spectrum 48K,Good,Exact,"Shows the same pictures as the reference emulator, at a different moment",2c884733206f92a3c98e1eeaa3e0d4c000b643a8019ec74b142f04c29d4417b3
+Indiana Jones and the Temple of Doom (1987)(Erbe Software)(Side A)[a][re-release],Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,2c884733206f92a3c98e1eeaa3e0d4c000b643a8019ec74b142f04c29d4417b3
 Indiana Jones and the Temple of Doom (1987)(Erbe Software)(Side A)[re-release],Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,98c6c03bff8bb6c75809c7be74a56d52cd1224ebb3da478ab0529a80b1ce92ae
 Indiana Jones and the Temple of Doom (1987)(Erbe Software)(Side B)[a][re-release],Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,4dc5072e63d26f9b264d34b36744eb21760cb3213d90fb8c866bac6b1c814cf6
 Indiana Jones and the Temple of Doom (1987)(Erbe Software)(Side B)[re-release],Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,a979bd4e31e2e949555c884e46ceb276453d6f1cf76749fb464875f9be536404
 Indiana Jones and the Temple of Doom (1987)(U.S. Gold),Games,tap,Spectrum 48K,Good,Exact,Picture matches the reference emulator,a6e41441f6aa54d507443c7988ad92bee1f3504e59e93e1277837b782c701fa9
 Indiana Jones and the Temple of Doom (1987)(U.S. Gold),Games,tzx,Spectrum 48K,Good,Exact,"Shows the same pictures as the reference emulator, at a different moment",66cc466fe27b420ae1a5a9f9d86d6b3901d32da4e6c3c2cea78f434272c8e76f
 Indiana Jones and the Temple of Doom (1987)(U.S. Gold)[128K],Games,z80,Spectrum 128K,Good,Exact,Picture matches the reference emulator,c67262084d17441bd8dcb776932512120b13c987ab9809e748a817641e4909cd
-Indiana Jones and the Temple of Doom (1987)(U.S. Gold)[a2],Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,0700a7ee95b82ab130dc4b13f0ded8764e8bb28fdf82fc6a6beca5e419709f44
+Indiana Jones and the Temple of Doom (1987)(U.S. Gold)[a2],Games,tzx,Spectrum 48K,Good,Exact,"Shows the same pictures as the reference emulator, at a different moment",0700a7ee95b82ab130dc4b13f0ded8764e8bb28fdf82fc6a6beca5e419709f44
 Indiana Jones and the Temple of Doom (1987)(U.S. Gold)[a],Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,d7342b1404a939492e031b50a41f0b57e0f9c3b71d146a26ac6ea36405c4a457
 Indiana Jones and the Temple of Doom (1987)(U.S. Gold)[h Queen Software],Games,scl,Pentagon 128K,Good,Exact,Picture matches the reference emulator,66f0e7aae6d37c0b39bc4d243702bd0bada490df06ab23bc4330e1c3a192ebc5
 Indiana Jones and the Temple of Doom (1987)(U.S. Gold)[m],Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,b1edb0342a9d5040e3f563b002ca9b7c9aa283ae212c65baf8153528ae913919
@@ -19188,7 +19188,7 @@ Italy 1990 (1990)(U.S. Gold)[128K],Games,tzx,Spectrum 128K,Good,Exact,Picture ma
 Italy 1990 (1992)(Kixx)(Side A)[128K][re-release],Games,tzx,Spectrum 128K,Good,Exact,Picture matches the reference emulator,8da3b8804a7220566bdf83ccada9a11cf697e54f225ad606022a61b4cca4a4af
 Italy 1990 (1992)(Kixx)(Side B)[128K][re-release],Games,tzx,Spectrum 128K,Good,Exact,Picture matches the reference emulator,c10c1039ee233b8022c6191fb10b34aa52a605498c9c80798764dff83858a846
 Italy 1990 - Winners Edition (1990)(U.S. Gold)[128K],Games,tzx,Spectrum 128K,Good,Exact,Picture matches the reference emulator,f9a7a89c3d76bcad790186b388ad057339af59f7e8a60c8bd6fe8b08e4bddc65
-Italy 1990 - Winners Edition (1990)(U.S. Gold)[a2][128K],Games,tzx,Spectrum 128K,Check,Exact,Picture agrees 76% with the reference emulator,866d1f267a1f63984658d387d4a71129670a9cca92e334ef245f6b2bdb37621f
+Italy 1990 - Winners Edition (1990)(U.S. Gold)[a2][128K],Games,tzx,Spectrum 128K,Good,Exact,"Shows the same pictures as the reference emulator, at a different moment",866d1f267a1f63984658d387d4a71129670a9cca92e334ef245f6b2bdb37621f
 Italy 1990 - Winners Edition (1990)(U.S. Gold)[a][128K],Games,tzx,Spectrum 128K,Good,Exact,Picture matches the reference emulator,d625d79b941e988e94a6345bda9e6a68926ca617f0c649a997492d8844178968
 Itasundorious (1983)(Hudson Soft),Games,tap,Spectrum 48K,Good,Exact,Picture matches the reference emulator,a4c09d8d2a6cb0777f8d3869c2053b30058897e22173e211d9df756a339da6e3
 Itasundorious (1983)(Hudson Soft),Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,2c5be0759da53aae3dc81debac36410f7696feae105cae0b76fd1dc9d336cc86
@@ -19498,7 +19498,7 @@ Jet Set Willy (1984)(Software Projects),Games,z80,Spectrum 48K,Good,Exact,Pictur
 Jet Set Willy (1984)(Software Projects)[a],Games,tap,Spectrum 48K,Ahead,Exact,Runs on while the reference emulator stays on one picture,13562d134e5ae63bcf1bf94a36165657e0457c9823bd3f9ce854995ec77c8c99
 Jet Set Willy (1984)(Software Projects)[a],Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,d2414588773638d7bb1639c2ef25e089f36d8d7d2959971549e303ff20c358c3
 Jet Set Willy (1984)(Software Projects)[a],Games,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,04c58b392252b626fb5079d713a95b69c92910b988d56e2c57c03f4e4ccac232
-Jet Set Willy (1984)(Software Projects)[cr],Games,tzx,Spectrum 48K,Good,Exact,"Shows the same pictures as the reference emulator, at a different moment",f467a850477be27c3911da24210ce7efbcd23da9fc19e82e2a408a7c911ff34e
+Jet Set Willy (1984)(Software Projects)[cr],Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,f467a850477be27c3911da24210ce7efbcd23da9fc19e82e2a408a7c911ff34e
 Jet Set Willy (1984)(Software Projects)[cr],Games,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,2faa7d46fabd4db94d30582a2f3ecaf14cb2f3a2b24d55750d0e97181424ed17
 Jet Set Willy (1984)(Software Projects)[cr][a2],Games,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,537623fa996aef92dbb67540455e502683a4b6f7e7bca269e766026c05ff4274
 Jet Set Willy (1984)(Software Projects)[cr][a],Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,c8050d301ca937935b3194ee56fb247944d20c061d8ae7d60acdea3bda34cc46
@@ -19777,7 +19777,7 @@ Joe Blade III (1989)(Players Premier Software),Games,tzx,Spectrum 48K,Good,Exact
 Joe Blade III (1989)(Players Premier Software)[128K],Games,tap,Spectrum 128K,Good,Exact,Picture matches the reference emulator,07de029fd9fad5b6f2d8b8b44f88b6327f4a0b522954815d01c83fcef9eb822c
 Joe Blade III (1989)(Players Premier Software)[128K],Games,tzx,Spectrum 128K,Good,Exact,Picture matches the reference emulator,8cf6b478dde76f3abf9df92b7fbfa55776909d6b37120e32ca4df07956069ceb
 Joe Blade III (1989)(Players Premier Software)[a],Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,2266f9dd7b054f2f2a071575041c9945ae91e38ff6efd4380d07051d434ecc79
-Joe Blade III (1989)(Players Premier Software)[a][128K],Games,tzx,Spectrum 128K,Check,Exact,Picture agrees 87% with the reference emulator,a239b323c698464ac031c17aaacf72736b4ea3a028eaf89b771412afec6aee99
+Joe Blade III (1989)(Players Premier Software)[a][128K],Games,tzx,Spectrum 128K,Ahead,Exact,Runs on while the reference emulator stays on one picture,a239b323c698464ac031c17aaacf72736b4ea3a028eaf89b771412afec6aee99
 Joe Blade III (1989)(Players Premier Software)[t],Games,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,0306419bd2b963f8c2ec0b6469ac02517d68d75fc084eef15b8e7248390741ed
 Joe's Drink Limonaden Stand (19xx)(-)(de)[16K],Games,tap,Spectrum 48K,Good,Exact,Picture matches the reference emulator,ba80459ac0b75e846a248af446205fa26fce5c14f686e2db64f48e36774eb975
 Joe's Drink Limonaden Stand (19xx)(-)(de)[16K],Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,81996ed833a026aefc5c7d6146eca35be0fb1e011123c3159317dece10e1ae46
@@ -20057,7 +20057,7 @@ Kane (1986)(Mastertronic)[a],Games,tzx,Spectrum 48K,Good,Exact,Picture matches t
 Kangaroo (1984)(Special Playgames)(it)[a][aka Kosmic Kanga],Covertapes,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,d0bee3cc814d5615221985178c6256bba759d8868d11e4d3eed344846c03d37b
 Kangaroo (1984)(Special Playgames)(it)[aka Kosmic Kanga],Covertapes,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,060f55dd42f78389039ecab998d6bd556acabf1fcce23e76119d80f9a12889fd
 Karate Ace - Avenger + Bruce Lee + The Way of the Tiger (1988)(Gremlin Graphics Software)[48-128K],Compilations,tzx,Spectrum 128K,Good,Exact,Picture matches the reference emulator,049d6a3385fdfb4513b77dc09a75c6f12a55dc7a4a3a3dd54c1e6a588ab190b9
-Karate Ace - Kung-Fu Master (1988)(Gremlin Graphics Software),Compilations,tzx,Spectrum 48K,Differs,Exact,Picture agrees only 13% with the reference emulator,953033b96e7fa03ec13ce13e06978403048ec88eff0cb3d4990bfddd06088820
+Karate Ace - Kung-Fu Master (1988)(Gremlin Graphics Software),Compilations,tzx,Spectrum 48K,Ahead,Exact,Gets further than the reference emulator in the same time,953033b96e7fa03ec13ce13e06978403048ec88eff0cb3d4990bfddd06088820
 Karate Ace - Uchi Mata + The Way of the Exploding Fist + Samurai Trilogy (1988)(Gremlin Graphics Software)(Side A)[48-128K],Compilations,tzx,Spectrum 128K,Good,Exact,Picture matches the reference emulator,0d990a9358ed5175b0fecc6bc37eb7bfdf14ab5bf2a831467c114ae92e04280e
 Karate Ace - Uchi Mata + The Way of the Exploding Fist + Samurai Trilogy (1988)(Gremlin Graphics Software)(Side B)[48-128K],Compilations,tzx,Spectrum 128K,Good,Exact,Picture matches the reference emulator,2d91715acd5635ecc31a43c2e691004f24b4940f0046e7d2de80f119e0b932bb
 Karateka (1986)(Dro Soft)(ES)(Side A),Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,38dafc7ea202904d7083b81ae874de472063569349ff332176857f269c41ef0d
@@ -20359,7 +20359,7 @@ Kingdom (1996)(CSSCGC),Games,z80,Spectrum 48K,Good,Exact,Picture matches the ref
 Kingdom (19xx)(-),Games,tap,Spectrum 48K,Good,Exact,Picture matches the reference emulator,083a37d0279b1df040fd4f273c588971e9f3d9fab1ca15d30dd45be2d22a809d
 Kingdom (19xx)(-),Games,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,796049f924ba40eae41bada4a58ef9358f708e22f05503251003c7d6549a3113
 Kingdom of Grain (1992)(THD)(ru),Games,trd,Pentagon 128K,Good,Exact,Picture matches the reference emulator,1f89040a166419c886bebad659f1c2be43a3834860df13f495c5afed48756715
-"Kingdom of Krell, The (1987)(Anco Software)[128K]",Games,tzx,Spectrum 128K,Differs,Exact,Picture agrees only 0% with the reference emulator,34590fe1825ad8b4d84da8a511f46380c379d56c9b5771f3b46a359de5875b44
+"Kingdom of Krell, The (1987)(Anco Software)[128K]",Games,tzx,Spectrum 128K,Good,Exact,Matches the reference emulator over a three minute run,34590fe1825ad8b4d84da8a511f46380c379d56c9b5771f3b46a359de5875b44
 "Kingdom of Krell, The (1987)(Anco Software)[128K]",Games,z80,Spectrum 128K,Good,Exact,Picture matches the reference emulator,7ad49dca403ac1ba59d722f8f72e29919a54dd3ad24eb92d732b302481b4217f
 Kirel (1986)(Addictive Games),Games,sp,Spectrum 48K,Good,Exact,Picture matches the reference emulator,5d114b4ea1704503f3d39b3f4da425658904fbe593cd57ff5bd7a75ec76e87e6
 Kirel (1986)(Addictive Games),Games,tap,Spectrum 48K,Good,Exact,Picture matches the reference emulator,26bbef04e84e5e34cfaf9a1bd375e2768c9cf456b0eab7863afeb805412c8f42
@@ -20836,7 +20836,7 @@ Kung-Fu (1984)(Bug-Byte Software)[a3],Games,tzx,Spectrum 48K,Good,Exact,Picture 
 Kung-Fu (1984)(Bug-Byte Software)[a],Games,tap,Spectrum 48K,Good,Exact,Picture matches the reference emulator,f12a9dfbbffe45f686e0a1fda1834c71be70bb0dd021ce91d915687e652a0e86
 Kung-Fu (1984)(Bug-Byte Software)[a],Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,bb265df5ca27a795c41f783fbb71ea3018c5aaccbe1279f5b652fc5310bea1ba
 Kung-Fu Master (1986)(Americana Software)[re-release],Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,3376de2d6635c4c45d4f5df6df82e89162fe001c34466098df57c55ad5bee646
-Kung-Fu Master (1986)(U.S. Gold),Games,tzx,Spectrum 48K,Differs,Exact,Picture agrees only 13% with the reference emulator,eef153e3cc798fb94c8c222eea2904f83ae4b6d4f1ca24d8e398c35f32df754e
+Kung-Fu Master (1986)(U.S. Gold),Games,tzx,Spectrum 48K,Ahead,Exact,Runs on while the reference emulator stays on one picture,eef153e3cc798fb94c8c222eea2904f83ae4b6d4f1ca24d8e398c35f32df754e
 Kung-Fu Master (1986)(U.S. Gold),Games,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,611dec79094aee3ca31b8e1217ab85f1f6b2d9b07317f90748f70494efe23836
 Kung-Fu Master (1986)(U.S. Gold)[a2],Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,f0d086389193542bef243821e3e9d72333ff64a82a8cc85e122d0e4b5a61a7ab
 Kung-Fu Master (1986)(U.S. Gold)[a2],Games,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,1756814338113b7b0d463078b09923805b69dc8c3a0f65d5f4ca430e6bc843b1
@@ -20875,7 +20875,7 @@ L.E.D. Storm (1988)(Go!),Games,tap,Spectrum 48K,Good,Exact,Picture matches the r
 L.E.D. Storm (1988)(Go!),Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,e9a060924a4130de4ee29bdcc32f222e1a71f08e2227d7c2a81c258bbab4c111
 L.E.D. Storm (1988)(Go!)[128K],Games,tzx,Spectrum 128K,Good,Exact,Matches the reference emulator over a three minute run,6373ceadc4c1c20c71c997405151dd21be47445850d0489189a16f2504fe48b0
 L.E.D. Storm (1988)(Go!)[a2],Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,c4a8801cc86a7e97c0c9b0b6a3e33e4d21138e30b18b19072a2dfa8cc22b4dc6
-L.E.D. Storm (1988)(Go!)[a3],Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,9b9d119dff132e7d8ad46c5aca03c407e3448d30a3cb28f6a50afd7e22447f85
+L.E.D. Storm (1988)(Go!)[a3],Games,tzx,Spectrum 48K,Good,Exact,"Shows the same pictures as the reference emulator, at a different moment",9b9d119dff132e7d8ad46c5aca03c407e3448d30a3cb28f6a50afd7e22447f85
 L.E.D. Storm (1988)(Go!)[a],Games,tap,Spectrum 48K,Good,Exact,Picture matches the reference emulator,c0fa363eee3d01e79c99a9bfc964ea7ae241fa49cddeb91a85a83c122d25e867
 L.E.D. Storm (1988)(Go!)[a],Games,tzx,Spectrum 48K,Good,Exact,"Shows the same pictures as the reference emulator, at a different moment",75f9060485adb1aaf7abf575f3d50184f04d5a2c219733a357ae731bc62045aa
 L.E.D. Storm (1988)(Go!)[a][128K],Games,tzx,Spectrum 128K,Good,Exact,Matches the reference emulator over a three minute run,ff8f3421e42970ab0498704fc731172d88aaabf4d731398fe51e8895939b0521
@@ -21566,7 +21566,7 @@ Light Force (1991)(Faster Than Light - Sinclair User)[password MISER],Covertapes
 Light Magic (1985)(New Generation Software),Applications,tap,Spectrum 48K,Good,Exact,Picture matches the reference emulator,e3e01290ad0eb301def828f09d91e4b42dcb35289e27d88e99f479ebc60b3dce
 Light Magic (1985)(New Generation Software),Applications,tzx,Spectrum 48K,Good,Exact,"Shows the same pictures as the reference emulator, at a different moment",843e4f61f9d7d75092fa5c0d295bdd4309f44e99006991117f320f1dd65f2388
 Light Magic (1985)(New Generation Software),Applications,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,d2a5bbd809a5ec087cef204f76f76f6aae9373a7f7f5961640fa1313a840682a
-Light Magic (1985)(New Generation Software)(Side A),Applications,tzx,Spectrum 48K,Good,Exact,"Shows the same pictures as the reference emulator, at a different moment",f1536ddc56f9d6391dd3088a054e67a7e1ea7249c46f5d06780d4a25bb67a757
+Light Magic (1985)(New Generation Software)(Side A),Applications,tzx,Spectrum 48K,Check,Exact,Picture agrees 60% with the reference emulator,f1536ddc56f9d6391dd3088a054e67a7e1ea7249c46f5d06780d4a25bb67a757
 Light Magic (1985)(New Generation Software)(Side B),Applications,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,b5359ad0cbd9ac8e400de69f498a72a3a8a16da7f94d093ecb851707e3da3ef6
 Light Magic (1985)(New Generation Software)[a2],Applications,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,ba02068f757e50b574976e0d1824245f2d7a2a359ed3e6e7f8a827bb13f14106
 Light Magic (1985)(New Generation Software)[a],Applications,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,9782fc47bfcb3d8ccac9904e6cf6e1e3e3319e08c5c480c4579b391f8c534c35
@@ -21978,7 +21978,7 @@ Lone Wolf III - The Mirror of Death (1991)(Audiogenic Software)[b2],Games,tzx,Sp
 Lone Wolf III - The Mirror of Death (1991)(Audiogenic Software)[b],Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,16d11eb99d452ac1bd393b9de0d6443de5c7802dc905d22b6381ebaabcf41588
 Lone Wolf III - The Mirror of Death (1991)(Audiogenic Software)[cr Matasoft - Kamilsoft][t +3 Matasoft - Kamilsoft][128K],Games,tap,Spectrum 128K,Good,Exact,Picture matches the reference emulator,3e7a6399c31651628aadf4017b8e24bd44c606f2ddb1db7191c40a0cef0ab650
 Lone Wolf III - The Mirror of Death (1991)(System 4)(Side A)[re-release],Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,d4090c93fd32f02549c6214845732aee4e0e948f00bc2c6b7b1c98ef79e7be2e
-Lone Wolf III - The Mirror of Death (1991)(System 4)(Side B)[re-release],Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,dec9b022be8b5c730f51206d3f12876a63534428eafe67883340ec5de0ba0da9
+Lone Wolf III - The Mirror of Death (1991)(System 4)(Side B)[re-release],Games,tzx,Spectrum 48K,Check,Exact,Picture agrees 58% with the reference emulator,dec9b022be8b5c730f51206d3f12876a63534428eafe67883340ec5de0ba0da9
 Lone Wolf III - The Mirror of Death (1992)(Audiogenic Software - Sinclair User)[password LADDER],Covertapes,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,6d3d79fcbb42647eb059314bc0c1fcbfc52b7fd38a2971b1ed20506971362016
 Long Division (1983)(Calpac Educational Software),Educational,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,aa08080bfbfd140288836688044e72f0a31f94aeefc5314f7ab4eb315e8fb737
 Long Division (1983)(Calpac Educational Software)[a],Educational,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,9510c3a1aef8473aed40cb95563d49e7149e91be554be893a52da0d75e1b8fb5
@@ -23388,7 +23388,7 @@ Mega Color Lines (1995)(Mortal Kombat)(ru),Games,trd,Pentagon 128K,Good,Exact,Pi
 Mega Color Lines (1995)(Mortal Kombat)(ru)[128K],Games,tap,Spectrum 128K,Good,Exact,Picture matches the reference emulator,6ca76e0069ea1790ad9fe23a475adef12b8cbb87b83c6db40e7a6a2cae6d8885
 Mega Color Lines (1995)(Mortal Kombat)(ru)[128K],Games,tzx,Spectrum 128K,Good,Exact,Picture matches the reference emulator,929ae6eb1f934904d162ead36a837204765d4e6edcd5b708af45e9d769c6fca2
 Mega Fruit (1984)(Thor Computer Software),Games,tap,Spectrum 48K,Differs,Exact,Picture agrees only 50% with the reference emulator,b76ba8f22a5e9f2a7ab800e6baf68d193d2bce61083ee54f3a844f7be9f9dcd6
-Mega Fruit (1984)(Thor Computer Software),Games,tzx,Spectrum 48K,Differs,Exact,Picture agrees only 47% with the reference emulator,be413ec51a3972efa22d0093a9707f02e83180b5088f29ce05e357e6dd43d806
+Mega Fruit (1984)(Thor Computer Software),Games,tzx,Spectrum 48K,Differs,Exact,Picture agrees only 46% with the reference emulator,be413ec51a3972efa22d0093a9707f02e83180b5088f29ce05e357e6dd43d806
 Mega Fruit (1984)(Thor Computer Software),Games,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,188dc8e9de1ad72e63a4bbfa251d6eb6701ec6c01c31a27a522690e4522dfdb4
 Mega Mix - Barbarian II - The Dungeon of Drax (1990)(Ocean),Games,tzx,Spectrum 48K,Differs,Exact,Picture agrees only 5% with the reference emulator,55364a16750c47a77e1717f5051506cccd2740550ae8d2b64f6d6edb0180064e
 Mega Mix - Barbarian II - The Dungeon of Drax (1990)(Ocean)[128K],Games,tzx,Spectrum 128K,Good,Exact,Picture matches the reference emulator,ea795fdaa9ba73dc7c5a83790e8b0435867fcedfa8f6d35cd33c5b0574b07608
@@ -23672,7 +23672,7 @@ Michel Futbol Master (1989)(Dinamic Software)(es),Games,tzx,Spectrum 48K,Good,Ex
 Michel Futbol Master (1989)(Dinamic Software)(es),Games,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,69d1ef477573a20cf3b2e7c295c042d792c41aa56b3fbf5536fbc78ea635954c
 Michel Futbol Master (1989)(Dinamic Software)(es)(Side A),Games,tzx,Spectrum 48K,Good,Exact,Matches the reference emulator over a three minute run,db93cf630f3506eba432593b84532f3918db677c409fbf1467e84635d0faf72e
 Michel Futbol Master (1989)(Dinamic Software)(es)(Side A)[a],Games,tzx,Spectrum 48K,Good,Exact,Matches the reference emulator over a three minute run,4bfe5c0e99254c8d40b4bee072da2e6a1afee3653d154d78716b2b54943db1a6
-Michel Futbol Master (1989)(Dinamic Software)(es)(Side A)[large case],Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,dad3d0d0784b0dba03a60734b022ba82fd7c2e923cd67378aa58fb0120094d21
+Michel Futbol Master (1989)(Dinamic Software)(es)(Side A)[large case],Games,tzx,Spectrum 48K,Good,Exact,Matches the reference emulator over a three minute run,dad3d0d0784b0dba03a60734b022ba82fd7c2e923cd67378aa58fb0120094d21
 Michel Futbol Master (1989)(Dinamic Software)(es)(Side B),Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,e1ec0d716731da93fd81b4180e8ae5132ed22c998496d5998dff615b72257893
 Michel Futbol Master (1989)(Dinamic Software)(es)(Side B)[a],Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,51e475adb94c4e72ea54c4f9a6965bf9b3d52662862ef7027538ef1b33a39b3e
 Michel Futbol Master (1989)(Dinamic Software)(es)(Side B)[large case],Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,750869cb5579d48c5dd82c1072c2f8763e5f1491f2af48425de2e4df8eb4fb32
@@ -23807,7 +23807,7 @@ MicroHobby - Issue 205 - Tape 31 (1990)(MicroHobby)(es)(Side A),Covertapes,tzx,S
 MicroHobby - Issue 205 - Tape 31 (1990)(MicroHobby)(es)(Side B),Covertapes,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,bf10a6d202a1718064f6d89caef5ea3436a1ea4ed04b82ac053262ab0118cd43
 MicroHobby - Issue 205 - Tape 32 (1990)(MicroHobby)(es)(Side A),Covertapes,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,021c0b7facccabe62d8a49ae3ed0ae990339474265823dd0e4c1f1a9124a7c30
 MicroHobby - Issue 205 - Tape 32 (1990)(MicroHobby)(es)(Side B),Covertapes,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,9fff184e90cb5fc2d3643750ab0aa0a6a3ccc73e6ab9ac9b70596aca220f6757
-MicroHobby - Issue 206 - Tape 33 (1991)(MicroHobby)(es)(Side A),Covertapes,tzx,Spectrum 48K,Differs,Exact,Picture agrees only 11% with the reference emulator,a2388b8bb9804391ac283b3c0c66a80aa3ad2a08e460aa732393eae06059ba30
+MicroHobby - Issue 206 - Tape 33 (1991)(MicroHobby)(es)(Side A),Covertapes,tzx,Spectrum 48K,Check,Exact,The reference emulator gets further in the same time,a2388b8bb9804391ac283b3c0c66a80aa3ad2a08e460aa732393eae06059ba30
 MicroHobby - Issue 206 - Tape 33 (1991)(MicroHobby)(es)(Side B),Covertapes,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,b185d3d2da3d04d47f0acc9359121d4523edcecd07fba200ca739d0da30608ae
 MicroHobby - Issue 207 - Tape 34 (1991)(MicroHobby)(es)(Side A),Covertapes,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,02d90afd6ef9ed4b3615906a318c37a31463d4f544a38b95f9d50b75004a883d
 MicroHobby - Issue 207 - Tape 34 (1991)(MicroHobby)(es)(Side B),Covertapes,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,2fb0b81c4db47a2e9dfd5c2f46d918d57cab2bb79fdeca9de95eab118d5a0b68
@@ -23924,7 +23924,7 @@ MicroHobby Games - Issue 29 (1985)(Hobby Press)(es),Magazines,tzx,Spectrum 48K,G
 MicroHobby Games - Issue 30 (1985)(Hobby Press)(es),Magazines,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,bc2497eafbf685e96999463c787813ed7688357dbef16d55cbdbdd7a3c105a28
 MicroHobby Games - Issue 31 (1985)(Hobby Press)(es),Magazines,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,5ed33d69b671f55c1c0d2245bfbeaf606d54fc4925dc37edcc5d72f93e5a5d45
 MicroHobby Games - Issue 32 (1985)(Hobby Press)(es),Magazines,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,b679c20e463a376e1da3ec265cb151779135ba2fa0135b56655f2bd146a4dd56
-MicroHobby Games - Issue 33 (1985)(Hobby Press)(es),Magazines,tzx,Spectrum 48K,Differs,Exact,Picture agrees only 1% with the reference emulator,0b77bc54239914a07ccb0acdf8ea8695ba9f4dc6c0beace6d2196c8fa06bd607
+MicroHobby Games - Issue 33 (1985)(Hobby Press)(es),Magazines,tzx,Spectrum 48K,Good,Exact,"Shows the same pictures as the reference emulator, at a different moment",0b77bc54239914a07ccb0acdf8ea8695ba9f4dc6c0beace6d2196c8fa06bd607
 MicroHobby Games - Issue 34 (1985)(Hobby Press)(es),Magazines,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,6a3f3430020322b458ced59a31947a05006910b50570522f901853a0ae1bb899
 MicroHobby Games - Issue 35 (1985)(Hobby Press)(es),Magazines,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,7129f8f7ecf0459c64bab111e532eb020e6fc86f087b38f235374e37c522cb4d
 MicroHobby Games - Issue 36 (1985)(Hobby Press)(es),Magazines,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,1c98c48ca2789c3e0344f132b46d99c026dd646fecb0213f3ba0d58bfa6365d5
@@ -24623,8 +24623,8 @@ Moontorc (1991)(Atlantis Software),Games,tap,Spectrum 48K,Good,Exact,Picture mat
 Moontorc (1991)(Atlantis Software),Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,958bae3dfffd4d33878b22f43d68eefcd48f95a488e2146c1d1db4f3f685a9b0
 Moonwalker (1989)(Erbe Software)[48-128K][re-release],Games,tzx,Spectrum 128K,Good,Exact,"Shows the same pictures as the reference emulator, at a different moment",6af1f6b5c9996cd8c6aba690068f5cc4581ef4f0115e0ced7ae2704290b3aa56
 Moonwalker (1989)(U.S. Gold)[48-128K],Games,tap,Spectrum 128K,Ahead,Exact,Gets further than the reference emulator in the same time,427a3e7ccbf66fa81bcee8bf679d62c1ab9eb28a50c7b6ebf975562003b383d2
-Moonwalker (1989)(U.S. Gold)[48-128K],Games,tzx,Spectrum 128K,Check,Exact,Picture agrees 87% with the reference emulator,6d0d2890d27ddb3eaaa80647d83f85aa5cc369231680720f4798b9a57869e232
-Moonwalker (1989)(U.S. Gold)[a2][48-128K],Games,tzx,Spectrum 128K,Check,Exact,Picture agrees 86% with the reference emulator,7f0185f5c8b6966ccf1e38bf5bf2f4cf9ee4a6ee8fc189effcf0fc2c620cbbf8
+Moonwalker (1989)(U.S. Gold)[48-128K],Games,tzx,Spectrum 128K,Check,Exact,The reference emulator gets further in the same time,6d0d2890d27ddb3eaaa80647d83f85aa5cc369231680720f4798b9a57869e232
+Moonwalker (1989)(U.S. Gold)[a2][48-128K],Games,tzx,Spectrum 128K,Good,Exact,Matches the reference emulator over a three minute run,7f0185f5c8b6966ccf1e38bf5bf2f4cf9ee4a6ee8fc189effcf0fc2c620cbbf8
 Moonwalker (1989)(U.S. Gold)[a3][48-128K],Games,tzx,Spectrum 128K,Check,Exact,Picture agrees 71% with the reference emulator,800c98e5b674ed0d86183ff338ea1a49cedddf49b518bf7bc3c339f5ab3b7388
 Moonwalker (1989)(U.S. Gold)[a][48-128K],Games,tzx,Spectrum 128K,Check,Exact,Picture agrees 72% with the reference emulator,8c27ba0990a9a7562882d04d0ca10828cda5fef46b9fb286071024277f01cefd
 Moonwalker (1989)(U.S. Gold)[h][48-128K],Games,tzx,Spectrum 128K,Check,Exact,The reference emulator gets further in the same time,b5a10835104e0011577c86a2f198b6682f869b2e93df6b4adcc60b67967747e4
@@ -25066,7 +25066,7 @@ Mundo Magico (1991)(Aventuras Espanolas)(es),Games,tzx,Spectrum 48K,Good,Exact,P
 "Munsters, The (1989)(Again Again)[a3]",Games,tzx,Spectrum 48K,Ahead,Exact,Runs on while the reference emulator stays on one picture,ab1885c45325f1fb5c80802d7efd5ab86ccfe985393c8693849b6d6d537da7df
 "Munsters, The (1989)(Again Again)[a]",Games,tap,Spectrum 48K,Good,Exact,Picture matches the reference emulator,4cd88e73159281f713fa56c769c54a92feed46f588c07772dc99bf92cdd63f36
 "Munsters, The (1989)(Again Again)[a]",Games,tzx,Spectrum 48K,Ahead,Exact,Runs on while the reference emulator stays on one picture,599b560e2b14b7a0e6e03565a0ba8a32939d156d3ac7ef57a98569589bf52b4a
-"Munsters, The (1989)(System 4)[re-release]",Games,tzx,Spectrum 48K,Check,Exact,Picture agrees 57% with the reference emulator,a5de7f72d6c4729811c6e32c90cd9a80f881c31f637d27931782c74e38697ef8
+"Munsters, The (1989)(System 4)[re-release]",Games,tzx,Spectrum 48K,Ahead,Exact,Runs on while the reference emulator stays on one picture,a5de7f72d6c4729811c6e32c90cd9a80f881c31f637d27931782c74e38697ef8
 MUP - Microdrive Utility Program v1.1 (1984)(JC Jumbo Data),Applications,tap,Spectrum 48K,Good,Exact,Picture matches the reference emulator,312e0ac8561f2e809fc67ae7e0a981c978cf532d5077a680f4a735ad091d9346
 MUP - Microdrive Utility Program v1.1 (1984)(JC Jumbo Data),Applications,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,908946609b4904551c7e4d75156831cd559c67007b914c6cff14c0fb37878221
 MUP - Microdrive Utility Program v1.1 (1984)(JC Jumbo Data),Applications,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,c3c8d885e90df729c71e7493a9860d45eb10485cc1b484c5c13d26db8c0d64db
@@ -25693,7 +25693,7 @@ New Special Playgames - Issue 06 (1987)(Sipe)(it),Magazines,tzx,Spectrum 48K,Ahe
 New Special Playgames - Issue 07 (1988)(Sipe)(it),Magazines,tzx,Spectrum 48K,Differs,Exact,Picture agrees only 20% with the reference emulator,401729d5fb956fa67c49bf49d9a4ee55503d1ae57d19732f7f0114279c7ad2c8
 New Special Playgames - Issue 08 (1988)(Sipe)(it),Magazines,tzx,Spectrum 48K,Differs,Exact,Picture agrees only 20% with the reference emulator,5c64ce1b21a2bbce1d03f14f2d01ca8f250f763d24f6057abbb65d6d0e0f4429
 New Special Playgames - Issue 09 (1988)(Sipe)(it),Magazines,tzx,Spectrum 48K,Differs,Exact,Picture agrees only 21% with the reference emulator,5643e533a8a81aaad8940c4b9095b9312f4ba29c4428f10ae34aa5cef3528b84
-New Special Playgames - Issue 10 (1988)(Sipe)(it),Magazines,tzx,Spectrum 48K,Differs,Exact,Picture agrees only 21% with the reference emulator,f0498249776e5cc25f031fe4ba7d919727d4cdd374b5f6c97d930506e1774a7e
+New Special Playgames - Issue 10 (1988)(Sipe)(it),Magazines,tzx,Spectrum 48K,Ahead,Exact,Gets further than the reference emulator in the same time,f0498249776e5cc25f031fe4ba7d919727d4cdd374b5f6c97d930506e1774a7e
 New Special Playgames - Issue 11 (1988)(Sipe)(it),Magazines,tzx,Spectrum 48K,Differs,Exact,Picture agrees only 20% with the reference emulator,178faf8ac5a45c69778ef9c1a428f19cb2a56ea0cf1fd2d8a314f660d53ad2f6
 New Special Playgames - Issue 12 (1988)(Sipe)(it),Magazines,tzx,Spectrum 48K,Differs,Exact,Picture agrees only 20% with the reference emulator,01916a3c31acf87b17199fa0bebc8e2642caa92dc08bef430bd33f8ac4bc2b37
 New Special Playgames - Issue 13 (1988)(Sipe)(it),Magazines,tzx,Spectrum 48K,Ahead,Exact,Gets further than the reference emulator in the same time,e69d3c4a813f7f7a22023a5f05bb81459291a6ae1e72e222d5727f997919c563
@@ -25718,7 +25718,7 @@ New Special Playgames - Issue 30 (1990)(Sipe)(it),Magazines,tzx,Spectrum 48K,Goo
 New Special Playgames - Issue 30 (1990)(Sipe)(it)[a],Magazines,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,8e827f8e1caa9af7159f041afd5dbf2f9fbaeb5506007a0e074a3af3ea65698e
 New Special Playgames - Issue 31 (1990)(Sipe)(it),Magazines,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,6bcc95711be8148096543d3281da89ad42836c861915ee934f5f2d2c54ea01a0
 New Special Playgames - Issue 32 (1990)(Sipe)(it),Magazines,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,34f1ed2a19e1383f0ab33e8cbbdbee34ac64b527ca9e74a1a9771f6b7259a53b
-New Special Playgames - Issue 33 (1990)(Sipe)(it),Magazines,tzx,Spectrum 48K,Check,Exact,Picture agrees 83% with the reference emulator,9684fd273071699fb55cb68b40fdf9afe2b907b236fb7b208b0e016f4094b175
+New Special Playgames - Issue 33 (1990)(Sipe)(it),Magazines,tzx,Spectrum 48K,Good,Exact,"Shows the same pictures as the reference emulator, at a different moment",9684fd273071699fb55cb68b40fdf9afe2b907b236fb7b208b0e016f4094b175
 New Special Playgames - Issue 34 (1990)(Sipe)(it),Magazines,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,6c7558036b300091ca8c5d6382e05a01891a86f78422f3fdbefc1f26e5d8c7c9
 New Special Playgames - Issue 35 (1990)(Sipe)(it),Magazines,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,2b72d7341b21a0fcadc6eb0cdbe3cffbd876b0c116d1e183a52eb0e52c83fde8
 New Special Playgames - Issue 36 (1990)(Sipe)(it),Magazines,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,122a7f679e3e8f152a0492dc7dc01cf22390d9418ffdbb2e132c542b64f43b55
@@ -26033,13 +26033,13 @@ Nightmare (1986)(K'Soft)[a],Games,tzx,Spectrum 48K,Good,Exact,Matches the refere
 Nightmare (1986)(K'Soft)[a],Games,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,f4cecc4da27be3fe7926ade00984e0d8d0a91f8dd351c3d6b758831b8ef13362
 Nightmare (1986)(The Guild),Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,b8f9461e5fc6836cfb6af89f4febe4fbc747d0502ed5a42246c0e65c68d93759
 Nightmare Park (19xx)(Aackosoft)[16K],Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,ad21bea49a9329d5aa7775d1058b32914d1f6ff12112ffbccc9633ab2d9d5407
-Nightmare Rally (1986)(Erbe Software)[a][re-release],Games,tzx,Spectrum 48K,Differs,Exact,Picture agrees only 22% with the reference emulator,de4cdf1c54772295c1338ad3140a0768886750d0cabe04198765baf8adc6ee7a
-Nightmare Rally (1986)(Erbe Software)[re-release],Games,tzx,Spectrum 48K,Differs,Exact,Picture agrees only 22% with the reference emulator,4d2361a307bab7d255e079fbe18f0fb5d82de704e2bdf7e918457e5c38d3cf86
+Nightmare Rally (1986)(Erbe Software)[a][re-release],Games,tzx,Spectrum 48K,Good,Exact,Matches the reference emulator over a three minute run,de4cdf1c54772295c1338ad3140a0768886750d0cabe04198765baf8adc6ee7a
+Nightmare Rally (1986)(Erbe Software)[re-release],Games,tzx,Spectrum 48K,Good,Exact,Matches the reference emulator over a three minute run,4d2361a307bab7d255e079fbe18f0fb5d82de704e2bdf7e918457e5c38d3cf86
 Nightmare Rally (1986)(Ocean),Games,sp,Spectrum 48K,Good,Exact,Picture matches the reference emulator,4f71027fb7ce039a7414108316316a818668899744f8babb4245a82b81b46c89
 Nightmare Rally (1986)(Ocean),Games,tap,Spectrum 48K,Good,Exact,Picture matches the reference emulator,d6233828722cd6cbc018de4450e242b5699cb1db79f66a0efe23306e10e9d7d9
-Nightmare Rally (1986)(Ocean),Games,tzx,Spectrum 48K,Check,Exact,Picture agrees 87% with the reference emulator,29e4d91bea6a3106a68767f36eb18eedbcef4770ba918e40dd60315a6ac05e4a
+Nightmare Rally (1986)(Ocean),Games,tzx,Spectrum 48K,Good,Exact,Matches the reference emulator over a three minute run,29e4d91bea6a3106a68767f36eb18eedbcef4770ba918e40dd60315a6ac05e4a
 Nightmare Rally (1986)(Ocean),Games,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,ad71d42e2ad4e08e675e64e1fe7ec023c7be179fa98340e7c6f7cab0b52ad15e
-Nightmare Rally (1986)(Ocean)[a],Games,tzx,Spectrum 48K,Check,Exact,Picture agrees 87% with the reference emulator,bae59ac653cf9bc7a3bcfde444f5c0bd2763f7fa5a799ede13645bcf787945d9
+Nightmare Rally (1986)(Ocean)[a],Games,tzx,Spectrum 48K,Good,Exact,Matches the reference emulator over a three minute run,bae59ac653cf9bc7a3bcfde444f5c0bd2763f7fa5a799ede13645bcf787945d9
 Nightshade (1985)(Ultimate Play The Game),Games,tap,Spectrum 48K,Good,Exact,Picture matches the reference emulator,17df6f9a3ed1296065a83f2276004005e7422ba0a5f1e2ca3fc4401a137c5c6d
 Nightshade (1985)(Ultimate Play The Game),Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,9f35612fe0ebef8e039f9c64ed86cb01077b6dd4f2c1c2bd3527c856c84bcd1c
 Nightshade (1985)(Ultimate Play The Game),Games,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,87c7c40dc4600617dfdd3a4cd9f94dd0b387435a7d377a4dc5c43fa5a267c9f1
@@ -27179,7 +27179,7 @@ P.H.M. Pegasus (1988)(Dro Soft)[a][re-release],Games,tzx,Spectrum 48K,Good,Exact
 P.H.M. Pegasus (1988)(Dro Soft)[re-release],Games,tzx,Spectrum 48K,Check,Exact,The reference emulator gets further in the same time,8c5ace396233790b35f09ca8aab0f4f0de1d29ff4bf95d14d430c6239d4959b5
 P.H.M. Pegasus (1988)(Electronic Arts),Games,dsk,Spectrum +3,Good,Exact,Picture matches the reference emulator,efe7966e2371c04312a32b92bcee1e81535b5a66fe5fe642f1b72f673c10b7ac
 P.H.M. Pegasus (1988)(Electronic Arts),Games,tap,Spectrum 48K,Good,Exact,Picture matches the reference emulator,341beb785f4b80e1efde8a605d39db3cb9a41961c12742b1ed5dac1ed47f38d5
-P.H.M. Pegasus (1988)(Electronic Arts),Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,0aca9e66db326b882790fd5da51768b3502cff961175ae03d82dd79e65ca710c
+P.H.M. Pegasus (1988)(Electronic Arts),Games,tzx,Spectrum 48K,Differs,Exact,Does not start in this build: it decrypts itself with what an unattached port returns when loading ends,0aca9e66db326b882790fd5da51768b3502cff961175ae03d82dd79e65ca710c
 P.H.M. Pegasus (1988)(Electronic Arts),Games,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,298d790ed7a60ed4205ea8d1e066756726919ab6b1f91ed72cedfb8aa62acfa3
 P.H.M. Pegasus (1988)(Electronic Arts)[a],Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,b6b6b8b6cf9475aef81de8e9c549b8f2fac9652dcc250e7d6ce511416905e5b9
 Pac-Land (1989)(Grandslam Entertainments),Games,dsk,Spectrum +3,Good,Exact,Picture matches the reference emulator,c592cb7ab26db57d30e12b1dc1902b8de727398b738797b4ace8ab0af773a004
@@ -27549,7 +27549,7 @@ Pedro (1984)(Imagine Software)[a],Games,z80,Spectrum 48K,Good,Exact,Picture matc
 Pedro na Ostrove Piratov (1992)(Ultrasoft)(sk),Games,tzx,Spectrum 48K,Differs,Exact,Picture agrees only 47% with the reference emulator,c6d8828bad57723bb281ef7e562903f0c6a91c89856a1c7272cf06e28b3fa07e
 Pedro na Ostrove Piratov (1992)(Ultrasoft)(sk)[128K],Games,tzx,Spectrum 128K,Good,Exact,Picture matches the reference emulator,48fadd91f5c32b0b87536b52627acd4743e36e403a30c8106ae28b1e9692b594
 Pedro na Ostrove Piratov (1992)(Ultrasoft)(sk)[128K],Games,z80,Spectrum 128K,Good,Exact,Picture matches the reference emulator,679421e886f9761ada55790d6b7cf87a8f942cf9838e7fdf806de8c4e95e26eb
-Pedro na Ostrove Piratov (1992)(Ultrasoft)(sk)[a],Games,tzx,Spectrum 48K,Ahead,Exact,Runs on while the reference emulator stays on one picture,a6bbc5967a4cb0eadcd2b04f97984012fdad02df4c81e83414cb8764d02a295e
+Pedro na Ostrove Piratov (1992)(Ultrasoft)(sk)[a],Games,tzx,Spectrum 48K,Differs,Exact,Picture agrees only 47% with the reference emulator,a6bbc5967a4cb0eadcd2b04f97984012fdad02df4c81e83414cb8764d02a295e
 Pedro na Ostrove Piratov (1992)(Ultrasoft)(sk)[h FLP],Games,scl,Pentagon 128K,Good,Exact,Picture matches the reference emulator,ce5ddfd79287b044f278c21181fc0af32d4f5f87df91920fa5f56e4ee7374882
 Pedro Puzzle (1995)(Vaxalon),Games,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,b04e26c2ecaec47ba892706f3b4115c0457f52319fbba16706fb2b98d87a799c
 Peep Show (1984)(R'n'H Microtec),Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,e4d66ed2e6efcd37f9f8ec131b865756aeb65fa34b9653c3611c66ce80c24c3f
@@ -28745,7 +28745,7 @@ Pre-School and Early School Tutor (19xx)(Essex Software)[16K],Applications,tzx,S
 Predator (1987)(Activision),Games,tzx,Spectrum 48K,Ahead,Exact,Runs on while the reference emulator stays on one picture,c1d563f39c49dd1ab53c213707b01eda816360ae936d718f38bfe89df13815c6
 Predator (1987)(Activision)(Side A),Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,72c51f9f3512ac5b718805fdfb6e9916752e7516c914ba808a6e3e85674bc164
 Predator (1987)(Activision)(Side B),Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,fa3b6a32c20f5f1d25b1f20a8c36a6f21f79585c0709f227a577d69f5a8ff6ff
-Predator (1987)(Activision)[a2],Games,tzx,Spectrum 48K,Ahead,Exact,Runs on while the reference emulator stays on one picture,4a13f8d4faeffd36216d04e7badc02ec33b0286b0e6600f78fcde76626528daf
+Predator (1987)(Activision)[a2],Games,tzx,Spectrum 48K,Check,Exact,Picture agrees 60% with the reference emulator,4a13f8d4faeffd36216d04e7badc02ec33b0286b0e6600f78fcde76626528daf
 Predator (1987)(Activision)[a],Games,tzx,Spectrum 48K,Check,Exact,Picture agrees 60% with the reference emulator,7198c1f492e3d87f7e0ee0aaa12ad8c21efaf992abca7f83f25829bf77006c3e
 Predator (1987)(Activision)[t +2],Games,tap,Spectrum 48K,Good,Exact,Picture matches the reference emulator,d7ae58704e013b3139fefd5ed0a824c68a9eb26a0c359f0d035bb363dc907201
 Predator (1987)(Activision)[t +2],Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,ff35508db94befe553b219299eaada1111e0654d2aeb924456c59faa0c743df0
@@ -29055,7 +29055,7 @@ Project Stealth Fighter (1990)(Microprose Software),Games,tzx,Spectrum 48K,Good,
 Project Stealth Fighter (1990)(Microprose Software)(Side A),Games,dsk,Spectrum +3,Good,Exact,Matches the reference emulator over a three minute run,0984b4f16195a27f481c86ff63512e8cc3938ba3bd33d9b292963bc582451aaf
 Project Stealth Fighter (1990)(Microprose Software)(Side B),Games,dsk,Spectrum +3,Good,Exact,Picture matches the reference emulator,bc0336e2db347420a9344774517027a64e46d783895952f17bce9c246ee4c5c6
 Project Stealth Fighter (1990)(Microprose Software)(Tape 1 of 2 Side A),Games,tzx,Spectrum 48K,Good,Exact,Matches the reference emulator over a three minute run,efce25fdf67af5647576fbec56406783cb336d1230249929d38cddf7e2e4ce2e
-Project Stealth Fighter (1990)(Microprose Software)(Tape 1 of 2 Side B),Games,tzx,Spectrum 48K,Check,Exact,Picture agrees 59% with the reference emulator,c09121aaae2fd06374a3a103618b5091e054b7e12f24737f713eb9875a7b24a9
+Project Stealth Fighter (1990)(Microprose Software)(Tape 1 of 2 Side B),Games,tzx,Spectrum 48K,Good,Exact,Matches the reference emulator over a three minute run,c09121aaae2fd06374a3a103618b5091e054b7e12f24737f713eb9875a7b24a9
 Project Stealth Fighter (1990)(Microprose Software)(Tape 2 of 2 Side A),Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,ff3f69ef20c028d649a49fb24aa0ffb91c540d3702158208a427beb8d5aefaa0
 Project Stealth Fighter (1990)(Microprose Software)(Tape 2 of 2 Side B),Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,835b23e196d833ed881c32fba82a1bf1f9e128f28a846e9d9dae2ac81b02618d
 Project Stealth Fighter (1990)(Microprose Software)[128K],Games,tap,Spectrum 128K,Good,Exact,Matches the reference emulator over a three minute run,4ecb02c99c8ade23831ffc727842c748b2ed4dfebffe0a8777d7f6eebca0c103
@@ -29209,7 +29209,7 @@ Psychedelia (1984)(Llamasoft)[a],Demos,z80,Spectrum 48K,Good,Exact,Picture match
 Psycho 1 (1995)(Convention),Demos,tap,Spectrum 48K,Good,Exact,Picture matches the reference emulator,1c72eea7b8cfe940975715861a8e861fea6bfa2041217ff1e78a3886b808f90b
 Psycho City (1989)(Players Software),Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,96d68ff7db1b18055d99ff4f1ce7e7f6b06ab73c8fd663bcc9abaa6c62e440ce
 Psycho City (1989)(Players Software),Games,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,3ce203170f260516e8c1afe88556d786b0080fcf7f52434ff9726b26822d24ad
-Psycho City (1989)(Players Software)[a],Games,tzx,Spectrum 48K,Check,Exact,Picture agrees 57% with the reference emulator,290813a52d218ab2c45e046ff7b562bb55898244306484973870042659439c1c
+Psycho City (1989)(Players Software)[a],Games,tzx,Spectrum 48K,Differs,Exact,Picture agrees only 48% with the reference emulator,290813a52d218ab2c45e046ff7b562bb55898244306484973870042659439c1c
 Psycho Eliza (1983)(M. de Vries),Applications,tap,Spectrum 48K,Good,Exact,Picture matches the reference emulator,a47f51213d26b67fa590df321331220e3f5e9462bce40ccdc1d7e86467229a22
 Psycho Eliza (1983)(M. de Vries),Applications,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,5c844211330e2f7106cd1db047e6be096296b4bad1a36d3f23becdb75070d1dd
 Psycho Eliza (1983)(M. de Vries),Applications,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,164d486248a3163b2ad1bbe969ec158895225688907e242c69590d73fd1e6d44
@@ -29288,11 +29288,11 @@ Puffy's Saga (1989)(Ubi Soft)[a],Games,z80,Spectrum 48K,Good,Exact,Picture match
 Pulsator (1987)(Erbe Software)[48-128K][re-release],Games,tzx,Spectrum 128K,Check,Exact,Picture agrees 58% with the reference emulator,ee4e341aef0cfe1dc2ef6e5026ecc8c6b610ff1b51b395ff53389e19fedd5760
 Pulsator (1987)(Martech Games),Games,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,92447ed9135c49a968e26a98467a8ffe14a61ffa1ae657cc7c207db2836803ca
 Pulsator (1987)(Martech Games)[48-128K],Games,tap,Spectrum 128K,Good,Exact,Picture matches the reference emulator,82c0ebcafecc3e7cf5d680011106b1c3b302fb7709c975f69bd5fbacbcd1b343
-Pulsator (1987)(Martech Games)[48-128K],Games,tzx,Spectrum 128K,Check,Exact,Picture agrees 61% with the reference emulator,20da684eb982a4dd20c675d447b521cd8b8d20276e7ef72d3fb465f7288f3c21
-Pulsator (1987)(Martech Games)[a2][48-128K],Games,tzx,Spectrum 128K,Check,Exact,Picture agrees 61% with the reference emulator,b152154dd0d43d36b563142f1e326c92fc104bf222459ad282360ce850e51592
+Pulsator (1987)(Martech Games)[48-128K],Games,tzx,Spectrum 128K,Good,Exact,"Shows the same pictures as the reference emulator, at a different moment",20da684eb982a4dd20c675d447b521cd8b8d20276e7ef72d3fb465f7288f3c21
+Pulsator (1987)(Martech Games)[a2][48-128K],Games,tzx,Spectrum 128K,Good,Exact,"Shows the same pictures as the reference emulator, at a different moment",b152154dd0d43d36b563142f1e326c92fc104bf222459ad282360ce850e51592
 Pulsator (1987)(Martech Games)[a3][48-128K],Games,tzx,Spectrum 128K,Check,Exact,Picture agrees 58% with the reference emulator,206bfa348c859ee14f4064fe2309558a791ca1d0b91df40815c2d5f825c08511
-Pulsator (1987)(Martech Games)[a4][48-128K],Games,tzx,Spectrum 128K,Check,Exact,Picture agrees 61% with the reference emulator,b6745c8b68399e92b7b41adad60fe1daaa2826461cd940e0c72cf32592df5dfe
-Pulsator (1987)(Martech Games)[a][48-128K],Games,tzx,Spectrum 128K,Check,Exact,Picture agrees 61% with the reference emulator,ee5c4fbafae0ecb093ccbc261a914ae1af641eeeada8eeedc08ffdbf6f98653e
+Pulsator (1987)(Martech Games)[a4][48-128K],Games,tzx,Spectrum 128K,Good,Exact,"Shows the same pictures as the reference emulator, at a different moment",b6745c8b68399e92b7b41adad60fe1daaa2826461cd940e0c72cf32592df5dfe
+Pulsator (1987)(Martech Games)[a][48-128K],Games,tzx,Spectrum 128K,Good,Exact,"Shows the same pictures as the reference emulator, at a different moment",ee5c4fbafae0ecb093ccbc261a914ae1af641eeeada8eeedc08ffdbf6f98653e
 Pulse Warrior (1988)(Mastertronic),Games,tap,Spectrum 48K,Good,Exact,Picture matches the reference emulator,21baa1776c5fc742e01b06724d8a59ac6f60bdfad25c822e90104c4a41adc93c
 Pulse Warrior (1988)(Mastertronic),Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,41071b0eac108576625edfe4aedaa1c5c0b1775886d7a65aca9f3a111e3140e5
 Pulse Warrior (1988)(Mastertronic),Games,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,b229c3124695db051f15d33b5d798716d0b96785660054ba97f1abd6bf240c6d
@@ -30183,7 +30183,7 @@ Red Heat (1989)(The Hit Squad)[48-128K][re-release],Games,tzx,Spectrum 128K,Good
 Red L.E.D. (1987)(Starlight Software),Games,tap,Spectrum 48K,Good,Exact,Matches the reference emulator over a three minute run,8e2c8999b6824386e9946cf4e329d28e32e4498d31fa3781cc54c2058b78e264
 Red L.E.D. (1987)(Starlight Software),Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,92a92fab1d4e66094de73ed6ca05f8b185fee279a77716c491e5d723c3f342ad
 Red L.E.D. (1987)(Starlight Software)[a2],Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,1fd8159814ea3b33657e918f566e1af760f0d3b0a4b70902c6460bbb32b851bf
-Red L.E.D. (1987)(Starlight Software)[a3],Games,tzx,Spectrum 48K,Differs,Exact,Picture agrees only 23% with the reference emulator,8696872117048002c50cb5cefe4a2d2870ce641f99d1b0743d612008a66a1e55
+Red L.E.D. (1987)(Starlight Software)[a3],Games,tzx,Spectrum 48K,Good,Exact,"Shows the same pictures as the reference emulator, at a different moment",8696872117048002c50cb5cefe4a2d2870ce641f99d1b0743d612008a66a1e55
 Red L.E.D. (1987)(Starlight Software)[a],Games,tap,Spectrum 48K,Ahead,Exact,Runs on while the reference emulator stays on one picture,6fb60024948578e4930b0c7b49cf788f917373b5bddc89875c83201eb6682bfa
 Red L.E.D. (1987)(Starlight Software)[a],Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,9e053fd25ccde6b39fb1dc85994c7bb01a6972b9d64c233a64c40e2df184bffd
 Red L.E.D. (1987)(Starlight Software)[m],Games,tzx,Spectrum 48K,Good,Exact,Matches the reference emulator over a three minute run,ee107d2b1c9a6dbd7bc4eae8807b8a5dd5fbfe5027cacf2ef235dbc10bae1661
@@ -30909,7 +30909,7 @@ Robyn Hode (1986)(ACD Software)(Side B),Games,tzx,Spectrum 48K,Good,Exact,Pictur
 Rocco (1985)(Gremlin Graphics Software)[a2][re-release][aka Rocky],Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,67af291f51b5b98443b6ca0ac7addc467013812b3cf3adec508f887c00810667
 Rocco (1985)(Gremlin Graphics Software)[a3][re-release][aka Rocky],Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,e818b1039434f673b1d1808fc0125ebd2de0d4d80d33e5db611d1432b02b7bc0
 Rocco (1985)(Gremlin Graphics Software)[a][aka Rocky],Games,tap,Spectrum 48K,Good,Exact,Picture matches the reference emulator,e0942da3dedda8c386a3b367db6837d7029c9455035f5ac68c3d216150017e08
-Rocco (1985)(Gremlin Graphics Software)[a][re-release][aka Rocky],Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,01eb68ebaa3b110634daebbad4e3b67b90fbfcb565c1ff3f07f2b4724521344c
+Rocco (1985)(Gremlin Graphics Software)[a][re-release][aka Rocky],Games,tzx,Spectrum 48K,Ahead,Exact,Runs on while the reference emulator stays on one picture,01eb68ebaa3b110634daebbad4e3b67b90fbfcb565c1ff3f07f2b4724521344c
 Rocco (1985)(Gremlin Graphics Software)[aka Rocky],Games,tap,Spectrum 48K,Good,Exact,Picture matches the reference emulator,c9998d8d15a216050f38e84b97d763869206158cce9d920258b9d8db88081453
 Rocco (1985)(Gremlin Graphics Software)[aka Rocky],Games,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,071b5107dea80a702d677cc3231a6a5b31314a5653f8731fc80128f3e541ab50
 Rocco (1985)(Gremlin Graphics Software)[re-release][aka Rocky],Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,859d0fc70deebcb495f225a25b06b34584b4f2aa698b4cbb7c311bfd756ab6ff
@@ -30986,7 +30986,7 @@ Rocky (1985)(Dinamic Software)[small case],Games,tzx,Spectrum 48K,Good,Exact,Pic
 "Rocky Horror Show, The (1985)(CRL Group)",Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,4cb98fda6a111af9f52a300043117ac4355b7fb1c930b3b9b46554bfbc8fabbb
 "Rocky Horror Show, The (1985)(CRL Group)",Games,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,32bd0a1f936b4028bbcf6f18dcf6d21bdfb97a805a84d08ba20598eecfbd42d6
 "Rocky Horror Show, The (1985)(CRL Group)[128K]",Games,tap,Spectrum 128K,Good,Exact,Picture matches the reference emulator,c3a49d63b0b78ff4e8b00e20423bc3bc378417618a83d333356956b339aad5fe
-"Rocky Horror Show, The (1985)(CRL Group)[128K]",Games,tzx,Spectrum 128K,Good,Exact,Matches the reference emulator over a three minute run,91c1d62319260d088479c1e82e79ba23bd9c48514050812c44d62026ce7a100c
+"Rocky Horror Show, The (1985)(CRL Group)[128K]",Games,tzx,Spectrum 128K,Good,Exact,"Shows the same pictures as the reference emulator, at a different moment",91c1d62319260d088479c1e82e79ba23bd9c48514050812c44d62026ce7a100c
 "Rocky Horror Show, The (1985)(CRL Group)[128K]",Games,z80,Spectrum 128K,Good,Exact,Picture matches the reference emulator,27847bb9ab35a2b66c430e7070f5aa8078d85063201d2768e12794594a8ff472
 "Rocky Horror Show, The (1985)(CRL Group)[a2]",Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,7dc045bcb737fab8f50aa0d8d7e9db1cb4346dea0a42bb0aab867f9b9ce9a449
 "Rocky Horror Show, The (1985)(CRL Group)[a]",Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,c19393b1161bc0694e20fbdd8cdd6e2b636770d3b5cf5801e528e853231774cf
@@ -31006,12 +31006,12 @@ Rod Pike's Horror Compilation - Dracula (1988)(CRL Group),Compilations,tzx,Spect
 Rod Pike's Horror Compilation - Frankenstein (1988)(CRL Group),Compilations,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,b20cb5cd293431a8ee2ae3165ea39d0f74c5eedfe0c57fd28af7cddeeeb8c16b
 Rod Pike's Horror Compilation - Wolfman (1988)(CRL Group)(Side A),Compilations,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,74615125450c42fd9093b53446e17472f33f99a0aedb50e6f7683c5e2b8f1a4e
 Rod Pike's Horror Compilation - Wolfman (1988)(CRL Group)(Side B),Compilations,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,fa1ef8c20e9559ef8a042caba4507b79b659942c387230ddd6bb0b1c05f61922
-Rod-Land (1991)(Dro Soft)[128K][re-release],Games,tzx,Spectrum 128K,Good,Exact,Picture matches the reference emulator,9e554e4c7dea3680a948b8f138cc579c345823c29f1d25d4a1bc1f58a64c236d
-Rod-Land (1991)(Storm Software)[128K],Games,tzx,Spectrum 128K,Good,Exact,Picture matches the reference emulator,4b48521a3a97a4a046877384e8b6b200a8270c13fd85f4dee52b54f3fad017e2
+Rod-Land (1991)(Dro Soft)[128K][re-release],Games,tzx,Spectrum 128K,Good,Exact,"Shows the same pictures as the reference emulator, at a different moment",9e554e4c7dea3680a948b8f138cc579c345823c29f1d25d4a1bc1f58a64c236d
+Rod-Land (1991)(Storm Software)[128K],Games,tzx,Spectrum 128K,Good,Exact,"Shows the same pictures as the reference emulator, at a different moment",4b48521a3a97a4a046877384e8b6b200a8270c13fd85f4dee52b54f3fad017e2
 Rod-Land (1991)(Storm Software)[128K],Games,z80,Spectrum 128K,Good,Exact,Picture matches the reference emulator,534b3ed3b79ba7a31c56630dbd27a5a2ebceebe1054f9b0c788d38af1d2ed2ec
 Rod-Land (1991)(Storm Software)[a][128K],Games,tzx,Spectrum 128K,Good,Exact,Picture matches the reference emulator,3e769e9c0b3939bc791b384ce107a0421fdeae5ebdd7ca156f31ee4d1b5c0a26
 Rod-Land (1991)(Storm Software)[cr Matasoft][t Matasoft][128K],Games,tap,Spectrum 128K,Good,Exact,Picture matches the reference emulator,6abfb66dce878ccca3036781b76d6d0454736f51f0608e7e57bfe03464b4dcbb
-Rod-Land (demo) (1991)(Storm Software - Sinclair User)[128K],Covertapes,tzx,Spectrum 128K,Check,Exact,Picture agrees 63% with the reference emulator,ea02a6c2fe9b70765e6e3c0de94e988c9015729d7fe21af499345827374733df
+Rod-Land (demo) (1991)(Storm Software - Sinclair User)[128K],Covertapes,tzx,Spectrum 128K,Good,Exact,Picture matches the reference emulator,ea02a6c2fe9b70765e6e3c0de94e988c9015729d7fe21af499345827374733df
 Rodent Run (2002)(Naffsoft),Games,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,b78cbee17bc0992ebd868aaa7ae42bd3f85aebeb94e5ec022da99b189cd73231
 Rogue (1987)(Mastertronic),Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,8ac6bcdf04541003f7e7fb7801c7fb8beb6eff4368e6951a4e03dd414d8b091e
 Rogue (1988)(Mastertronic),Games,tap,Spectrum 48K,Good,Exact,Picture matches the reference emulator,2350f4babbb019ef358a504d99848ccc82392020ead9d3c5da5347c212d0a28d
@@ -31577,11 +31577,11 @@ Sam Spade (1983)(Silversoft)[16K],Games,z80,Spectrum 48K,Good,Exact,Picture matc
 Sam Spade (1983)(Silversoft)[a2][16K],Games,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,057485c8605de7e01cca8343353b49c8d9f1b1256b0ee64e9d7e2153476e19b0
 Sam Spade (1983)(Silversoft)[a][16K],Games,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,73a0badf74471991e156d2437697c2c82a528017c568fc980f5b220174436538
 Sam Stoat Safebreaker (1985)(Gremlin Graphics Software),Games,tap,Spectrum 48K,Good,Exact,Picture matches the reference emulator,1e688ae20dfa989d68713452a4cea7614a2df4b7c769fb64c98d1dddab0c3d40
-Sam Stoat Safebreaker (1985)(Gremlin Graphics Software),Games,tzx,Spectrum 48K,Differs,Exact,Stays on one picture while the reference emulator runs on,71e80a065f1c4d205c5fe1bbdc3105ad726f11b5bb45f0bff9929b339d6bc378
+Sam Stoat Safebreaker (1985)(Gremlin Graphics Software),Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,71e80a065f1c4d205c5fe1bbdc3105ad726f11b5bb45f0bff9929b339d6bc378
 Sam Stoat Safebreaker (1985)(Gremlin Graphics Software),Games,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,52b8d6e7d467949ea04c370dacf58f06c6f864e49f61bdfe6fa1f4c41b9a249c
-Sam Stoat Safebreaker (1985)(Gremlin Graphics Software)[a2],Games,tzx,Spectrum 48K,Differs,Exact,Stays on one picture while the reference emulator runs on,bd3c9be6766db904833342360d908b19b9ebff7e404760c993ad15fe36a9b2f2
-Sam Stoat Safebreaker (1985)(Gremlin Graphics Software)[a3],Games,tzx,Spectrum 48K,Differs,Exact,Stays on one picture while the reference emulator runs on,2e20a95e2e3e33c040913fd4cc789ce3ddbc4814097ca853e693ede3d16f34a4
-Sam Stoat Safebreaker (1985)(Gremlin Graphics Software)[a],Games,tzx,Spectrum 48K,Differs,Exact,Stays on one picture while the reference emulator runs on,828a7818ca22f278eb0a410d908211fe4f4ab0a01bffc8d865e29d1a16b956ff
+Sam Stoat Safebreaker (1985)(Gremlin Graphics Software)[a2],Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,bd3c9be6766db904833342360d908b19b9ebff7e404760c993ad15fe36a9b2f2
+Sam Stoat Safebreaker (1985)(Gremlin Graphics Software)[a3],Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,2e20a95e2e3e33c040913fd4cc789ce3ddbc4814097ca853e693ede3d16f34a4
+Sam Stoat Safebreaker (1985)(Gremlin Graphics Software)[a],Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,828a7818ca22f278eb0a410d908211fe4f4ab0a01bffc8d865e29d1a16b956ff
 Sam Stoat Safebreaker (1985)(Gremlin Graphics Software)[a],Games,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,37ad6c21196952a6b774941cbcf95f798f240582e5602ac25f497befaf762436
 Sam Synth (19xx)(-),Applications,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,9d1dd355b8a1dd17baf644eb30ed3b0bfe650dfae21afede6b80c42cf2599743
 Sam's Un-Excellent Adventure (1994)(Zenobi Software),Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,fe64b7c12f2d9604e5276e7b3cebb9369b504c3e62795f8cd9347d2a00a5974e
@@ -32053,7 +32053,7 @@ See-Saw (1982)(Simon Micro-Soft)[16K][unpublished],Games,tzx,Spectrum 48K,Good,E
 Seek and Find (1986)(Humphrey Software),Games,tap,Spectrum 48K,Good,Exact,Picture matches the reference emulator,4edee4117963255a168b2a690fce3e3f168c8e2b6c70202fccfb6faa0fdbbe59
 "Sefton Manor Assignment, The (1990)(The Adventure Club)",Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,418ff9734911817d81b05322117b7c26441d0b54df39a5c0c5838547dac49c28
 "Sega Collection, The - Spy Hunter + Zaxxon (19xx)(U.S. Gold)",Compilations,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,e86de6f19718e876a2e7877d0f8ce7e1aa2fa2b166c6c5dc86f8e13742aff7ff
-"Sega Collection, The - Tapper + Buck Rogers - Planet of Zoom (19xx)(U.S. Gold)",Compilations,tzx,Spectrum 48K,Differs,Exact,Picture agrees only 27% with the reference emulator,7e93bc694ba808f26a4a33b1b71e730625d2f07f3b361e86e22a9ea2e66f4474
+"Sega Collection, The - Tapper + Buck Rogers - Planet of Zoom (19xx)(U.S. Gold)",Compilations,tzx,Spectrum 48K,Good,Exact,"Shows the same pictures as the reference emulator, at a different moment",7e93bc694ba808f26a4a33b1b71e730625d2f07f3b361e86e22a9ea2e66f4474
 Sega Master-Mix - Crack Down (1991)(U.S. Gold)[48-128K],Compilations,tzx,Spectrum 128K,Good,Exact,Picture matches the reference emulator,b206bb27f8bebf78e81fca59858433e9231e50c244f393dc226d087a69636136
 Sega Master-Mix - Dynamite Dux (1991)(U.S. Gold)[48-128K],Compilations,tzx,Spectrum 128K,Differs,Exact,Picture agrees only 7% with the reference emulator,384f1abc24de66a1d3be4b53d5d489d5cfa73f12bb474dd4e551d6292d279923
 Sega Master-Mix - Super Wonder Boy (1991)(U.S. Gold)(Side A),Compilations,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,df7f603dc372ff18d19fc19f7bd40a5f598598504fbd1e6ada01d09cc1424b88
@@ -32453,7 +32453,7 @@ Shockway Rider (1987)(Faster Than Light)[a],Games,z80,Spectrum 48K,Good,Exact,Pi
 Shockway Rider (1987)(Faster Than Light)[cr],Games,tap,Spectrum 48K,Good,Exact,Picture matches the reference emulator,bdbb7550bab19ccb983aa42260a15846b73d3955b03ae16dae43bec00aa335ea
 Shockway Rider (1987)(Rack-It)[re-release],Games,tzx,Spectrum 48K,Good,Exact,Matches the reference emulator over a three minute run,050ae8e17d4ff8c501026ae449b93a834e68ce8a0fffa9666641311afbc5c270
 Shockway Rider (1987)(Zafiro Software Division)[re-release],Games,tzx,Spectrum 48K,Good,Exact,Matches the reference emulator over a three minute run,d7a66d54fcebca3f69137d8fc732216ef9903da728977cc8162fdea25ab6f89b
-"Shoe People, The (1992)(GBH)[128K][re-release]",Applications,tzx,Spectrum 128K,Good,Exact,Matches the reference emulator over a three minute run,84663d3d392358dde1dcded94a77831197d6d15678c0f114a8d65befd5f46f46
+"Shoe People, The (1992)(GBH)[128K][re-release]",Applications,tzx,Spectrum 128K,Good,Exact,"Shows the same pictures as the reference emulator, at a different moment",84663d3d392358dde1dcded94a77831197d6d15678c0f114a8d65befd5f46f46
 "Shoe People, The (1992)(Gremlin Graphics Software)[128K]",Applications,tzx,Spectrum 128K,Good,Exact,Matches the reference emulator over a three minute run,efd45c9a3a6740e5e761caef41dcd6919498f84006b1e925b2f1e4e064bda110
 "Shoe People, The (1992)(Gremlin Graphics Software)[128K]",Applications,z80,Spectrum 128K,Good,Exact,Picture matches the reference emulator,a6d436a7e5ce0a4ab7e90b1c01704f076cf87b2e25e0c4ac89f66f9041b1767e
 Shoot Out (1985)(Your Spectrum),Covertapes,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,52d1a8a606187bb8d1d335726715441f2ff3b4a34d8e5004fe83e4a904399e3b
@@ -32559,11 +32559,11 @@ Si Da Sida (1988)(Tai Soft)(ES)[Intro],Games,tzx,Spectrum 48K,Good,Exact,Picture
 Si Da Sida (1988)(Tai Soft)(ES)[Juego],Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,a04c73a4dc3116e57ae675c1337c85b47c1d65772936fd7a15f06d74217c63e4
 "Si Yo Fuera Rico (19xx)(Costa, Rafael Vico)(ES)",Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,e57a9c39e85d4271065620851c12a03e3f1ebe8c7e826ac55e1b59ad60756f57
 Side Arms (1988)(Go!),Games,dsk,Spectrum +3,Check,Exact,The reference emulator gets further in the same time,2665bb4fdf219aa926315c04e9e5672f91c4d2d80d16e5db27e6a89e273af7fd
-Side Arms (1988)(Go!),Games,tzx,Spectrum 48K,Good,Exact,"Shows the same pictures as the reference emulator, at a different moment",4587b855b12c9aaed94572333d18e2bf7cd4190254708efca58024ee3e07c98c
+Side Arms (1988)(Go!),Games,tzx,Spectrum 48K,Check,Exact,Picture agrees 88% with the reference emulator,4587b855b12c9aaed94572333d18e2bf7cd4190254708efca58024ee3e07c98c
 Side Arms (1988)(Go!),Games,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,ae677e8614aead9ea2ab9df61ef96448381eb8f45e8cd9e56c151c250eb508d4
 Side Arms (1988)(Go!)[a2],Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,20be3ffbdd6e25dc5017f0f70d61956ed2e640d4f78f372479681bfbbe36e7e5
 Side Arms (1988)(Go!)[a],Games,tzx,Spectrum 48K,Good,Exact,"Shows the same pictures as the reference emulator, at a different moment",33fac96a48c6ead6e190cc65c31b7ce41a8d442c118d075e5ea607d6ed05a381
-Side Arms (1988)(Kixx)[re-release],Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,49e6a29152d90f4476be09c0e91e4d1ae7f7206edb61aed33efba3f76ee4d010
+Side Arms (1988)(Kixx)[re-release],Games,tzx,Spectrum 48K,Good,Exact,"Shows the same pictures as the reference emulator, at a different moment",49e6a29152d90f4476be09c0e91e4d1ae7f7206edb61aed33efba3f76ee4d010
 Side Print (19xx)(-),Applications,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,6187f33e98e08ccf2b5dbd97a8d3fd8483e1198f111886cc8460181f29b33c04
 Sideral (1985)(Load 'n' Run)(es)[aka Tempest],Covertapes,tap,Spectrum 48K,Good,Exact,Picture matches the reference emulator,5e4f0031bce1027082fe1d62780010205537749458d7aefac4cf82c299f7d85c
 Sideral (1985)(Load 'n' Run)(es)[aka Tempest],Covertapes,z80,Spectrum 48K,Good,Exact,Matches the reference emulator over a three minute run,c922018f3e7ba77bffe6aa67652f87b3e12d7a1765a910e4ff478af863215e8c
@@ -33007,7 +33007,7 @@ Sinclair User - Issue 126 - Great Eight 15 (1992)(Sinclair User)(Side A),Coverta
 Sinclair User - Issue 126 - Great Eight 15 (1992)(Sinclair User)(Side B),Covertapes,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,ce28f8f8509c841bae5639d67ab41db292bf8627abe352691bbb7286b7b8e6b4
 Sinclair User - Issue 126 - Great Eight 15 - Pokemania (1992)(Sinclair User)[48-128K],Covertapes,tzx,Spectrum 128K,Good,Exact,Picture matches the reference emulator,71ca64ca15266ef55e7f2c63fa5491704cb227d0779547d2b0bf2f6e280ddb0e
 Sinclair User - Issue 126 - Great Eight 15 - Tips Amazing (1992)(Sinclair User),Covertapes,tzx,Spectrum 48K,Check,Exact,Picture agrees 88% with the reference emulator,2a59627f64cc28642035146b233f744bce665c57cf2b498ffcf4e3bdb17423a9
-Sinclair User - Issue 127 - Great Eight 16 - Hacks Amazing (1992)(Sinclair User),Covertapes,tzx,Spectrum 48K,Good,Exact,"Shows the same pictures as the reference emulator, at a different moment",68b69ce5a0d5fbaa12dfb3d9d78cbe28f45f4f08e88ccd277b7f445e7a877113
+Sinclair User - Issue 127 - Great Eight 16 - Hacks Amazing (1992)(Sinclair User),Covertapes,tzx,Spectrum 48K,Check,Exact,Picture agrees 84% with the reference emulator,68b69ce5a0d5fbaa12dfb3d9d78cbe28f45f4f08e88ccd277b7f445e7a877113
 Sinclair User - Issue 127 - Great Eight 16 - Hacks Amazing (1992)(Sinclair User)[b],Covertapes,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,dbad2161ab4ce294b4cd39613f9804c6fcafe26211fdf598d59f9b334aa63765
 Sinclair User - Issue 127 - Great Eight 16 - Pokemania (1992)(Sinclair User)[48-128K],Covertapes,tzx,Spectrum 128K,Good,Exact,Picture matches the reference emulator,a47141b332eb81a791e8ec2fdd0382ae6e305f4143067d2e38097c13020733d2
 Sinclair User - Issue 128 - Great Eight 17 (1992)(Sinclair User)(Side A),Covertapes,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,394e5cfe7107b195697c5a3d8e9a464240b545d0f52fdfb0ffece356f097bdce
@@ -33221,7 +33221,7 @@ Sky Diver (1983)(Scele & Ufo Software)(de),Games,z80,Spectrum 48K,Good,Exact,Pic
 Sky High Stuntman (1991)(Codemasters),Games,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,e36e2e1dc9f197ee835ba69da0fcd4546b497735a7dd659f4defdd0184d49897
 Sky High Stuntman (1991)(Codemasters)[48-128K],Games,tap,Spectrum 128K,Good,Exact,Picture matches the reference emulator,b3e38a873bb41050ba75f88cbb59bd6ba16cc38c80ce190e07b86db8696e1d08
 Sky High Stuntman (1991)(Codemasters)[48-128K],Games,tzx,Spectrum 128K,Good,Exact,Picture matches the reference emulator,7bbe5e3a40a813d2db6d56f5d75eae9b28b757d7f3ae295ec9d90d95c648d561
-Sky Ranger (1986)(Mastertronic),Games,tzx,Spectrum 48K,Check,Exact,Picture agrees 69% with the reference emulator,ce4d92c103cb9c782e7761a991a08b48b00b73617efb30534457775b54d65122
+Sky Ranger (1986)(Mastertronic),Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,ce4d92c103cb9c782e7761a991a08b48b00b73617efb30534457775b54d65122
 Sky Ranger (1986)(Microsphere),Games,tap,Spectrum 48K,Good,Exact,Picture matches the reference emulator,9341ec4bb607f3343c653f35132dbb30f2bc396ec9dabbd11d6979aaa265d57b
 Sky Ranger (1986)(Microsphere),Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,f3ace6d5e4523f85b2503cf682621790a6d55a5e8b0073b9d52ef075f3814d0c
 Sky Ranger (1986)(Microsphere)[a],Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,cc37553e02f19505478612f2c7f0ac9f1ef117db1f13a3f382a460a559548292
@@ -33757,7 +33757,7 @@ Soldier of Light (1988)(ACE Software)[h],Games,tzx,Spectrum 48K,Good,Exact,Pictu
 Soldier of Light (1988)(Dro Soft)(Side A)[re-release],Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,cb00305e66dfee276c848de780d665d97714c4828da2d5e3cd45937e8cd39807
 Soldier of Light (1988)(Dro Soft)(Side B)[re-release],Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,1cae85681bc12373014a8b942dac5189ab79d51d97c88ffb7742ff56a3e4cd12
 Soldier of Light (1988)(Dro Soft)[re-release],Games,tzx,Spectrum 48K,Good,Exact,Matches the reference emulator over a three minute run,93f133ad409bdf45d323964398574114bc32ae9d13f24f70f7f779cbe75594e3
-Soldier of Light (1988)(RAD Games)[re-release],Games,tzx,Spectrum 48K,Check,Exact,Picture agrees 85% with the reference emulator,6508863f2dcdb0d096bf852b7861a9cb02a30dee71c88d63ef7e27dc294df4d9
+Soldier of Light (1988)(RAD Games)[re-release],Games,tzx,Spectrum 48K,Good,Exact,Matches the reference emulator over a three minute run,6508863f2dcdb0d096bf852b7861a9cb02a30dee71c88d63ef7e27dc294df4d9
 Soldier of the Future (1994)(Ivan Gudkov)(ru),Games,trd,Pentagon 128K,Good,Exact,Picture matches the reference emulator,d4e062f65503e0d3335b3c408d164520a5ac1ce34987775c1214de80e84e132f
 Soldier of the Future (1994)(Ivan Gudkov)(ru)[h Spectrum Warriors],Games,trd,Pentagon 128K,Good,Exact,Picture matches the reference emulator,62e2f61d146dafc12c9dbf64d9582ad4bd52c83a1183187b95fc7a93e5bdb5de
 Soldier One (1993)(Beyond Belief - Your Sinclair),Covertapes,tap,Spectrum 48K,Good,Exact,Picture matches the reference emulator,bfa5fad2d26bed2cc52af3aeade7b4de787ff11993b3497276c3d238558d871d
@@ -34289,13 +34289,13 @@ Special Playgames - Issue 02 (1984)(Societa Edizioni Internazionali)(it),Magazin
 Special Playgames - Issue 03 (1984)(Societa Edizioni Internazionali)(it),Magazines,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,9bfa43d785cd7dbd6eb9766ab91994cd7bda25560b371426fcd5a3cb91c51215
 Special Playgames - Issue 04 (1984)(Societa Edizioni Internazionali)(it),Magazines,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,ecf0fed47955e8645c288161a3c500ec33ac7f26a362ad0a81152094894a7350
 Special Playgames - Issue 05 (1985)(Societa Edizioni Internazionali)(it),Magazines,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,428287f8096d5e06a09bd7318d0136560c70bf1220e6b8335ae66b321f099b38
-Special Playgames - Issue 06 (1985)(Societa Edizioni Internazionali)(it),Magazines,tzx,Spectrum 48K,Good,Exact,Matches the reference emulator over a three minute run,7911b3db8641d4db26bf7b205fa245d80130d71e5bf119fcf50c4445db5c1a32
-Special Playgames - Issue 07 (1985)(Societa Edizioni Internazionali)(it),Magazines,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,cc05d655995aa6981b4cbdaa7661f0968a8f6957e68febd79b5b2ca128597e55
+Special Playgames - Issue 06 (1985)(Societa Edizioni Internazionali)(it),Magazines,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,7911b3db8641d4db26bf7b205fa245d80130d71e5bf119fcf50c4445db5c1a32
+Special Playgames - Issue 07 (1985)(Societa Edizioni Internazionali)(it),Magazines,tzx,Spectrum 48K,Good,Exact,Matches the reference emulator over a three minute run,cc05d655995aa6981b4cbdaa7661f0968a8f6957e68febd79b5b2ca128597e55
 Special Playgames - Issue 08 (1985)(Societa Edizioni Internazionali)(it),Magazines,tzx,Spectrum 48K,Good,Exact,"Shows the same pictures as the reference emulator, at a different moment",a092043e222f1429db1109e38db24888cf6716b4564f1f6b0964251649a5a0ab
-Special Playgames - Issue 09 (1985)(Societa Edizioni Internazionali)(it),Magazines,tzx,Spectrum 48K,Good,Exact,"Shows the same pictures as the reference emulator, at a different moment",51ae3255c65dc8c8378acb66229d03ed08f14ddba8ee14c527fd87c072f840e7
+Special Playgames - Issue 09 (1985)(Societa Edizioni Internazionali)(it),Magazines,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,51ae3255c65dc8c8378acb66229d03ed08f14ddba8ee14c527fd87c072f840e7
 Special Playgames - Issue 10 (1985)(Societa Edizioni Internazionali)(it),Magazines,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,cc08e0223cea1947959588bd5ffd2b224eed13b47f5d457f2a05a3ea521ed1cc
-Special Playgames - Issue 11 (1985)(Societa Edizioni Internazionali)(it),Magazines,tzx,Spectrum 48K,Check,Exact,Picture agrees 87% with the reference emulator,d9dfc9d7109243b2a28f1e2b8bf07a37e52e2cb4edabed185032b9d23d7d6a79
-Special Playgames - Issue 12 (1985)(Societa Edizioni Internazionali)(it),Magazines,tzx,Spectrum 48K,Good,Exact,"Shows the same pictures as the reference emulator, at a different moment",d7e80390cd31430555e5c2c6715f79697d2759da0d63950dd5e1fdb8d30a1a82
+Special Playgames - Issue 11 (1985)(Societa Edizioni Internazionali)(it),Magazines,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,d9dfc9d7109243b2a28f1e2b8bf07a37e52e2cb4edabed185032b9d23d7d6a79
+Special Playgames - Issue 12 (1985)(Societa Edizioni Internazionali)(it),Magazines,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,d7e80390cd31430555e5c2c6715f79697d2759da0d63950dd5e1fdb8d30a1a82
 Special Playgames - Issue 13 (198x)(Societa Edizioni Internazionali)(it),Magazines,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,c49615ea7cef35be61fdac65af425b93e169c5ce6364f4b893a632547093422a
 Special Playgames - Issue 14 (198x)(Societa Edizioni Internazionali)(it),Magazines,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,881512d779ebde0e1d8ee88fdc2200a31c87fd1894a6ac77a2a73917023359ab
 Special Playgames - Issue 15 (1986)(Societa Edizioni Internazionali)(it),Magazines,tzx,Spectrum 48K,Ahead,Exact,Runs on while the reference emulator stays on one picture,5ae4c3920bf5d28b7d4d0a1106a41dd75f3c42110bda8dddff1b05d691a57b80
@@ -34343,8 +34343,8 @@ Special Program - Issue 25 (1986)(Sipe)(it),Magazines,tzx,Spectrum 48K,Differs,E
 Special Program - Issue 26 (1986)(Sipe)(it),Magazines,tzx,Spectrum 48K,Differs,Exact,Picture agrees only 25% with the reference emulator,bd8eba655a7c80365749413e42dd1fc533b84590cf1280d18a95df881d787800
 Special Program - Issue 27 (1986)(Sipe)(it),Magazines,tzx,Spectrum 48K,Differs,Exact,Picture agrees only 24% with the reference emulator,d4a815598e7dbfe1c7b03d866bc1cdcf5e005affbb1ba50f6c714e5774058134
 Special Program - Issue 28 (1986)(Sipe)(it),Magazines,tzx,Spectrum 48K,Differs,Exact,Picture agrees only 25% with the reference emulator,a40040cec2d6ca9522e2a443c80ab988caab101328085344aafabd3cd98dd991
-Special Program - Issue 29 (1986)(Sipe)(it),Magazines,tzx,Spectrum 48K,Differs,Exact,Picture agrees only 26% with the reference emulator,e2e63cfc29f5e830acbfc4bf17bb0b6f67d0a45dad5bf01dbc9b294208d9ebd3
-Special Program - Issue 30 (1987)(Sipe)(it),Magazines,tzx,Spectrum 48K,Differs,Exact,Picture agrees only 24% with the reference emulator,04f871a3c4b3d0bc569af66e9e441d5e5c5e3033b38840afc6ed8c3b35b26bb8
+Special Program - Issue 29 (1986)(Sipe)(it),Magazines,tzx,Spectrum 48K,Differs,Exact,Picture agrees only 25% with the reference emulator,e2e63cfc29f5e830acbfc4bf17bb0b6f67d0a45dad5bf01dbc9b294208d9ebd3
+Special Program - Issue 30 (1987)(Sipe)(it),Magazines,tzx,Spectrum 48K,Differs,Exact,Picture agrees only 25% with the reference emulator,04f871a3c4b3d0bc569af66e9e441d5e5c5e3033b38840afc6ed8c3b35b26bb8
 Special Program - Issue 31 (1987)(Sipe)(it),Magazines,tzx,Spectrum 48K,Ahead,Exact,Runs on while the reference emulator stays on one picture,31504d6c2e7ae5f4605ba505d1be52b8480fba19a6db008c84b39985fb83fbbc
 Special Program - Issue 32 (1987)(Sipe)(it),Magazines,tzx,Spectrum 48K,Ahead,Exact,Runs on while the reference emulator stays on one picture,6e8bd7f238e38e4ce289886a1b96cb93dfc444632727c09ae89095c993a29dbc
 Special Program - Issue 33 (1987)(Sipe)(it),Magazines,tzx,Spectrum 48K,Ahead,Exact,Runs on while the reference emulator stays on one picture,2bfeacff472290bbf0f9fe6a0fff22e40848b89cecf89945d7fd30be89e40397
@@ -34356,13 +34356,13 @@ Special Program - Issue 38 (1987)(Sipe)(it),Magazines,tzx,Spectrum 48K,Check,Exa
 Special Program - Issue 39 (1987)(Sipe)(it),Magazines,tzx,Spectrum 48K,Check,Exact,Picture agrees 72% with the reference emulator,70f200a2d25a74f98e57fe58151c293317b19100ea157b76de79140885f624c5
 Special Program - Issue 40 (1987)(Sipe)(it),Magazines,tzx,Spectrum 48K,Check,Exact,Picture agrees 71% with the reference emulator,77bbba41ddbea70d5570168ce4de3ba7b2b331ba39a32613db19af82dd92697d
 Special Program - Issue 41 (198x)(Sipe)(it),Magazines,tzx,Spectrum 48K,Check,Exact,Picture agrees 70% with the reference emulator,515d625726a9148d7be83fea41c839ad3a6066d68f54ba2accfc132cec1c2daf
-Special Program - Issue 42 (1988)(Sipe)(it),Magazines,tzx,Spectrum 48K,Check,Exact,Picture agrees 71% with the reference emulator,abe30d007f649bc798fe1a693559a365dc8afdb351da10c5a6f60428fb657461
+Special Program - Issue 42 (1988)(Sipe)(it),Magazines,tzx,Spectrum 48K,Ahead,Exact,Runs on while the reference emulator stays on one picture,abe30d007f649bc798fe1a693559a365dc8afdb351da10c5a6f60428fb657461
 Special Program - Issue 43 (1988)(Sipe)(it),Magazines,tzx,Spectrum 48K,Check,Exact,Picture agrees 72% with the reference emulator,3752e7ba4b1463b3d474b04b9d421352bf5f15d4e0dabe86f694b50b95a3a5f2
 Special Program - Issue 44 (1988)(Sipe)(it),Magazines,tzx,Spectrum 48K,Check,Exact,Picture agrees 74% with the reference emulator,aeab1adb91c5cee71d3add3cf7088d20b60e92f6e92966a7bbe63409fce8eacc
 Special Program - Issue 45 (1988)(Sipe)(it),Magazines,tzx,Spectrum 48K,Check,Exact,Picture agrees 72% with the reference emulator,5a0aff5baf9b20c2b03bb62fbc4ab02b4a93bcbed097bb8da63bf4886f4cd3c6
 Special Program - Issue 45 (1988)(Sipe)(it)[a],Magazines,tzx,Spectrum 48K,Check,Exact,Picture agrees 72% with the reference emulator,b04756afec27354bd387d2e8b8b916948eac6fd944d828276b30d5c7ac99399e
-Special Program - Issue 46 (1988)(Sipe)(it),Magazines,tzx,Spectrum 48K,Check,Exact,Picture agrees 72% with the reference emulator,9eb7829d1ee27958d32332f8850d051f32937b6e5e9cfa0cba9096be63ec8951
-Special Program - Issue 47 (1988)(Sipe)(it),Magazines,tzx,Spectrum 48K,Check,Exact,Picture agrees 71% with the reference emulator,4d421cf1a353cb55e619cc6937ca8f5c49b600190966e4fd11ac514ceb7e1709
+Special Program - Issue 46 (1988)(Sipe)(it),Magazines,tzx,Spectrum 48K,Ahead,Exact,Runs on while the reference emulator stays on one picture,9eb7829d1ee27958d32332f8850d051f32937b6e5e9cfa0cba9096be63ec8951
+Special Program - Issue 47 (1988)(Sipe)(it),Magazines,tzx,Spectrum 48K,Ahead,Exact,Runs on while the reference emulator stays on one picture,4d421cf1a353cb55e619cc6937ca8f5c49b600190966e4fd11ac514ceb7e1709
 Special Program - Issue 48 (1988)(Sipe)(it),Magazines,tzx,Spectrum 48K,Ahead,Exact,Gets further than the reference emulator in the same time,911b0d22079754ff548bc8e1f691ce562179135295fb8794e8ed815732389ea6
 Special Program - Issue 49 (1988)(Sipe)(it),Magazines,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,9cfb639f903c3305c3e2bc2969dc826772b756b2981ac90d2dc66a4d99c624cc
 Special Program - Issue 50 (1989)(Sipe)(it),Magazines,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,77f1c93756985b8002dacc1f99a2e7668ab3472a807b0391ef8d984a93f93f3c
@@ -35255,7 +35255,7 @@ Spy vs Spy (1985)(Beyond Software)[a2],Games,tzx,Spectrum 48K,Check,Exact,The re
 Spy vs Spy (1985)(Beyond Software)[a2],Games,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,953d4c2d6b4028be6143bc750ff22bb9c21f12eacae0880d5a7424f196378e77
 Spy vs Spy (1985)(Beyond Software)[a3],Games,tzx,Spectrum 48K,Check,Exact,The reference emulator gets further in the same time,c61764d8f12946634dda7129dd1dbfff6a61f8d5be5d5f11e72bc7a4f33a46dd
 Spy vs Spy (1985)(Beyond Software)[a],Games,tap,Spectrum 48K,Check,Exact,The reference emulator gets further in the same time,fc9726f92f0d93e1fbc23466cba2586269ed16289cadb85cc04573bba8c501af
-Spy vs Spy (1985)(Beyond Software)[a],Games,tzx,Spectrum 48K,Good,Exact,"Shows the same pictures as the reference emulator, at a different moment",2143c5a4b8ae3933b6062160ba9cc2ca98371ef6caf3dbbcbceca64eb51ebe2e
+Spy vs Spy (1985)(Beyond Software)[a],Games,tzx,Spectrum 48K,Ahead,Exact,Gets further than the reference emulator in the same time,2143c5a4b8ae3933b6062160ba9cc2ca98371ef6caf3dbbcbceca64eb51ebe2e
 Spy vs Spy (1985)(Beyond Software)[a],Games,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,b2fb43d2dd895378ce0ebf8cbfe3acda7abf33029a3efbc95882d2df52dc8a80
 Spy vs Spy (1985)(Hi-Tec Software)[re-release],Games,tzx,Spectrum 48K,Check,Exact,The reference emulator gets further in the same time,20aaa6fef5f98f6206fff2d49238f9d87b48830fdfbf810c46e31a9166ec3333
 Spy vs Spy (1985)(Zafiro Software Division)[re-release],Games,tzx,Spectrum 48K,Good,Exact,Matches the reference emulator over a three minute run,ff458360ce3f768eb2ce56b0a2d119cb8544b01dc58b5c3f1d082a83ea0074c9
@@ -35885,7 +35885,7 @@ Stormlord II - Deliverance (1990)(Hewson Consultants)(Part 3 of 3)[128K],Games,z
 "Story So Far Vol 2, The - Overlander (1989)(Elite Systems)",Compilations,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,d2f1fe05ee08c653abf3c2a0e3b52070241f5d6822e1b42622d8c76f12f0e36d
 "Story So Far Vol 2, The - Space Harrier (1989)(Elite Systems)",Compilations,tzx,Spectrum 48K,Good,Exact,"Shows the same pictures as the reference emulator, at a different moment",89d6b0c2a295d4876d3deed0f22cb906f3a02fdf81a5e0345273e7d8b2ff6b10
 "Story So Far Vol 4, The - Aliens (1989)(Elite Systems)",Compilations,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,6742fbed3639778e41888d5dd30da49a04fa99ec19adf77d44e8b4ddb745d3e5
-"Story So Far Vol 4, The - Back to the Future (1989)(Elite Systems)",Compilations,tzx,Spectrum 48K,Check,Exact,Picture agrees 58% with the reference emulator,1d81b2f1301a699b58a739f1ed2f30f24fe96dafa05dbf20bf335c9fa122331f
+"Story So Far Vol 4, The - Back to the Future (1989)(Elite Systems)",Compilations,tzx,Spectrum 48K,Good,Exact,Matches the reference emulator over a three minute run,1d81b2f1301a699b58a739f1ed2f30f24fe96dafa05dbf20bf335c9fa122331f
 "Story So Far Vol 4, The - Ghostbusters (1989)(Elite Systems)",Compilations,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,6838d521852bf5b175c8e1a384affd064c95c23890f492bb1fc43c7bc33471d4
 "Story So Far Vol 4, The - Quartet (1989)(Elite Systems)",Compilations,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,106d91f9b79ff862064841120d60a82f2fccf3c13cb5281624346d0894925907
 "Story So Far Vol 4, The - The Eidolon (1989)(Elite Systems)",Compilations,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,5bd8eaafd846dfd1a232ac78eccc8ed360335ba8d077e598875ab841884e8e73
@@ -36272,7 +36272,7 @@ Super Chess III v3.5 (1985)(CP Software)[a],Games,z80,Spectrum 48K,Good,Exact,Pi
 Super Chopper (1984)(Software Super Savers),Games,tap,Spectrum 48K,Good,Exact,Picture matches the reference emulator,bfc3abe0cc77954ecfbce6f0d274135e92cfe85173ce880cfcf46fbed201f186
 Super Chopper (1984)(Software Super Savers),Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,f8c3a913e9863ababa581a4898f34ed89f95cb22508ca66c745b9cb22d959709
 Super Chopper (1984)(Software Super Savers),Games,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,5a48fa6aae880a3128963c32fec30566dffd6633b862c708059e2e9e56077b42
-Super Chopper (1984)(Software Super Savers)[a],Games,tzx,Spectrum 48K,Check,Exact,Picture agrees 88% with the reference emulator,1cbbf5f9dab9abb35766411bc0359e982e5410ab85348a251d247d11950f5816
+Super Chopper (1984)(Software Super Savers)[a],Games,tzx,Spectrum 48K,Check,Exact,Picture agrees 89% with the reference emulator,1cbbf5f9dab9abb35766411bc0359e982e5410ab85348a251d247d11950f5816
 Super Chopper (1984)(Software Super Savers)[a],Games,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,7d2387f80b6963bfc5f6531c538ed1b4fa2df1c5eaa5982585e4ecfbc540361c
 Super Cobra (1983)(Robert Spahl)(de),Games,tap,Spectrum 48K,Good,Exact,Picture matches the reference emulator,a53cfff231e6745f06e7bf7b9129d31833a86b6b9a7f8e7ceae6989c34b856d5
 Super Colour (1986)(Your Sinclair),Covertapes,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,c371119c8925e100f922c8a7184342bbd43111702d56c80ce2130a9b41a7d35b
@@ -37748,7 +37748,7 @@ Thundercats (1987)(MCM Software)[re-release][Small Case],Games,tzx,Spectrum 48K,
 Thundercats (1988)(Encore)[128K][re-release],Games,tzx,Spectrum 128K,Good,Exact,Picture matches the reference emulator,e5920d0f6504e2cc5b074024cd7fc2b06102103e01f332252d19a2ab1061c314
 Thundercats (1988)(MCM Software)[re-release][Double Case],Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,a7923d1d70d1a9522d39508e6a0d465f2b0e5d91c286a3df5ccc35a6df4e6d5f
 Thundercats (demo) (1987)(Elite Systems - C&VG),Covertapes,tzx,Spectrum 48K,Ahead,Exact,Runs on while the reference emulator stays on one picture,a67200eb216a5e0ff8ed692b3b47d7b61024485439c43f73063ff30ebedd739b
-Thunderceptor (1987)(Go!),Games,tzx,Spectrum 48K,Differs,Exact,Picture agrees only 1% with the reference emulator,ec29080a1ca979b85e4ca73f24ae9af34aaf0da796884154b1a7b5c745121013
+Thunderceptor (1987)(Go!),Games,tzx,Spectrum 48K,Ahead,Exact,Gets further than the reference emulator in the same time,ec29080a1ca979b85e4ca73f24ae9af34aaf0da796884154b1a7b5c745121013
 Thunderceptor (1987)(Go!),Games,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,94a746735bc482b23a320bd0b3a78dee9a5c755981e443c9ac50e8856a7d8f44
 Thunderceptor (1987)(Go!)[a],Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,1d7a4c4db889433f2739728eecb492291b53ffa0d9b2fce5ecdc2bccd7bc92e8
 Thunderceptor (1987)(Go!)[a],Games,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,19122a1b1195f726c9966864697a157e3f22bea69596003215b7e712acccb235
@@ -38334,7 +38334,7 @@ Toxic Elephant (1992)(Total Eclipse - Your Sinclair)[128K],Demos,tzx,Spectrum 12
 Toxic Elephant (1992)(Total Eclipse - Your Sinclair)[128K],Demos,z80,Spectrum 128K,Good,Exact,Picture matches the reference emulator,b1fb3cb2337289dc3a7f80bdbc1d8251bd1c27d9293950fd3c973ab8d2379004
 Toxic Elephant (1992)(Total Eclipse - Your Sinclair)[a][128K],Demos,tzx,Spectrum 128K,Good,Exact,Picture matches the reference emulator,213ee315f33f0de65f968177eff5461c875ce96c9c2430a02e721bdec3cea5ac
 Toy Bizarre (1985)(Activision),Games,tap,Spectrum 48K,Good,Exact,Picture matches the reference emulator,7496f16e30cef5b1654c2b110ad56a05c57936605328d4b2a9a70029d2e76aa1
-Toy Bizarre (1985)(Activision),Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,e5437c4529d13c0c4cf0fc4cfac678cad752c0fa4d14a2419e16e14fb7ac9fd6
+Toy Bizarre (1985)(Activision),Games,tzx,Spectrum 48K,Good,Exact,Matches the reference emulator over a three minute run,e5437c4529d13c0c4cf0fc4cfac678cad752c0fa4d14a2419e16e14fb7ac9fd6
 Toy Bizarre (1985)(Activision),Games,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,f2c44797c71dad7009b5be694678c042ddf9a2d35ff36078e4d26442b1340396
 Toy Bizarre (1985)(Activision)[a],Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,494dc9ae869f82f3511deaeb2cac16d4911c4b597ee0e7587ecb0af26801e391
 Toy Bizarre (1985)(Activision)[a],Games,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,27f5296b004c9860944dce5a53ff7ec11b82e52a5a502f8dfbebefc280b03133
@@ -38901,7 +38901,7 @@ Turbo Tools (1991)(VIM Micro Systems),Applications,tzx,Spectrum 48K,Good,Exact,P
 Turbulence (1993)(Beyond Belief),Games,z80,Spectrum 48K,Good,Exact,Matches the reference emulator over a three minute run,8d71cc73932ad9c354a2ead75bfc6fdcd6b658c5a0f56a17782ff3b75c2b9d3c
 Turbulence (1993)(Beyond Belief)[128K],Games,z80,Spectrum 128K,Good,Exact,Picture matches the reference emulator,12965f21af3118d54dd6af1eed313f5b964a8ffa43334ab0f069b55e05162873
 Turbulence (1993)(Beyond Belief)[48-128K],Games,tap,Spectrum 128K,Good,Exact,Picture matches the reference emulator,b62b7513a18d87137c71358a25c785632a977216ed38d9e2d99674a9d360f292
-Turbulence (1993)(Beyond Belief)[48-128K],Games,tzx,Spectrum 128K,Check,Exact,Picture agrees 87% with the reference emulator,2e7fdd540aa898d75f155ec939fcca8a4691c58280f6e2ff467f729461b0f54d
+Turbulence (1993)(Beyond Belief)[48-128K],Games,tzx,Spectrum 128K,Good,Exact,"Shows the same pictures as the reference emulator, at a different moment",2e7fdd540aa898d75f155ec939fcca8a4691c58280f6e2ff467f729461b0f54d
 Turbulence (1993)(Beyond Belief)[a][48-128K],Games,tzx,Spectrum 128K,Good,Exact,Picture matches the reference emulator,31c9275be1a085b3bd98cc144a0aebe90e4c3c4ba44f1466ed39264c2cb02e6d
 Turf-Form (1988)(Blue Ribbon Software),Games,tap,Spectrum 48K,Good,Exact,Picture matches the reference emulator,3d3f44ef0fbbaff533761a7c23a719c63c1b85636565ab06f26892d39a807062
 Turf-Form (1988)(Blue Ribbon Software),Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,fa63cdcb50a5965fd20413642c2f5197c3de51f59bcb43a95a70c8216ab8df0c
@@ -39234,11 +39234,11 @@ Unitrax (1987)(Streetwise)[a],Games,z80,Spectrum 48K,Good,Exact,Picture matches 
 Unitrax (1988)(Erbe Software)[re-release],Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,54c0a7e23a4bf3d6ee0c28a1f157f6d556f0ba7711bc25bec775c29b0422e9b3
 Universa (1991)(Tawkeht)(ru)[128K],Games,tap,Spectrum 128K,Good,Exact,Picture matches the reference emulator,16f1fe4ad1cc7695592f0961862fe246d9af40bedf2f20aaeea3821d77f1ab1a
 Universal (1991)(-)(ru),Games,trd,Pentagon 128K,Good,Exact,Picture matches the reference emulator,5c950afc0323b107a3f10cd482f24520db5e46e68a0de47e445b64a8999a30f3
-Universal Hero (1986)(Mastertronic),Games,tap,Spectrum 48K,Good,Exact,"Shows the same pictures as the reference emulator, at a different moment",c59ed1204cfe45a3eef1e1bb7e8975a6126e750e5808bd4bdf24d44ed5a5cf05
+Universal Hero (1986)(Mastertronic),Games,tap,Spectrum 48K,Good,Exact,Matches the reference emulator over a three minute run,c59ed1204cfe45a3eef1e1bb7e8975a6126e750e5808bd4bdf24d44ed5a5cf05
 Universal Hero (1986)(Mastertronic),Games,tzx,Spectrum 48K,Good,Exact,"Shows the same pictures as the reference emulator, at a different moment",97c7826aab82b888ee3eaad2f99af9fe07cd5b7557a4d2b4f0edda2228229d0e
 Universal Hero (1986)(Mastertronic),Games,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,c3fb2b2a342cca28d8e27cc159947aef8d8b478bdb19c7562c3410ccfff8a743
-Universal Hero (1986)(Mastertronic)[a],Games,tap,Spectrum 48K,Good,Exact,Picture matches the reference emulator,b56da796d98df2150942997681892296fc61543aef9772023b417ae97f8b3e0f
-Universal Hero (1986)(Mastertronic)[a],Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,04efe5d5e766a3574f2018cdb1cd9c6f3499b2b91b6d9f5a81e87d1775d91f87
+Universal Hero (1986)(Mastertronic)[a],Games,tap,Spectrum 48K,Good,Exact,Matches the reference emulator over a three minute run,b56da796d98df2150942997681892296fc61543aef9772023b417ae97f8b3e0f
+Universal Hero (1986)(Mastertronic)[a],Games,tzx,Spectrum 48K,Good,Exact,Matches the reference emulator over a three minute run,04efe5d5e766a3574f2018cdb1cd9c6f3499b2b91b6d9f5a81e87d1775d91f87
 Universalschrift (19xx)(-)(de),Applications,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,e942b1b96184edd592b870028478b50fb9b43d9c32afefda8e5e07768bff5521
 Universe (2002)(Naffsoft),Games,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,8f2a41346b23aff920ee5bf47cbe22f7e7eacbf5deb824e553837562ab7b4368
 Unknown (1993)(DMT)(ru),Demos,trd,Pentagon 128K,Good,Exact,Picture matches the reference emulator,fbae373c109f5005c2c601a7ef7b8187ac4f3e6783a59d6a95da078f18f8a24b
@@ -39474,7 +39474,7 @@ Value Pack 16k - Molar Maul (1983)(Beau-Jolly)[16K],Games,tzx,Spectrum 48K,Good,
 Value Pack 48k - Alchemist (1984)(Beau-Jolly),Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,a9e5af64011776c3cb909ccb2e1864a527fc3eb6a6991018a30a145fa780a695
 Value Pack 48k - BC Bill (1984)(Beau-Jolly),Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,49ab66e8524a2b454635d711ec42894de7e39d7dd820a66855346e727118d316
 Value Pack 48k - Cosmic Cruiser (1984)(Beau-Jolly),Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,037d4f07d2e7d18d01edde1d6a1ce6ce3d24c4cc84f0cac8c0a8930ffabdb8f2
-Value Pack 48k - Pedro (1984)(Beau-Jolly),Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,516dbaada7327636f6cc2a07f7fd89da8ff36723e188bc5a085dc60017c3e7f7
+Value Pack 48k - Pedro (1984)(Beau-Jolly),Games,tzx,Spectrum 48K,Good,Exact,"Shows the same pictures as the reference emulator, at a different moment",516dbaada7327636f6cc2a07f7fd89da8ff36723e188bc5a085dc60017c3e7f7
 Value Pack 48k - Zip Zap (1984)(Beau-Jolly),Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,51f7cf167e7fe66c7e9d273090208d393a0d5ea6881b08bda464e7e1b4e9e57e
 Value Pack 48k - Zzoom (1984)(Beau-Jolly),Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,6fa4fd480f96fb9fe98834e09e5ff61d9347607b36cc0e12da72220fd4e7885c
 Vampire (1986)(Codemasters)[a2][re-release of Phantomas 2],Games,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,f2aad67fb950cc47f3b24ea363f27626097e2b1dacdc6dc8f76d581752ec4039
@@ -39695,7 +39695,7 @@ Video Card Arcade (1988)(CDS Microsystems)[a],Games,tzx,Spectrum 48K,Good,Exact,
 Video Card Arcade (1988)(CDS Microsystems)[a],Games,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,580a6268cc7d31780bfe2c7ae1071dfdcf07da48eaa31663c4ac71ae27404c9d
 Video Classics (1989)(Silverbird Software),Compilations,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,8d8820c2c9fdc0f84d1b0e3a37a2468160f84c42f08fcc574c2c5c23f405d02d
 Video Graffiti (1982)(A.G. Fosberry),Applications,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,59445fce4ae6886953eae115c4c0bfe6a0c765ef467813177407870a54fd3f60
-Video Olimpic (1984)(Dinamic Software)(ES),Games,tzx,Spectrum 48K,Ahead,Exact,Gets further than the reference emulator in the same time,dc082321004db7bd7f7ce7340c493482f9cffa300693e1a1e6120f623a8a25b4
+Video Olimpic (1984)(Dinamic Software)(ES),Games,tzx,Spectrum 48K,Differs,Exact,Picture agrees only 9% with the reference emulator,dc082321004db7bd7f7ce7340c493482f9cffa300693e1a1e6120f623a8a25b4
 Video Olimpic (1984)(Dinamic Software)(es),Games,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,a91b4233088600b8200f4f77364e179fc7f574cb7e37aed5978f0a1f254ec4ea
 Video Olimpic (1984)(Dinamic Software)(ES)[a],Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,0ceb79727e3613a4c068640a58d5bc41301e0912d176cba238a9698e77e5aba8
 Video Olimpic (1984)(Dinamic Software)(es)[a],Games,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,32de0d34e75c6c29ef5dcfe4addb11173d07454c086158d944ec794b10801234
@@ -39715,7 +39715,7 @@ Video Poker (1986)(Entertainment USA)[a],Games,tzx,Spectrum 48K,Good,Exact,Pictu
 Video Pool (1985)(Oxford Computer Publishing),Games,tap,Spectrum 48K,Good,Exact,Picture matches the reference emulator,203fe6b915343243d6117fa0f4e33388f93154c93a9b085996f899adc26ae536
 Video Pool (1985)(Oxford Computer Publishing),Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,874a6fefa7bcce5c30dcb115ad969cf66bde35f4557a3e4b7083040a68627b0d
 Video Pool (1985)(Oxford Computer Publishing),Games,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,9f0b74882d51b483475089e0614772fa07df4ae22373782262e136f77c760d80
-Video Pool (1985)(Oxford Computer Publishing)[a],Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,41437297c45d7bd5c3d082cfb6a3318542d38156f1e5f6694cc82b27997d87db
+Video Pool (1985)(Oxford Computer Publishing)[a],Games,tzx,Spectrum 48K,Differs,Exact,Picture agrees only 5% with the reference emulator,41437297c45d7bd5c3d082cfb6a3318542d38156f1e5f6694cc82b27997d87db
 Video Pool (1985)(Oxford Computer Publishing)[a],Games,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,7a1c713c6eef55a6e9a1126ec3c577145a06753ad407b73933be6be9d3c3cdd8
 Video Pool (1985)(Oxford Computer Publishing)[cr],Games,tap,Spectrum 48K,Good,Exact,Picture matches the reference emulator,662a5901232fb5f6bc33298f086da884f8c19d1e3aecbeaeb07c71cf64cabc65
 Video Pool (1985)(Paxman Promotions)[re-release],Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,159c62727173d70efd23d38b72b28e56e1b5f9a8c988423c6de65528cb76e32a
@@ -40227,8 +40227,8 @@ Way of Clans (demo) (1996)(Orion Software)(ru),Games,trd,Pentagon 128K,Good,Exac
 "Way of the Exploding Fist, The (1985)(Melbourne House)",Games,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,63d652f39f442739f44a1e1fbf8260e50f3ef5eaccee432904344318001deea4
 "Way of the Exploding Fist, The (1985)(Melbourne House)[a]",Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,b778c4bf8681d8ad489f52994fd238e2fe66f6b0d506f03facfd22d6d2de7bd2
 "Way of the Exploding Fist, The (1985)(Melbourne House)[t]",Games,sp,Spectrum 48K,Good,Exact,Picture matches the reference emulator,7e61c621155d9f1e749fe6e74e3c625705a874bcc62509160c02a66bd9b8f256
-"Way of the Exploding Fist, The (1988)(Dro Soft)[re-release]",Games,tzx,Spectrum 48K,Differs,Exact,Picture agrees only 34% with the reference emulator,4ba237e8813cb6cd8a0859be95b0ae2f8b47135371a6910d60a1468020f2f16b
-"Way of the Exploding Fist, The (1988)(Ricochet)[re-release]",Games,tzx,Spectrum 48K,Good,Exact,Matches the reference emulator over a three minute run,d12cc6cdee49429340e94a7fa2c99101575fcfae2e661ba9b378a186b841d7ee
+"Way of the Exploding Fist, The (1988)(Dro Soft)[re-release]",Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,4ba237e8813cb6cd8a0859be95b0ae2f8b47135371a6910d60a1468020f2f16b
+"Way of the Exploding Fist, The (1988)(Ricochet)[re-release]",Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,d12cc6cdee49429340e94a7fa2c99101575fcfae2e661ba9b378a186b841d7ee
 "Way of the Exploding Tits, The (1988)(Shattered Dreams)",Games,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,d8b13c8834deec05c430f4601a4bf8e03e66876dd8bcc443a8ae3f5b8b80ea7c
 "Way of the Exploding Tits, The (1988)(Shattered Dreams)[a]",Games,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,de007e3a090fc4607a95e4be3b41ab8e96cab375e2b6dd55641a4f9b25b21d63
 "Way of the Tiger, The (1986)(Boots)(Side A)[re-release]",Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,f6f878ffb1d0c5849e7b7fe5627f380f3e2ba2e1f653ea036c3bf64a33fd5f44
@@ -40884,7 +40884,7 @@ World Series Baseball (1985)(The Hit Squad)[re-release],Games,tzx,Spectrum 48K,G
 World Series Baseball (1989)(Erbe Software)[re-release],Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,9e6cb293ab64f0eef9b85d1051234c97a8973f24bbfa6f172221d82fa4162082
 World Series Basketball (1985)(Erbe Software)[re-release],Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,7f26a945855ea61d1d2950418702a25716f051a6b0be87e15e96ecea8e44f2d1
 World Series Basketball (1985)(Erbe Software)[small case][re-release],Games,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,2719eacc7d1eac618b019a93cc917bc29c2bbfe959c16689050a6982a3186111
-World Series Basketball (1985)(Imagine Software),Games,tzx,Spectrum 48K,Good,Exact,"Shows the same pictures as the reference emulator, at a different moment",78abb47dda6c8608246a0a890c425a02c8e1cd3d48b5e72b830e9384bf2b20c8
+World Series Basketball (1985)(Imagine Software),Games,tzx,Spectrum 48K,Check,Exact,Picture agrees 56% with the reference emulator,78abb47dda6c8608246a0a890c425a02c8e1cd3d48b5e72b830e9384bf2b20c8
 World Series Basketball (1985)(Imagine Software),Games,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,989c089ed62165569e2fe475d4ae0122d1f217ca694a8afdcf33cde1fedd0694
 World Series Basketball (1985)(Imagine Software)[a2],Games,tzx,Spectrum 48K,Good,Exact,"Shows the same pictures as the reference emulator, at a different moment",2bcbab044c73911173ad0f697f1768f09aad1214ccac54aad5ccfbb47844f1bd
 World Series Basketball (1985)(Imagine Software)[a2],Games,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,04560c824d8b8264518ded10ba97fa6ef4638b7b3bf7f86c056df601d1d86721
@@ -40988,9 +40988,9 @@ Wurmi (19xx)(-)(de)[16K],Games,tzx,Spectrum 48K,Good,Exact,Picture matches the r
 WWF Wrestle Mania (1991)(Erbe Software)(Side A)[128K][re-release],Games,tzx,Spectrum 128K,Good,Exact,"Shows the same pictures as the reference emulator, at a different moment",0dc7c140ec3b69ccccd6f5febd4c80e8a19ff49a4f12d36a46554252b0fff7dd
 WWF Wrestle Mania (1991)(Erbe Software)(Side B)[128K][re-release],Games,tzx,Spectrum 128K,Good,Exact,Picture matches the reference emulator,ceb2c526d80bf782b37c1470098849d961cd64dff42a4163ef690fc90527f176
 WWF Wrestle Mania (1991)(Ocean)[128K],Games,tap,Spectrum 128K,Good,Exact,Picture matches the reference emulator,40eb994b5bacf16d73d3912c1dc70ff4e972cfa712ced2b004f121613bbfbccb
-WWF Wrestle Mania (1991)(Ocean)[128K],Games,tzx,Spectrum 128K,Check,Exact,Picture agrees 69% with the reference emulator,3be0710cb5c9f4a34d6d5941a6ca55f11b14ecd7ad1c8fa6380c584f5a7a2c07
+WWF Wrestle Mania (1991)(Ocean)[128K],Games,tzx,Spectrum 128K,Good,Exact,"Shows the same pictures as the reference emulator, at a different moment",3be0710cb5c9f4a34d6d5941a6ca55f11b14ecd7ad1c8fa6380c584f5a7a2c07
 WWF Wrestle Mania (1991)(Ocean)[a2][128K],Games,tzx,Spectrum 128K,Good,Exact,"Shows the same pictures as the reference emulator, at a different moment",d9748cfb4452a072cf65f14e68338b5812ccd5811f69a355066e1a50bf98f8ce
-WWF Wrestle Mania (1991)(Ocean)[a][128K],Games,tzx,Spectrum 128K,Check,Exact,Picture agrees 68% with the reference emulator,b9ff1d2a1659d78a5fd80e917dfac8d64bc625c220c0a1cdf13bd603531837e0
+WWF Wrestle Mania (1991)(Ocean)[a][128K],Games,tzx,Spectrum 128K,Good,Exact,"Shows the same pictures as the reference emulator, at a different moment",b9ff1d2a1659d78a5fd80e917dfac8d64bc625c220c0a1cdf13bd603531837e0
 WWF Wrestle Mania (1991)(Ocean)[h Ice'n'Green],Games,scl,Pentagon 128K,Good,Exact,Picture matches the reference emulator,efa75d21755cc1d19cb063a76812290954c7fb5febb0e871e095495601216efb
 WWF Wrestle Mania (1991)(Ocean)[m][128K],Games,tzx,Spectrum 128K,Good,Exact,Picture matches the reference emulator,224295daad262fe577011c9f61c1b59d817d755b93642c8727c50a7563da6d7c
 WWF Wrestle Mania (demo) (1991)(Ocean - Sinclair User)[128K],Covertapes,tzx,Spectrum 128K,Good,Exact,Picture matches the reference emulator,54cc8ba82511bd40f0991fba8fad1a0b7ac25519760a5e2f94cb459df07d873d
@@ -41012,7 +41012,7 @@ X-Files 01 (1997)(Clevers Group)(ru)[a],Magazines,trd,Pentagon 128K,Good,Exact,P
 X-Files 01 (19xx)(ZX-Legion - X-Team)(ru),Magazines,scl,Pentagon 128K,Good,Exact,Picture matches the reference emulator,c08411fa17668d929f9fe89e4c99392ecc954df85e5182b7f41e7ed90cb0a170
 X-Files 02 (1998)(Clevers Group)(ru),Magazines,trd,Pentagon 128K,Check,Exact,Picture agrees 66% with the reference emulator,f6bf2ba2141ff072594eedfdfcd1abef5914a9f4a61ea312549d17a82c55289f
 X-Files 02 (1998)(Clevers Group)(ru)[a],Magazines,trd,Pentagon 128K,Check,Exact,Picture agrees 66% with the reference emulator,fb172930c003c091f01142ea17239594cf25cc525d7cda2b2318131a0aa6f46f
-X-Loader v2.30 (1988)(M.P. Sun),Applications,tzx,Spectrum 48K,Check,Exact,Picture agrees 90% with the reference emulator,cfdf21a2562fd7f8ddaff9441ef87bf3a283e3a187e915477b6f02e3672d419f
+X-Loader v2.30 (1988)(M.P. Sun),Applications,tzx,Spectrum 48K,Ahead,Exact,Runs on while the reference emulator stays on one picture,cfdf21a2562fd7f8ddaff9441ef87bf3a283e3a187e915477b6f02e3672d419f
 X-Loader v2.30 (1988)(M.P. Sun),Applications,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,32557d3fa1fdaf1095dd2ccee502db59c0779c57fa73cf5d86d5cbf6bbfdd883
 X-Loader v2.30 (1988)(M.P. Sun)[128K],Applications,z80,Spectrum 128K,Good,Exact,Picture matches the reference emulator,35b841d886d4102559a684063c0160625f540acafb73248d7b614b86a9260fb4
 X-Loader XModem - User Guide (1988)(M.P. Sun)[128K],Applications,z80,Spectrum 128K,Good,Exact,Picture matches the reference emulator,1bbb5a375ddaffc7a9407698a2b371369477d25a7acb3c9596438dd2a9ea2bbb
@@ -41317,7 +41317,7 @@ Your Computer - Issue 06 (1986)(Sintax)(es),Magazines,tzx,Spectrum 48K,Good,Exac
 Your Computer - Issue 07 (1986)(Sintax)(es),Magazines,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,5944005d354e0139fc0220b151b833a4deb171564f941f507d6baa399423f3da
 Your Sinclair - Issue 01 - Smash Tape 01 (1986)(Your Sinclair),Covertapes,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,fcf95161674ee11c6f97c8ff7bd592cd27b8199bd0b964c72022a6e430b26b52
 Your Sinclair - Issue 17 - Smash Tape 02 (1987)(Your Sinclair),Covertapes,tzx,Spectrum 48K,Differs,Exact,Picture agrees only 36% with the reference emulator,d017cc6d92377e3d2764faa49a30fb005170a5aef1b5ede1a4ac3fdb11043c43
-Your Sinclair - Issue 22 - Smash Tape 03 (1987)(Your Sinclair),Covertapes,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,5a6304838a19d1181d141e43b23eb4745cf2f58893e2ef7447ded7cbbbba147f
+Your Sinclair - Issue 22 - Smash Tape 03 (1987)(Your Sinclair),Covertapes,tzx,Spectrum 48K,Good,Exact,Matches the reference emulator over a three minute run,5a6304838a19d1181d141e43b23eb4745cf2f58893e2ef7447ded7cbbbba147f
 Your Sinclair - Issue 24 - Smash Tape 04 (1987)(Your Sinclair),Covertapes,tzx,Spectrum 48K,Good,Exact,Matches the reference emulator over a three minute run,fa0a7093fc37fd5330deb771785225aa6b8fefade10be14e5f4149504fce70a2
 Your Sinclair - Issue 25 - Smash Tape 05 (1988)(Your Sinclair),Covertapes,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,f50c7fc061063aed28785a4541d7d1ef651b39091cdf53a329663be240f2340e
 Your Sinclair - Issue 29 - Smash Tape 06 (1988)(Your Sinclair),Covertapes,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,8ec7b875ab62c88264a4bc5fa3df899203373cee59aa99479a78431f79f76d8c
@@ -41440,7 +41440,7 @@ Your Sinclair - Issue 68 - The Magnificent Seven 05 (1991)(Your Sinclair)(Side B
 Your Sinclair - Issue 68 - The Magnificent Seven 05 (1991)(Your Sinclair)(Side B)[a],Covertapes,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,fd6eb4c18d8592494529ffcb5b172a66fddf4499d06256cba93cfe304d0d4934
 Your Sinclair - Issue 68 - The Magnificent Seven 05 - Practical Pokes (1991)(Your Sinclair),Covertapes,tzx,Spectrum 48K,Differs,Exact,Picture agrees only 11% with the reference emulator,2c0f71aa3cf4da9c74e38706bf082d60d1108f9afd9db119ff76b7b6101cd560
 Your Sinclair - Issue 69 - The Magnificent Seven 06 (1991)(Your Sinclair)(Side A),Covertapes,tzx,Spectrum 48K,Differs,Exact,Picture agrees only 16% with the reference emulator,7c757dc4a6a4af36b2eea9d3ea166594791c93791a44c559ad5503289fdde359
-Your Sinclair - Issue 69 - The Magnificent Seven 06 (1991)(Your Sinclair)(Side A)[a],Covertapes,tzx,Spectrum 48K,Differs,Exact,Picture agrees only 16% with the reference emulator,26bc1acdd85dd92a12d35e668c26cb84062424def7478549ff92eb659eb8049c
+Your Sinclair - Issue 69 - The Magnificent Seven 06 (1991)(Your Sinclair)(Side A)[a],Covertapes,tzx,Spectrum 48K,Ahead,Exact,Runs on while the reference emulator stays on one picture,26bc1acdd85dd92a12d35e668c26cb84062424def7478549ff92eb659eb8049c
 Your Sinclair - Issue 69 - The Magnificent Seven 06 (1991)(Your Sinclair)(Side B),Covertapes,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,eda2cb78edbd7dadd9c2ba62998d1029279b62d5443c3eca6570f6bab41d5387
 Your Sinclair - Issue 69 - The Magnificent Seven 06 (1991)(Your Sinclair)(Side B)[a],Covertapes,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,44c570047ae502fcbfd23ff6c108d1b3ae2eaafab3ed35d671a2f1dee85eb0b7
 Your Sinclair - Issue 69 - The Magnificent Seven 06 - Practical Pokes (1991)(Your Sinclair),Covertapes,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,200843e44961d98dc5bce51f357a5c040cde6e714ca833f88342682a4140c1d3
@@ -41452,8 +41452,8 @@ Your Sinclair - Issue 70 - The Magnificent Seven 07 (1991)(Your Sinclair)(Side B
 Your Sinclair - Issue 70 - The Magnificent Seven 07 - Practical Pokes (1991)(Your Sinclair),Covertapes,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,a0c2d8b1d9f4875f5ab2a2f7e7f52835ee0c796a892e7137f156494c905f3cef
 Your Sinclair - Issue 71 - The Magnificent Seven 08 (1991)(Your Sinclair)(Side A),Covertapes,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,22099b86bcc9d9e4f24159ebba7c14ae9722a28e3c11dd3875cd89181d07be93
 Your Sinclair - Issue 71 - The Magnificent Seven 08 (1991)(Your Sinclair)(Side A)[a],Covertapes,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,4c03dbcfbbc360443631e0e38964bd1f4bf0bb43b5279b6053f34c8521808b7e
-Your Sinclair - Issue 71 - The Magnificent Seven 08 (1991)(Your Sinclair)(Side B),Covertapes,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,d3e64a523d59388597d47b0857b30654ad9a8422097948f7ee65e3fbf003aa32
-Your Sinclair - Issue 71 - The Magnificent Seven 08 (1991)(Your Sinclair)(Side B)[a],Covertapes,tzx,Spectrum 48K,Ahead,Exact,Gets further than the reference emulator in the same time,93e6b599d6c53c25881e9e327db317d3e6baad9cc68bbf231bdff001cd6e80f0
+Your Sinclair - Issue 71 - The Magnificent Seven 08 (1991)(Your Sinclair)(Side B),Covertapes,tzx,Spectrum 48K,Differs,Exact,Picture agrees only 0% with the reference emulator,d3e64a523d59388597d47b0857b30654ad9a8422097948f7ee65e3fbf003aa32
+Your Sinclair - Issue 71 - The Magnificent Seven 08 (1991)(Your Sinclair)(Side B)[a],Covertapes,tzx,Spectrum 48K,Differs,Exact,Picture agrees only 0% with the reference emulator,93e6b599d6c53c25881e9e327db317d3e6baad9cc68bbf231bdff001cd6e80f0
 Your Sinclair - Issue 71 - The Magnificent Seven 08 - Practical Pokes (1991)(Your Sinclair),Covertapes,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,46597ea3b83734ad9863b7ac353fd2cb357d81daaf950b638b3a2f2e7b14847f
 Your Sinclair - Issue 72 - The Magnificent Seven 09 (1991)(Your Sinclair)(Side A),Covertapes,tzx,Spectrum 48K,Check,Exact,Picture agrees 74% with the reference emulator,d76a013b1f8347eef53b9ec26e8dd2dc7818dd42a337306f56071d3ddc765ec1
 Your Sinclair - Issue 72 - The Magnificent Seven 09 (1991)(Your Sinclair)(Side A)[a2],Covertapes,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,85b00b72fb48af03b011fd2f49d413fbe93695176e992f25a45805b9a461e857
@@ -41531,8 +41531,8 @@ Your Sinclair - Issue 85 - Christmas Collection 2 (1993)(Your Sinclair)(Side A),
 Your Sinclair - Issue 85 - Christmas Collection 2 (1993)(Your Sinclair)(Side A)[a],Covertapes,tzx,Spectrum 48K,Good,Exact,Matches the reference emulator over a three minute run,a2b3140e3bfc4cc2e27c5482a7c8591c5cec1f3714c80e237fa701a6b03ee021
 Your Sinclair - Issue 85 - Christmas Collection 2 (1993)(Your Sinclair)(Side B),Covertapes,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,4e7925d8cda3b8a59e1571240d24e21b1f6d6c7932d7283694629ac18adbecbf
 Your Sinclair - Issue 85 - Christmas Collection 2 - Practical Pokes (1993)(Your Sinclair),Covertapes,tzx,Spectrum 48K,Good,Exact,"Shows the same pictures as the reference emulator, at a different moment",43de11b3f8b58b506be4daa154a2f2d9112749a3aa284b30a21d120f9d66a553
-Your Sinclair - Issue 86 - Beaut Box 1 (1993)(Your Sinclair)(Side A),Covertapes,tzx,Spectrum 48K,Check,Exact,Picture agrees 87% with the reference emulator,b672e02ec4c1598471f296d297d91286fa27f0b84817d03b04fac9e66a5c7ea6
-Your Sinclair - Issue 86 - Beaut Box 1 (1993)(Your Sinclair)(Side A)[a],Covertapes,tzx,Spectrum 48K,Check,Exact,Picture agrees 87% with the reference emulator,5c2d690cb5fdbf7eefceccd68148bd8971dc9b17313dab39e3227607c4353c6c
+Your Sinclair - Issue 86 - Beaut Box 1 (1993)(Your Sinclair)(Side A),Covertapes,tzx,Spectrum 48K,Good,Exact,"Shows the same pictures as the reference emulator, at a different moment",b672e02ec4c1598471f296d297d91286fa27f0b84817d03b04fac9e66a5c7ea6
+Your Sinclair - Issue 86 - Beaut Box 1 (1993)(Your Sinclair)(Side A)[a],Covertapes,tzx,Spectrum 48K,Good,Exact,"Shows the same pictures as the reference emulator, at a different moment",5c2d690cb5fdbf7eefceccd68148bd8971dc9b17313dab39e3227607c4353c6c
 Your Sinclair - Issue 86 - Beaut Box 1 (1993)(Your Sinclair)(Side B),Covertapes,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,ee0faa30dcda2ce09335fc6285c769d4082647f55615f2685acc17504de7f247
 Your Sinclair - Issue 86 - Beaut Box 1 (1993)(Your Sinclair)(Side B)[a],Covertapes,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,a2cd18f2abc3a44f67ec6299f57e847424454cb46d7a7280ffcc90adef03c9c4
 Your Sinclair - Issue 86 - Beaut Box 1 - Practical Pokes (1993)(Your Sinclair),Covertapes,tap,Spectrum 48K,Check,Exact,Picture agrees 84% with the reference emulator,860c8ed4cd8161cea2b96b95b5b66766144370e423ef202769a66830810c4f0e
@@ -41933,7 +41933,7 @@ ZX Spectrum+ User Guide Companion Cassette (1984)(Sinclair Research)(fr),Applica
 ZX Spectrum+ User Guide Companion Cassette (1984)(Sinclair Research)(fr),Applications,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,fa67b44ab0700317f369f24efbe032f3a4e4b6719fd3cc8be8bebc007c1402d1
 ZX Spectrum+ User Guide Companion Cassette (1984)(Sinclair Research)(Part 1 of 2),Applications,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,6162ab702583cfa12253f4f650790d9650d32fc180f48ff87a58f745dfbb37fa
 ZX Spectrum+ User Guide Companion Cassette (1984)(Sinclair Research)(Part 2 of 2),Applications,z80,Spectrum 48K,Good,Exact,Picture matches the reference emulator,175f78498ddd5fa937fc53d82711b8c586c96a3acf35f20774ec02eec41dbd10
-ZX Spectrum+ User Guide Companion Cassette (1984)(Sinclair Research)(Side A),Applications,tzx,Spectrum 48K,Check,Exact,Picture agrees 70% with the reference emulator,ed22fde2b956ac640c7628a159a007b68f71c7926a32565222405f96d1aeec70
+ZX Spectrum+ User Guide Companion Cassette (1984)(Sinclair Research)(Side A),Applications,tzx,Spectrum 48K,Check,Exact,The reference emulator gets further in the same time,ed22fde2b956ac640c7628a159a007b68f71c7926a32565222405f96d1aeec70
 ZX Spectrum+ User Guide Companion Cassette (1984)(Sinclair Research)(Side A)[a2],Applications,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,df0f743e9b16ea1ee68484fca910c8dd51a0a034873c4d1be04d5405afa129e0
 ZX Spectrum+ User Guide Companion Cassette (1984)(Sinclair Research)(Side A)[a3],Applications,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,798c5d7eb142870d47bab3f6b2033737e5117cea06b5f341fe696bff5d948700
 ZX Spectrum+ User Guide Companion Cassette (1984)(Sinclair Research)(Side A)[a],Applications,tzx,Spectrum 48K,Good,Exact,Picture matches the reference emulator,d1c0f55c9d1b45720e1faa21f64abffaca4f27ae8e7c0d1169ee331ba83a580b

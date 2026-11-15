@@ -1,6 +1,6 @@
 # What has been tested
 
-OverSpec 0.6.20261116 was run against every file in the 2012 TOSEC Spectrum set: 42,427 tapes, disks and snapshots. 40,623 of them (95.7%) match the reference emulator, and another 919 run on where the reference stops or falls behind. The run was made on 2026-11-14; these pages are generated from its records.
+OverSpec 0.6.20261117 was run against every file in the 2012 TOSEC Spectrum set: 42,427 tapes, disks and snapshots. 40,653 of them (95.8%) match the reference emulator, and another 939 run on where the reference stops or falls behind. The run was made on 2026-11-15; these pages are generated from its records.
 
 ## What the words mean
 
@@ -22,17 +22,17 @@ This does not show that a game can be played to the end, or that it sounds right
 
 | | Tested | Good | Ahead | Runs | Check | Differs | Fails |
 |---|---|---|---|---|---|---|---|
-| All files | 42427 | 40623 | 919 | 2 | 640 | 241 | 2 |
+| All files | 42427 | 40653 | 939 | 2 | 606 | 225 | 2 |
 
 ### By category
 
 | | Tested | Good | Ahead | Runs | Check | Differs | Fails |
 |---|---|---|---|---|---|---|---|
-| Games | 29808 | 28630 | 632 | 0 | 384 | 160 | 2 |
-| Applications | 4155 | 4074 | 55 | 0 | 23 | 3 | 0 |
-| Covertapes | 2635 | 2439 | 86 | 2 | 85 | 23 | 0 |
-| Magazines | 2536 | 2380 | 64 | 0 | 57 | 35 | 0 |
-| Compilations | 1827 | 1727 | 51 | 0 | 39 | 10 | 0 |
+| Games | 29808 | 28653 | 642 | 0 | 362 | 149 | 2 |
+| Applications | 4155 | 4073 | 56 | 0 | 23 | 3 | 0 |
+| Covertapes | 2635 | 2442 | 86 | 2 | 82 | 23 | 0 |
+| Magazines | 2536 | 2383 | 70 | 0 | 50 | 33 | 0 |
+| Compilations | 1827 | 1729 | 54 | 0 | 37 | 7 | 0 |
 | Demos | 1107 | 1024 | 22 | 0 | 51 | 10 | 0 |
 | Educational | 350 | 341 | 9 | 0 | 0 | 0 | 0 |
 | Documentation | 9 | 8 | 0 | 0 | 1 | 0 | 0 |
@@ -41,7 +41,7 @@ This does not show that a game can be played to the end, or that it sounds right
 
 | | Tested | Good | Ahead | Runs | Check | Differs | Fails |
 |---|---|---|---|---|---|---|---|
-| tzx | 18727 | 17597 | 559 | 2 | 409 | 160 | 0 |
+| tzx | 18727 | 17627 | 579 | 2 | 375 | 144 | 0 |
 | z80 | 12358 | 12324 | 2 | 0 | 17 | 13 | 2 |
 | tap | 7160 | 6790 | 250 | 0 | 88 | 32 | 0 |
 | trd | 1518 | 1373 | 32 | 0 | 91 | 22 | 0 |

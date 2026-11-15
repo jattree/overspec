@@ -31,7 +31,7 @@ Page 1 of 2. What the words mean is on the [main page](../COMPATIBILITY.md).
 | 10 Great Games - Bounder + Footballer of the Year (1988)(Gremlin Graphics Software) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | 10 Great Games - Trailblazer + Highway Encounter + Monty on the Run (1988)(Gremlin Graphics Software)[48-128K] | tzx | 128K | Good | Exact | Picture matches the reference emulator |
 | 10 Great Games - West Bank + Jack the Nipper (1988)(Gremlin Graphics Software) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
-| 10 Great Games II - Basil - The Great Mouse Detective + Mask (1988)(Gremlin Graphics Software)[48-128K] | tzx | 128K | Good | Exact | Picture matches the reference emulator |
+| 10 Great Games II - Basil - The Great Mouse Detective + Mask (1988)(Gremlin Graphics Software)[48-128K] | tzx | 128K | Ahead | Exact | Runs on while the reference emulator stays on one picture |
 | 10 Great Games II - Death Wish 3 + The Final Matrix + Convoy Raider + Samurai Trilogy (1988)(Gremlin Graphics Software)[48-128K] | tzx | 128K | Good | Exact | Picture matches the reference emulator |
 | 10 Great Games II - Jack the Nipper II - In Coconut Capers (1988)(Gremlin Graphics Software) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | 10 Great Games II - The Duct + Thing Bounces Back + Auf Wiedersehen Monty (1988)(Gremlin Graphics Software)[48-128K] | tzx | 128K | Good | Exact | Picture matches the reference emulator |
@@ -131,7 +131,7 @@ Page 1 of 2. What the words mean is on the [main page](../COMPATIBILITY.md).
 | 4-Most Fight & Fright - Who Dares Wins II + Aliens US (1991)(Alternative Software) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | 4-Most Fun - Everyone's a Wally + Rik the Roadie (1991)(Alternative Software) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | 4-Most Fun - Slug + Bargain Basement (1991)(Alternative Software) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
-| 4-Most Horror (1991)(Alternative Software) | tzx | 48K | Check | Exact | Picture agrees 68% with the reference emulator |
+| 4-Most Horror (1991)(Alternative Software) | tzx | 48K | Ahead | Exact | Runs on while the reference emulator stays on one picture |
 | 4-Most Horror - Mr. Weems and the She Vampires + N.E.I.L. Android (1991)(Alternative Software) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | 4-Most Horror - The Rocky Horror Show + Nosferatu the Vampyre (1991)(Alternative Software) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | 4-Most Megaheros - Dandy + Freddy Hardest (1991)(Alternative Software) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
@@ -234,7 +234,7 @@ Page 1 of 2. What the words mean is on the [main page](../COMPATIBILITY.md).
 | Arcade Classics (1988)(MCM Software)[re-release] | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Arcade Classics (1988)(Silverbird Software) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Arcade Force Four - Gauntlet (1988)(U.S. Gold)[48-128K] | tzx | 128K | Good | Exact | Picture matches the reference emulator |
-| Arcade Force Four - Indiana Jones and the Temple of Doom (1988)(U.S. Gold) | tzx | 48K | Good | Exact | Shows the same pictures as the reference emulator, at a different moment |
+| Arcade Force Four - Indiana Jones and the Temple of Doom (1988)(U.S. Gold) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Arcade Force Four - Metro-Cross (1988)(U.S. Gold) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Arcade Force Four - Road Runner (1988)(U.S. Gold) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Arcade Hall of Fame - Blue Max (1985)(U.S. Gold) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
@@ -456,7 +456,7 @@ Page 1 of 2. What the words mean is on the [main page](../COMPATIBILITY.md).
 | Command Performance - Xeno + Trantor - The Last Stormtrooper + The Armageddon Man (1989)(U.S. Gold)[48-128K] | tzx | 128K | Good | Exact | Picture matches the reference emulator |
 | Compendium - Shove a Sledge (1987)(Gremlin Graphics Software) | z80 | 48K | Good | Exact | Picture matches the reference emulator |
 | Compendium - Shove a Sledge (1987)(Gremlin Graphics Software)[a] | z80 | 48K | Good | Exact | Picture matches the reference emulator |
-| Compendium - Shove a Sledge + Tiddly Drinks (1987)(Gremlin Graphics Software) | tzx | 48K | Good | Exact | Shows the same pictures as the reference emulator, at a different moment |
+| Compendium - Shove a Sledge + Tiddly Drinks (1987)(Gremlin Graphics Software) | tzx | 48K | Good | Exact | Matches the reference emulator over a three minute run |
 | Compendium - Snakes and Hazards (1987)(Gremlin Graphics Software) | tap | 48K | Good | Exact | Shows the same pictures as the reference emulator, at a different moment |
 | Compendium - Snakes and Hazards (1987)(Gremlin Graphics Software) | z80 | 48K | Good | Exact | Picture matches the reference emulator |
 | Compendium - Snakes and Hazards (1987)(Gremlin Graphics Software)[a] | z80 | 48K | Good | Exact | Picture matches the reference emulator |
@@ -923,7 +923,7 @@ Page 1 of 2. What the words mean is on the [main page](../COMPATIBILITY.md).
 | Giants - 720 Degrees + Rolling Thunder (1989)(U.S. Gold) | dsk | +3 | Good | Exact | Picture matches the reference emulator |
 | Giants - 720 Degrees + Rolling Thunder (1989)(U.S. Gold) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Go Crazy - The Fast and the Furious + Mission Elevator (1988)(U.S. Gold) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
-| Gold Collection, The - Tapper + Buck Rogers - Planet of Zoom (1986)(U.S. Gold) | tzx | 48K | Differs | Exact | Picture agrees only 27% with the reference emulator |
+| Gold Collection, The - Tapper + Buck Rogers - Planet of Zoom (1986)(U.S. Gold) | tzx | 48K | Good | Exact | Shows the same pictures as the reference emulator, at a different moment |
 | Gold Collection, The - Zaxxon + Blue Max (1986)(U.S. Gold) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Gold, Silver, Bronze - Summer Games (1988)(U.S. Gold)(Side A) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Gold, Silver, Bronze - Summer Games (1988)(U.S. Gold)(Side B) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
@@ -1031,7 +1031,7 @@ Page 1 of 2. What the words mean is on the [main page](../COMPATIBILITY.md).
 | Jumpy Snake Blues + Honky-Tonk (1985)(Software Cottage)(Side B) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Just One of Those Days + A Stroll in the Bleak Forest - The Return of Bart Bear (19xx)(Zenobi Software) | dsk | +3 | Good | Exact | Picture matches the reference emulator |
 | Karate Ace - Avenger + Bruce Lee + The Way of the Tiger (1988)(Gremlin Graphics Software)[48-128K] | tzx | 128K | Good | Exact | Picture matches the reference emulator |
-| Karate Ace - Kung-Fu Master (1988)(Gremlin Graphics Software) | tzx | 48K | Differs | Exact | Picture agrees only 13% with the reference emulator |
+| Karate Ace - Kung-Fu Master (1988)(Gremlin Graphics Software) | tzx | 48K | Ahead | Exact | Gets further than the reference emulator in the same time |
 | Karate Ace - Uchi Mata + The Way of the Exploding Fist + Samurai Trilogy (1988)(Gremlin Graphics Software)(Side A)[48-128K] | tzx | 128K | Good | Exact | Picture matches the reference emulator |
 | Karate Ace - Uchi Mata + The Way of the Exploding Fist + Samurai Trilogy (1988)(Gremlin Graphics Software)(Side B)[48-128K] | tzx | 128K | Good | Exact | Picture matches the reference emulator |
 | Kids Pack 1 - Count Duckula (1992)(Alternative Software) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
@@ -1379,7 +1379,7 @@ Page 1 of 2. What the words mean is on the [main page](../COMPATIBILITY.md).
 | Screen Heroes - Rambo + Frankie Goes to Hollywood (1987)(Ocean) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Screen Heroes - Street Hawk + Daley Thompson's Supertest (1987)(Ocean) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Sega Collection, The - Spy Hunter + Zaxxon (19xx)(U.S. Gold) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
-| Sega Collection, The - Tapper + Buck Rogers - Planet of Zoom (19xx)(U.S. Gold) | tzx | 48K | Differs | Exact | Picture agrees only 27% with the reference emulator |
+| Sega Collection, The - Tapper + Buck Rogers - Planet of Zoom (19xx)(U.S. Gold) | tzx | 48K | Good | Exact | Shows the same pictures as the reference emulator, at a different moment |
 | Sega Master-Mix - Crack Down (1991)(U.S. Gold)[48-128K] | tzx | 128K | Good | Exact | Picture matches the reference emulator |
 | Sega Master-Mix - Dynamite Dux (1991)(U.S. Gold)[48-128K] | tzx | 128K | Differs | Exact | Picture agrees only 7% with the reference emulator |
 | Sega Master-Mix - Super Wonder Boy (1991)(U.S. Gold)(Side A) | tzx | 48K | Good | Exact | Picture matches the reference emulator |

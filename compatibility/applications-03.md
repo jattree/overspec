@@ -100,7 +100,7 @@ Page 3 of 3. What the words mean is on the [main page](../COMPATIBILITY.md).
 | Shape Sort (1983)(Widgit Software) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Shape Sort (1983)(Widgit Software) | z80 | 48K | Good | Exact | Picture matches the reference emulator |
 | Shape Sort (1983)(Widgit Software)[a] | tap | 48K | Good | Exact | Picture matches the reference emulator |
-| Shoe People, The (1992)(GBH)[128K][re-release] | tzx | 128K | Good | Exact | Matches the reference emulator over a three minute run |
+| Shoe People, The (1992)(GBH)[128K][re-release] | tzx | 128K | Good | Exact | Shows the same pictures as the reference emulator, at a different moment |
 | Shoe People, The (1992)(Gremlin Graphics Software)[128K] | tzx | 128K | Good | Exact | Matches the reference emulator over a three minute run |
 | Shoe People, The (1992)(Gremlin Graphics Software)[128K] | z80 | 128K | Good | Exact | Picture matches the reference emulator |
 | Short Memory Test (19xx)(-) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
@@ -997,7 +997,7 @@ Page 3 of 3. What the words mean is on the [main page](../COMPATIBILITY.md).
 | Wykresy 3 Wymiarowe (1987)(Robert W. Heron)(pl)[a] | z80 | 48K | Good | Exact | Picture matches the reference emulator |
 | X Basic (1984)(Artic Computing) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | X Basic (1984)(Artic Computing) | z80 | 48K | Good | Exact | Picture matches the reference emulator |
-| X-Loader v2.30 (1988)(M.P. Sun) | tzx | 48K | Check | Exact | Picture agrees 90% with the reference emulator |
+| X-Loader v2.30 (1988)(M.P. Sun) | tzx | 48K | Ahead | Exact | Runs on while the reference emulator stays on one picture |
 | X-Loader v2.30 (1988)(M.P. Sun) | z80 | 48K | Good | Exact | Picture matches the reference emulator |
 | X-Loader v2.30 (1988)(M.P. Sun)[128K] | z80 | 128K | Good | Exact | Picture matches the reference emulator |
 | X-Loader XModem - User Guide (1988)(M.P. Sun)[128K] | z80 | 128K | Good | Exact | Picture matches the reference emulator |
@@ -1114,7 +1114,7 @@ Page 3 of 3. What the words mean is on the [main page](../COMPATIBILITY.md).
 | ZX Spectrum+ User Guide Companion Cassette (1984)(Sinclair Research)(fr) | z80 | 48K | Good | Exact | Picture matches the reference emulator |
 | ZX Spectrum+ User Guide Companion Cassette (1984)(Sinclair Research)(Part 1 of 2) | z80 | 48K | Good | Exact | Picture matches the reference emulator |
 | ZX Spectrum+ User Guide Companion Cassette (1984)(Sinclair Research)(Part 2 of 2) | z80 | 48K | Good | Exact | Picture matches the reference emulator |
-| ZX Spectrum+ User Guide Companion Cassette (1984)(Sinclair Research)(Side A) | tzx | 48K | Check | Exact | Picture agrees 70% with the reference emulator |
+| ZX Spectrum+ User Guide Companion Cassette (1984)(Sinclair Research)(Side A) | tzx | 48K | Check | Exact | The reference emulator gets further in the same time |
 | ZX Spectrum+ User Guide Companion Cassette (1984)(Sinclair Research)(Side A)[a2] | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | ZX Spectrum+ User Guide Companion Cassette (1984)(Sinclair Research)(Side A)[a3] | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | ZX Spectrum+ User Guide Companion Cassette (1984)(Sinclair Research)(Side A)[a] | tzx | 48K | Good | Exact | Picture matches the reference emulator |

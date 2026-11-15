@@ -142,14 +142,14 @@ Page 10 of 20. What the words mean is on the [main page](../COMPATIBILITY.md).
 | Indiana Jones and the Last Crusade (1989)(U.S. Gold)[a][48-128K] | tzx | 128K | Good | Exact | Picture matches the reference emulator |
 | Indiana Jones and the Last Crusade (1989)(U.S. Gold)[t +4][48-128K] | tap | 128K | Good | Exact | Picture matches the reference emulator |
 | Indiana Jones and the Last Crusade (1989)(U.S. Gold)[t +4][48-128K] | tzx | 128K | Good | Exact | Picture matches the reference emulator |
-| Indiana Jones and the Temple of Doom (1987)(Erbe Software)(Side A)[a][re-release] | tzx | 48K | Good | Exact | Shows the same pictures as the reference emulator, at a different moment |
+| Indiana Jones and the Temple of Doom (1987)(Erbe Software)(Side A)[a][re-release] | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Indiana Jones and the Temple of Doom (1987)(Erbe Software)(Side A)[re-release] | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Indiana Jones and the Temple of Doom (1987)(Erbe Software)(Side B)[a][re-release] | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Indiana Jones and the Temple of Doom (1987)(Erbe Software)(Side B)[re-release] | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Indiana Jones and the Temple of Doom (1987)(U.S. Gold) | tap | 48K | Good | Exact | Picture matches the reference emulator |
 | Indiana Jones and the Temple of Doom (1987)(U.S. Gold) | tzx | 48K | Good | Exact | Shows the same pictures as the reference emulator, at a different moment |
 | Indiana Jones and the Temple of Doom (1987)(U.S. Gold)[128K] | z80 | 128K | Good | Exact | Picture matches the reference emulator |
-| Indiana Jones and the Temple of Doom (1987)(U.S. Gold)[a2] | tzx | 48K | Good | Exact | Picture matches the reference emulator |
+| Indiana Jones and the Temple of Doom (1987)(U.S. Gold)[a2] | tzx | 48K | Good | Exact | Shows the same pictures as the reference emulator, at a different moment |
 | Indiana Jones and the Temple of Doom (1987)(U.S. Gold)[a] | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Indiana Jones and the Temple of Doom (1987)(U.S. Gold)[h Queen Software] | scl | Pentagon 128K | Good | Exact | Picture matches the reference emulator |
 | Indiana Jones and the Temple of Doom (1987)(U.S. Gold)[m] | tzx | 48K | Good | Exact | Picture matches the reference emulator |
@@ -535,7 +535,7 @@ Page 10 of 20. What the words mean is on the [main page](../COMPATIBILITY.md).
 | Italy 1990 (1992)(Kixx)(Side A)[128K][re-release] | tzx | 128K | Good | Exact | Picture matches the reference emulator |
 | Italy 1990 (1992)(Kixx)(Side B)[128K][re-release] | tzx | 128K | Good | Exact | Picture matches the reference emulator |
 | Italy 1990 - Winners Edition (1990)(U.S. Gold)[128K] | tzx | 128K | Good | Exact | Picture matches the reference emulator |
-| Italy 1990 - Winners Edition (1990)(U.S. Gold)[a2][128K] | tzx | 128K | Check | Exact | Picture agrees 76% with the reference emulator |
+| Italy 1990 - Winners Edition (1990)(U.S. Gold)[a2][128K] | tzx | 128K | Good | Exact | Shows the same pictures as the reference emulator, at a different moment |
 | Italy 1990 - Winners Edition (1990)(U.S. Gold)[a][128K] | tzx | 128K | Good | Exact | Picture matches the reference emulator |
 | Itasundorious (1983)(Hudson Soft) | tap | 48K | Good | Exact | Picture matches the reference emulator |
 | Itasundorious (1983)(Hudson Soft) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
@@ -771,7 +771,7 @@ Page 10 of 20. What the words mean is on the [main page](../COMPATIBILITY.md).
 | Jet Set Willy (1984)(Software Projects)[a] | tap | 48K | Ahead | Exact | Runs on while the reference emulator stays on one picture |
 | Jet Set Willy (1984)(Software Projects)[a] | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Jet Set Willy (1984)(Software Projects)[a] | z80 | 48K | Good | Exact | Picture matches the reference emulator |
-| Jet Set Willy (1984)(Software Projects)[cr] | tzx | 48K | Good | Exact | Shows the same pictures as the reference emulator, at a different moment |
+| Jet Set Willy (1984)(Software Projects)[cr] | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Jet Set Willy (1984)(Software Projects)[cr] | z80 | 48K | Good | Exact | Picture matches the reference emulator |
 | Jet Set Willy (1984)(Software Projects)[cr][a2] | z80 | 48K | Good | Exact | Picture matches the reference emulator |
 | Jet Set Willy (1984)(Software Projects)[cr][a] | tzx | 48K | Good | Exact | Picture matches the reference emulator |
@@ -1030,7 +1030,7 @@ Page 10 of 20. What the words mean is on the [main page](../COMPATIBILITY.md).
 | Joe Blade III (1989)(Players Premier Software)[128K] | tap | 128K | Good | Exact | Picture matches the reference emulator |
 | Joe Blade III (1989)(Players Premier Software)[128K] | tzx | 128K | Good | Exact | Picture matches the reference emulator |
 | Joe Blade III (1989)(Players Premier Software)[a] | tzx | 48K | Good | Exact | Picture matches the reference emulator |
-| Joe Blade III (1989)(Players Premier Software)[a][128K] | tzx | 128K | Check | Exact | Picture agrees 87% with the reference emulator |
+| Joe Blade III (1989)(Players Premier Software)[a][128K] | tzx | 128K | Ahead | Exact | Runs on while the reference emulator stays on one picture |
 | Joe Blade III (1989)(Players Premier Software)[t] | z80 | 48K | Good | Exact | Picture matches the reference emulator |
 | Joe's Drink Limonaden Stand (19xx)(-)(de)[16K] | tap | 48K | Good | Exact | Picture matches the reference emulator |
 | Joe's Drink Limonaden Stand (19xx)(-)(de)[16K] | tzx | 48K | Good | Exact | Picture matches the reference emulator |
@@ -1494,7 +1494,7 @@ Page 10 of 20. What the words mean is on the [main page](../COMPATIBILITY.md).
 | Kingdom (19xx)(-) | tap | 48K | Good | Exact | Picture matches the reference emulator |
 | Kingdom (19xx)(-) | z80 | 48K | Good | Exact | Picture matches the reference emulator |
 | Kingdom of Grain (1992)(THD)(ru) | trd | Pentagon 128K | Good | Exact | Picture matches the reference emulator |
-| Kingdom of Krell, The (1987)(Anco Software)[128K] | tzx | 128K | Differs | Exact | Picture agrees only 0% with the reference emulator |
+| Kingdom of Krell, The (1987)(Anco Software)[128K] | tzx | 128K | Good | Exact | Matches the reference emulator over a three minute run |
 | Kingdom of Krell, The (1987)(Anco Software)[128K] | z80 | 128K | Good | Exact | Picture matches the reference emulator |
 | Kirel (1986)(Addictive Games) | sp | 48K | Good | Exact | Picture matches the reference emulator |
 | Kirel (1986)(Addictive Games) | tap | 48K | Good | Exact | Picture matches the reference emulator |

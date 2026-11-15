@@ -126,7 +126,7 @@ Page 19 of 20. What the words mean is on the [main page](../COMPATIBILITY.md).
 | Tower of Light, The (1989)(Caris Software)(Part 2 of 2)[128K] | z80 | 128K | Good | Exact | Picture matches the reference emulator |
 | Tower Pod (1999)(Studio Stall)(ru) | trd | Pentagon 128K | Good | Exact | Matches the reference emulator over a three minute run |
 | Toy Bizarre (1985)(Activision) | tap | 48K | Good | Exact | Picture matches the reference emulator |
-| Toy Bizarre (1985)(Activision) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
+| Toy Bizarre (1985)(Activision) | tzx | 48K | Good | Exact | Matches the reference emulator over a three minute run |
 | Toy Bizarre (1985)(Activision) | z80 | 48K | Good | Exact | Picture matches the reference emulator |
 | Toy Bizarre (1985)(Activision)[a] | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Toy Bizarre (1985)(Activision)[a] | z80 | 48K | Good | Exact | Picture matches the reference emulator |
@@ -597,7 +597,7 @@ Page 19 of 20. What the words mean is on the [main page](../COMPATIBILITY.md).
 | Turbulence (1993)(Beyond Belief) | z80 | 48K | Good | Exact | Matches the reference emulator over a three minute run |
 | Turbulence (1993)(Beyond Belief)[128K] | z80 | 128K | Good | Exact | Picture matches the reference emulator |
 | Turbulence (1993)(Beyond Belief)[48-128K] | tap | 128K | Good | Exact | Picture matches the reference emulator |
-| Turbulence (1993)(Beyond Belief)[48-128K] | tzx | 128K | Check | Exact | Picture agrees 87% with the reference emulator |
+| Turbulence (1993)(Beyond Belief)[48-128K] | tzx | 128K | Good | Exact | Shows the same pictures as the reference emulator, at a different moment |
 | Turbulence (1993)(Beyond Belief)[a][48-128K] | tzx | 128K | Good | Exact | Picture matches the reference emulator |
 | Turf-Form (1988)(Blue Ribbon Software) | tap | 48K | Good | Exact | Picture matches the reference emulator |
 | Turf-Form (1988)(Blue Ribbon Software) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
@@ -832,11 +832,11 @@ Page 19 of 20. What the words mean is on the [main page](../COMPATIBILITY.md).
 | Unitrax (1988)(Erbe Software)[re-release] | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Universa (1991)(Tawkeht)(ru)[128K] | tap | 128K | Good | Exact | Picture matches the reference emulator |
 | Universal (1991)(-)(ru) | trd | Pentagon 128K | Good | Exact | Picture matches the reference emulator |
-| Universal Hero (1986)(Mastertronic) | tap | 48K | Good | Exact | Shows the same pictures as the reference emulator, at a different moment |
+| Universal Hero (1986)(Mastertronic) | tap | 48K | Good | Exact | Matches the reference emulator over a three minute run |
 | Universal Hero (1986)(Mastertronic) | tzx | 48K | Good | Exact | Shows the same pictures as the reference emulator, at a different moment |
 | Universal Hero (1986)(Mastertronic) | z80 | 48K | Good | Exact | Picture matches the reference emulator |
-| Universal Hero (1986)(Mastertronic)[a] | tap | 48K | Good | Exact | Picture matches the reference emulator |
-| Universal Hero (1986)(Mastertronic)[a] | tzx | 48K | Good | Exact | Picture matches the reference emulator |
+| Universal Hero (1986)(Mastertronic)[a] | tap | 48K | Good | Exact | Matches the reference emulator over a three minute run |
+| Universal Hero (1986)(Mastertronic)[a] | tzx | 48K | Good | Exact | Matches the reference emulator over a three minute run |
 | Universe (2002)(Naffsoft) | z80 | 48K | Good | Exact | Picture matches the reference emulator |
 | Uno (19xx)(Babboni, Luis)(AR) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Untouchables, The (1989)(Ocean) | dsk | +3 | Good | Exact | Picture matches the reference emulator |
@@ -946,7 +946,7 @@ Page 19 of 20. What the words mean is on the [main page](../COMPATIBILITY.md).
 | Value Pack 48k - Alchemist (1984)(Beau-Jolly) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Value Pack 48k - BC Bill (1984)(Beau-Jolly) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Value Pack 48k - Cosmic Cruiser (1984)(Beau-Jolly) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
-| Value Pack 48k - Pedro (1984)(Beau-Jolly) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
+| Value Pack 48k - Pedro (1984)(Beau-Jolly) | tzx | 48K | Good | Exact | Shows the same pictures as the reference emulator, at a different moment |
 | Value Pack 48k - Zip Zap (1984)(Beau-Jolly) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Value Pack 48k - Zzoom (1984)(Beau-Jolly) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Vampire (1986)(Codemasters)[a2][re-release of Phantomas 2] | z80 | 48K | Good | Exact | Picture matches the reference emulator |
@@ -1100,7 +1100,7 @@ Page 19 of 20. What the words mean is on the [main page](../COMPATIBILITY.md).
 | Video Card Arcade (1988)(CDS Microsystems)[a2] | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Video Card Arcade (1988)(CDS Microsystems)[a] | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Video Card Arcade (1988)(CDS Microsystems)[a] | z80 | 48K | Good | Exact | Picture matches the reference emulator |
-| Video Olimpic (1984)(Dinamic Software)(ES) | tzx | 48K | Ahead | Exact | Gets further than the reference emulator in the same time |
+| Video Olimpic (1984)(Dinamic Software)(ES) | tzx | 48K | Differs | Exact | Picture agrees only 9% with the reference emulator |
 | Video Olimpic (1984)(Dinamic Software)(es) | z80 | 48K | Good | Exact | Picture matches the reference emulator |
 | Video Olimpic (1984)(Dinamic Software)(ES)[a] | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Video Olimpic (1984)(Dinamic Software)(es)[a] | z80 | 48K | Good | Exact | Picture matches the reference emulator |
@@ -1120,7 +1120,7 @@ Page 19 of 20. What the words mean is on the [main page](../COMPATIBILITY.md).
 | Video Pool (1985)(Oxford Computer Publishing) | tap | 48K | Good | Exact | Picture matches the reference emulator |
 | Video Pool (1985)(Oxford Computer Publishing) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Video Pool (1985)(Oxford Computer Publishing) | z80 | 48K | Good | Exact | Picture matches the reference emulator |
-| Video Pool (1985)(Oxford Computer Publishing)[a] | tzx | 48K | Good | Exact | Picture matches the reference emulator |
+| Video Pool (1985)(Oxford Computer Publishing)[a] | tzx | 48K | Differs | Exact | Picture agrees only 5% with the reference emulator |
 | Video Pool (1985)(Oxford Computer Publishing)[a] | z80 | 48K | Good | Exact | Picture matches the reference emulator |
 | Video Pool (1985)(Oxford Computer Publishing)[cr] | tap | 48K | Good | Exact | Picture matches the reference emulator |
 | Video Pool (1985)(Paxman Promotions)[re-release] | tzx | 48K | Good | Exact | Picture matches the reference emulator |
@@ -1447,8 +1447,8 @@ Page 19 of 20. What the words mean is on the [main page](../COMPATIBILITY.md).
 | Way of the Exploding Fist, The (1985)(Melbourne House) | z80 | 48K | Good | Exact | Picture matches the reference emulator |
 | Way of the Exploding Fist, The (1985)(Melbourne House)[a] | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Way of the Exploding Fist, The (1985)(Melbourne House)[t] | sp | 48K | Good | Exact | Picture matches the reference emulator |
-| Way of the Exploding Fist, The (1988)(Dro Soft)[re-release] | tzx | 48K | Differs | Exact | Picture agrees only 34% with the reference emulator |
-| Way of the Exploding Fist, The (1988)(Ricochet)[re-release] | tzx | 48K | Good | Exact | Matches the reference emulator over a three minute run |
+| Way of the Exploding Fist, The (1988)(Dro Soft)[re-release] | tzx | 48K | Good | Exact | Picture matches the reference emulator |
+| Way of the Exploding Fist, The (1988)(Ricochet)[re-release] | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Way of the Exploding Tits, The (1988)(Shattered Dreams) | z80 | 48K | Good | Exact | Picture matches the reference emulator |
 | Way of the Exploding Tits, The (1988)(Shattered Dreams)[a] | z80 | 48K | Good | Exact | Picture matches the reference emulator |
 | Way of the Tiger, The (1986)(Boots)(Side A)[re-release] | tzx | 48K | Good | Exact | Picture matches the reference emulator |

@@ -494,7 +494,7 @@ Page 12 of 20. What the words mean is on the [main page](../COMPATIBILITY.md).
 | Mega Color Lines (1995)(Mortal Kombat)(ru)[128K] | tap | 128K | Good | Exact | Picture matches the reference emulator |
 | Mega Color Lines (1995)(Mortal Kombat)(ru)[128K] | tzx | 128K | Good | Exact | Picture matches the reference emulator |
 | Mega Fruit (1984)(Thor Computer Software) | tap | 48K | Differs | Exact | Picture agrees only 50% with the reference emulator |
-| Mega Fruit (1984)(Thor Computer Software) | tzx | 48K | Differs | Exact | Picture agrees only 47% with the reference emulator |
+| Mega Fruit (1984)(Thor Computer Software) | tzx | 48K | Differs | Exact | Picture agrees only 46% with the reference emulator |
 | Mega Fruit (1984)(Thor Computer Software) | z80 | 48K | Good | Exact | Picture matches the reference emulator |
 | Mega Mix - Barbarian II - The Dungeon of Drax (1990)(Ocean) | tzx | 48K | Differs | Exact | Picture agrees only 5% with the reference emulator |
 | Mega Mix - Barbarian II - The Dungeon of Drax (1990)(Ocean)[128K] | tzx | 128K | Good | Exact | Picture matches the reference emulator |
@@ -716,7 +716,7 @@ Page 12 of 20. What the words mean is on the [main page](../COMPATIBILITY.md).
 | Michel Futbol Master (1989)(Dinamic Software)(es) | z80 | 48K | Good | Exact | Picture matches the reference emulator |
 | Michel Futbol Master (1989)(Dinamic Software)(es)(Side A) | tzx | 48K | Good | Exact | Matches the reference emulator over a three minute run |
 | Michel Futbol Master (1989)(Dinamic Software)(es)(Side A)[a] | tzx | 48K | Good | Exact | Matches the reference emulator over a three minute run |
-| Michel Futbol Master (1989)(Dinamic Software)(es)(Side A)[large case] | tzx | 48K | Good | Exact | Picture matches the reference emulator |
+| Michel Futbol Master (1989)(Dinamic Software)(es)(Side A)[large case] | tzx | 48K | Good | Exact | Matches the reference emulator over a three minute run |
 | Michel Futbol Master (1989)(Dinamic Software)(es)(Side B) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Michel Futbol Master (1989)(Dinamic Software)(es)(Side B)[a] | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Michel Futbol Master (1989)(Dinamic Software)(es)(Side B)[large case] | tzx | 48K | Good | Exact | Picture matches the reference emulator |
@@ -1211,8 +1211,8 @@ Page 12 of 20. What the words mean is on the [main page](../COMPATIBILITY.md).
 | Moontorc (1991)(Atlantis Software) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Moonwalker (1989)(Erbe Software)[48-128K][re-release] | tzx | 128K | Good | Exact | Shows the same pictures as the reference emulator, at a different moment |
 | Moonwalker (1989)(U.S. Gold)[48-128K] | tap | 128K | Ahead | Exact | Gets further than the reference emulator in the same time |
-| Moonwalker (1989)(U.S. Gold)[48-128K] | tzx | 128K | Check | Exact | Picture agrees 87% with the reference emulator |
-| Moonwalker (1989)(U.S. Gold)[a2][48-128K] | tzx | 128K | Check | Exact | Picture agrees 86% with the reference emulator |
+| Moonwalker (1989)(U.S. Gold)[48-128K] | tzx | 128K | Check | Exact | The reference emulator gets further in the same time |
+| Moonwalker (1989)(U.S. Gold)[a2][48-128K] | tzx | 128K | Good | Exact | Matches the reference emulator over a three minute run |
 | Moonwalker (1989)(U.S. Gold)[a3][48-128K] | tzx | 128K | Check | Exact | Picture agrees 71% with the reference emulator |
 | Moonwalker (1989)(U.S. Gold)[a][48-128K] | tzx | 128K | Check | Exact | Picture agrees 72% with the reference emulator |
 | Moonwalker (1989)(U.S. Gold)[h][48-128K] | tzx | 128K | Check | Exact | The reference emulator gets further in the same time |

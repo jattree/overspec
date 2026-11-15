@@ -339,13 +339,13 @@ Page 2 of 2. What the words mean is on the [main page](../COMPATIBILITY.md).
 | Special Playgames - Issue 03 (1984)(Societa Edizioni Internazionali)(it) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Special Playgames - Issue 04 (1984)(Societa Edizioni Internazionali)(it) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Special Playgames - Issue 05 (1985)(Societa Edizioni Internazionali)(it) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
-| Special Playgames - Issue 06 (1985)(Societa Edizioni Internazionali)(it) | tzx | 48K | Good | Exact | Matches the reference emulator over a three minute run |
-| Special Playgames - Issue 07 (1985)(Societa Edizioni Internazionali)(it) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
+| Special Playgames - Issue 06 (1985)(Societa Edizioni Internazionali)(it) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
+| Special Playgames - Issue 07 (1985)(Societa Edizioni Internazionali)(it) | tzx | 48K | Good | Exact | Matches the reference emulator over a three minute run |
 | Special Playgames - Issue 08 (1985)(Societa Edizioni Internazionali)(it) | tzx | 48K | Good | Exact | Shows the same pictures as the reference emulator, at a different moment |
-| Special Playgames - Issue 09 (1985)(Societa Edizioni Internazionali)(it) | tzx | 48K | Good | Exact | Shows the same pictures as the reference emulator, at a different moment |
+| Special Playgames - Issue 09 (1985)(Societa Edizioni Internazionali)(it) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Special Playgames - Issue 10 (1985)(Societa Edizioni Internazionali)(it) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
-| Special Playgames - Issue 11 (1985)(Societa Edizioni Internazionali)(it) | tzx | 48K | Check | Exact | Picture agrees 87% with the reference emulator |
-| Special Playgames - Issue 12 (1985)(Societa Edizioni Internazionali)(it) | tzx | 48K | Good | Exact | Shows the same pictures as the reference emulator, at a different moment |
+| Special Playgames - Issue 11 (1985)(Societa Edizioni Internazionali)(it) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
+| Special Playgames - Issue 12 (1985)(Societa Edizioni Internazionali)(it) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Special Playgames - Issue 13 (198x)(Societa Edizioni Internazionali)(it) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Special Playgames - Issue 14 (198x)(Societa Edizioni Internazionali)(it) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Special Playgames - Issue 15 (1986)(Societa Edizioni Internazionali)(it) | tzx | 48K | Ahead | Exact | Runs on while the reference emulator stays on one picture |
@@ -393,8 +393,8 @@ Page 2 of 2. What the words mean is on the [main page](../COMPATIBILITY.md).
 | Special Program - Issue 26 (1986)(Sipe)(it) | tzx | 48K | Differs | Exact | Picture agrees only 25% with the reference emulator |
 | Special Program - Issue 27 (1986)(Sipe)(it) | tzx | 48K | Differs | Exact | Picture agrees only 24% with the reference emulator |
 | Special Program - Issue 28 (1986)(Sipe)(it) | tzx | 48K | Differs | Exact | Picture agrees only 25% with the reference emulator |
-| Special Program - Issue 29 (1986)(Sipe)(it) | tzx | 48K | Differs | Exact | Picture agrees only 26% with the reference emulator |
-| Special Program - Issue 30 (1987)(Sipe)(it) | tzx | 48K | Differs | Exact | Picture agrees only 24% with the reference emulator |
+| Special Program - Issue 29 (1986)(Sipe)(it) | tzx | 48K | Differs | Exact | Picture agrees only 25% with the reference emulator |
+| Special Program - Issue 30 (1987)(Sipe)(it) | tzx | 48K | Differs | Exact | Picture agrees only 25% with the reference emulator |
 | Special Program - Issue 31 (1987)(Sipe)(it) | tzx | 48K | Ahead | Exact | Runs on while the reference emulator stays on one picture |
 | Special Program - Issue 32 (1987)(Sipe)(it) | tzx | 48K | Ahead | Exact | Runs on while the reference emulator stays on one picture |
 | Special Program - Issue 33 (1987)(Sipe)(it) | tzx | 48K | Ahead | Exact | Runs on while the reference emulator stays on one picture |
@@ -406,13 +406,13 @@ Page 2 of 2. What the words mean is on the [main page](../COMPATIBILITY.md).
 | Special Program - Issue 39 (1987)(Sipe)(it) | tzx | 48K | Check | Exact | Picture agrees 72% with the reference emulator |
 | Special Program - Issue 40 (1987)(Sipe)(it) | tzx | 48K | Check | Exact | Picture agrees 71% with the reference emulator |
 | Special Program - Issue 41 (198x)(Sipe)(it) | tzx | 48K | Check | Exact | Picture agrees 70% with the reference emulator |
-| Special Program - Issue 42 (1988)(Sipe)(it) | tzx | 48K | Check | Exact | Picture agrees 71% with the reference emulator |
+| Special Program - Issue 42 (1988)(Sipe)(it) | tzx | 48K | Ahead | Exact | Runs on while the reference emulator stays on one picture |
 | Special Program - Issue 43 (1988)(Sipe)(it) | tzx | 48K | Check | Exact | Picture agrees 72% with the reference emulator |
 | Special Program - Issue 44 (1988)(Sipe)(it) | tzx | 48K | Check | Exact | Picture agrees 74% with the reference emulator |
 | Special Program - Issue 45 (1988)(Sipe)(it) | tzx | 48K | Check | Exact | Picture agrees 72% with the reference emulator |
 | Special Program - Issue 45 (1988)(Sipe)(it)[a] | tzx | 48K | Check | Exact | Picture agrees 72% with the reference emulator |
-| Special Program - Issue 46 (1988)(Sipe)(it) | tzx | 48K | Check | Exact | Picture agrees 72% with the reference emulator |
-| Special Program - Issue 47 (1988)(Sipe)(it) | tzx | 48K | Check | Exact | Picture agrees 71% with the reference emulator |
+| Special Program - Issue 46 (1988)(Sipe)(it) | tzx | 48K | Ahead | Exact | Runs on while the reference emulator stays on one picture |
+| Special Program - Issue 47 (1988)(Sipe)(it) | tzx | 48K | Ahead | Exact | Runs on while the reference emulator stays on one picture |
 | Special Program - Issue 48 (1988)(Sipe)(it) | tzx | 48K | Ahead | Exact | Gets further than the reference emulator in the same time |
 | Special Program - Issue 49 (1988)(Sipe)(it) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Special Program - Issue 50 (1989)(Sipe)(it) | tzx | 48K | Good | Exact | Picture matches the reference emulator |

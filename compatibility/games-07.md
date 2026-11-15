@@ -238,7 +238,7 @@ Page 7 of 20. What the words mean is on the [main page](../COMPATIBILITY.md).
 | Empires - Player 3 (1984)(Imperial Software)(Side A) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Empires - Player 3 (1984)(Imperial Software)(Side B) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Empires - Umpire (1984)(Imperial Software)(Side A) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
-| Empires - Umpire (1984)(Imperial Software)(Side B) | tzx | 48K | Check | Exact | Picture agrees 75% with the reference emulator |
+| Empires - Umpire (1984)(Imperial Software)(Side B) | tzx | 48K | Check | Exact | The reference emulator gets further in the same time |
 | Emulator Speed Test (19xx)(-) | z80 | 48K | Good | Exact | Picture matches the reference emulator |
 | En Busca De La Joya Encantada (2006)(RML Soft)(ES)[Bytemaniacos 2006 BASIC Contest] | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Enchanted (1989)(Positive)(es) | tap | 48K | Good | Exact | Picture matches the reference emulator |
@@ -362,8 +362,8 @@ Page 7 of 20. What the words mean is on the [main page](../COMPATIBILITY.md).
 | Epyx Action - California Games (1990)(U.S. Gold)(Side B) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Epyx Action - Impossible Mission II (1990)(U.S. Gold) | tzx | 48K | Good | Exact | Matches the reference emulator over a three minute run |
 | Epyx Action - Street Sports Basketball (1990)(U.S. Gold) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
-| Epyx Action - The Games - Winter Edition (1990)(U.S. Gold) | tzx | 48K | Check | Exact | Picture agrees 72% with the reference emulator |
-| Epyx Action - The Games - Winter Edition (1990)(U.S. Gold)[128K] | tzx | 128K | Check | Exact | Picture agrees 72% with the reference emulator |
+| Epyx Action - The Games - Winter Edition (1990)(U.S. Gold) | tzx | 48K | Good | Exact | Matches the reference emulator over a three minute run |
+| Epyx Action - The Games - Winter Edition (1990)(U.S. Gold)[128K] | tzx | 128K | Good | Exact | Matches the reference emulator over a three minute run |
 | Equinox (1986)(Erbe Software)[a][re-release] | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Equinox (1986)(Erbe Software)[re-release] | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Equinox (1986)(IBSA)[re-release] | tzx | 48K | Differs | Exact | Stays on one picture while the reference emulator runs on |
@@ -655,7 +655,7 @@ Page 7 of 20. What the words mean is on the [main page](../COMPATIBILITY.md).
 | Explorador, El (1984)(Microparadise Software)(es) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Explorer (1984)(Clockbyte)(de) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Explorer (1986)(Electric Dreams Software) | tap | 48K | Good | Exact | Picture matches the reference emulator |
-| Explorer (1986)(Electric Dreams Software) | tzx | 48K | Differs | Exact | Picture agrees only 33% with the reference emulator |
+| Explorer (1986)(Electric Dreams Software) | tzx | 48K | Ahead | Exact | Runs on while the reference emulator stays on one picture |
 | Explorer (1986)(Electric Dreams Software) | z80 | 48K | Good | Exact | Picture matches the reference emulator |
 | Explorer (1986)(Electric Dreams Software)[a2] | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Explorer (1986)(Electric Dreams Software)[a] | tzx | 48K | Ahead | Exact | Runs on while the reference emulator stays on one picture |
@@ -736,7 +736,7 @@ Page 7 of 20. What the words mean is on the [main page](../COMPATIBILITY.md).
 | F-16 Fighting Falcon (1990)(Virgin Mastertronic)[48-128K][lightgun] | tzx | 128K | Check | Exact | Picture agrees 82% with the reference emulator |
 | F-19 Stealth Fighter (1990)(Erbe Software)(Tape 1 of 2 Side A)[re-release][aka Project Stealth Fighter] | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | F-19 Stealth Fighter (1990)(Erbe Software)(Tape 1 of 2 Side B)[re-release][aka Project Stealth Fighter] | tzx | 48K | Good | Exact | Picture matches the reference emulator |
-| F-19 Stealth Fighter (1990)(Erbe Software)(Tape 2 of 2 Side A)[re-release][aka Project Stealth Fighter] | tzx | 48K | Check | Exact | Picture agrees 60% with the reference emulator |
+| F-19 Stealth Fighter (1990)(Erbe Software)(Tape 2 of 2 Side A)[re-release][aka Project Stealth Fighter] | tzx | 48K | Good | Exact | Matches the reference emulator over a three minute run |
 | F-19 Stealth Fighter (1990)(Erbe Software)(Tape 2 of 2 Side B)[re-release][aka Project Stealth Fighter] | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | F.I.F.O. (1989)(Klub Fifo)(cs) | tap | 48K | Good | Exact | Picture matches the reference emulator |
 | F.I.R.E. (1988)(Ultrasoft) | z80 | 48K | Good | Exact | Picture matches the reference emulator |
@@ -1087,7 +1087,7 @@ Page 7 of 20. What the words mean is on the [main page](../COMPATIBILITY.md).
 | Final Matrix, The (1987)(Gremlin Graphics Software) | tap | 48K | Good | Exact | Picture matches the reference emulator |
 | Final Matrix, The (1987)(Gremlin Graphics Software) | tzx | 48K | Check | Exact | Picture agrees 67% with the reference emulator |
 | Final Matrix, The (1987)(Gremlin Graphics Software) | z80 | 48K | Good | Exact | Picture matches the reference emulator |
-| Final Matrix, The (1987)(Gremlin Graphics Software)[a2] | tzx | 48K | Good | Exact | Picture matches the reference emulator |
+| Final Matrix, The (1987)(Gremlin Graphics Software)[a2] | tzx | 48K | Differs | Exact | Picture agrees only 26% with the reference emulator |
 | Final Matrix, The (1987)(Gremlin Graphics Software)[a] | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Final Matrix, The (1987)(Gremlin Graphics Software)[a] | z80 | 48K | Good | Exact | Picture matches the reference emulator |
 | Finders Keepers (1985)(Mastertronic)[a2][Magic Knight 1] | tap | 48K | Good | Exact | Picture matches the reference emulator |

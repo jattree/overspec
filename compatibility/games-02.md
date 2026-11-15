@@ -1434,7 +1434,7 @@ Page 2 of 20. What the words mean is on the [main page](../COMPATIBILITY.md).
 | Back to the Future (1985)(Electric Dreams Software)[a] | z80 | 48K | Good | Exact | Picture matches the reference emulator |
 | Back to the Future (1985)(Electric Dreams Software)[a][BleepLoad] | tzx | 48K | Good | Exact | Matches the reference emulator over a three minute run |
 | Back to the Future (1985)(Electric Dreams Software)[BleepLoad] | tzx | 48K | Good | Exact | Matches the reference emulator over a three minute run |
-| Back to the Future (1987)(Proein Soft Line)[re-release] | tzx | 48K | Check | Exact | Picture agrees 55% with the reference emulator |
+| Back to the Future (1987)(Proein Soft Line)[re-release] | tzx | 48K | Good | Exact | Matches the reference emulator over a three minute run |
 | Back to the Future (1988)(MCM Software)[re-release] | tzx | 48K | Good | Exact | Matches the reference emulator over a three minute run |
 | Back to the Future II (1990)(Image Works)(Side A) | dsk | +3 | Good | Exact | Picture matches the reference emulator |
 | Back to the Future II (1990)(Image Works)(Side A)[128K] | tzx | 128K | Good | Exact | Picture matches the reference emulator |

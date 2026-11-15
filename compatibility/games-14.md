@@ -135,7 +135,7 @@ Page 14 of 20. What the words mean is on the [main page](../COMPATIBILITY.md).
 | Pedro na Ostrove Piratov (1992)(Ultrasoft)(sk) | tzx | 48K | Differs | Exact | Picture agrees only 47% with the reference emulator |
 | Pedro na Ostrove Piratov (1992)(Ultrasoft)(sk)[128K] | tzx | 128K | Good | Exact | Picture matches the reference emulator |
 | Pedro na Ostrove Piratov (1992)(Ultrasoft)(sk)[128K] | z80 | 128K | Good | Exact | Picture matches the reference emulator |
-| Pedro na Ostrove Piratov (1992)(Ultrasoft)(sk)[a] | tzx | 48K | Ahead | Exact | Runs on while the reference emulator stays on one picture |
+| Pedro na Ostrove Piratov (1992)(Ultrasoft)(sk)[a] | tzx | 48K | Differs | Exact | Picture agrees only 47% with the reference emulator |
 | Pedro na Ostrove Piratov (1992)(Ultrasoft)(sk)[h FLP] | scl | Pentagon 128K | Good | Exact | Picture matches the reference emulator |
 | Pedro Puzzle (1995)(Vaxalon) | z80 | 48K | Good | Exact | Picture matches the reference emulator |
 | Peep Show (1984)(R'n'H Microtec) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
@@ -908,7 +908,7 @@ Page 14 of 20. What the words mean is on the [main page](../COMPATIBILITY.md).
 | Predator (1987)(Activision) | tzx | 48K | Ahead | Exact | Runs on while the reference emulator stays on one picture |
 | Predator (1987)(Activision)(Side A) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Predator (1987)(Activision)(Side B) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
-| Predator (1987)(Activision)[a2] | tzx | 48K | Ahead | Exact | Runs on while the reference emulator stays on one picture |
+| Predator (1987)(Activision)[a2] | tzx | 48K | Check | Exact | Picture agrees 60% with the reference emulator |
 | Predator (1987)(Activision)[a] | tzx | 48K | Check | Exact | Picture agrees 60% with the reference emulator |
 | Predator (1987)(Activision)[t +2] | tap | 48K | Good | Exact | Picture matches the reference emulator |
 | Predator (1987)(Activision)[t +2] | tzx | 48K | Good | Exact | Picture matches the reference emulator |
@@ -1122,7 +1122,7 @@ Page 14 of 20. What the words mean is on the [main page](../COMPATIBILITY.md).
 | Project Stealth Fighter (1990)(Microprose Software)(Side A) | dsk | +3 | Good | Exact | Matches the reference emulator over a three minute run |
 | Project Stealth Fighter (1990)(Microprose Software)(Side B) | dsk | +3 | Good | Exact | Picture matches the reference emulator |
 | Project Stealth Fighter (1990)(Microprose Software)(Tape 1 of 2 Side A) | tzx | 48K | Good | Exact | Matches the reference emulator over a three minute run |
-| Project Stealth Fighter (1990)(Microprose Software)(Tape 1 of 2 Side B) | tzx | 48K | Check | Exact | Picture agrees 59% with the reference emulator |
+| Project Stealth Fighter (1990)(Microprose Software)(Tape 1 of 2 Side B) | tzx | 48K | Good | Exact | Matches the reference emulator over a three minute run |
 | Project Stealth Fighter (1990)(Microprose Software)(Tape 2 of 2 Side A) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Project Stealth Fighter (1990)(Microprose Software)(Tape 2 of 2 Side B) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Project Stealth Fighter (1990)(Microprose Software)[128K] | tap | 128K | Good | Exact | Matches the reference emulator over a three minute run |
@@ -1199,7 +1199,7 @@ Page 14 of 20. What the words mean is on the [main page](../COMPATIBILITY.md).
 | Pssst (1983)(Ultimate Play The Game)[a][16K] | z80 | 48K | Good | Exact | Picture matches the reference emulator |
 | Psycho City (1989)(Players Software) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Psycho City (1989)(Players Software) | z80 | 48K | Good | Exact | Picture matches the reference emulator |
-| Psycho City (1989)(Players Software)[a] | tzx | 48K | Check | Exact | Picture agrees 57% with the reference emulator |
+| Psycho City (1989)(Players Software)[a] | tzx | 48K | Differs | Exact | Picture agrees only 48% with the reference emulator |
 | Psycho Hopper (1989)(Mastertronic Plus) | tap | 48K | Good | Exact | Picture matches the reference emulator |
 | Psycho Hopper (1989)(Mastertronic Plus) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Psycho Hopper (1989)(Mastertronic Plus) | z80 | 48K | Good | Exact | Picture matches the reference emulator |
@@ -1264,11 +1264,11 @@ Page 14 of 20. What the words mean is on the [main page](../COMPATIBILITY.md).
 | Pulsator (1987)(Erbe Software)[48-128K][re-release] | tzx | 128K | Check | Exact | Picture agrees 58% with the reference emulator |
 | Pulsator (1987)(Martech Games) | z80 | 48K | Good | Exact | Picture matches the reference emulator |
 | Pulsator (1987)(Martech Games)[48-128K] | tap | 128K | Good | Exact | Picture matches the reference emulator |
-| Pulsator (1987)(Martech Games)[48-128K] | tzx | 128K | Check | Exact | Picture agrees 61% with the reference emulator |
-| Pulsator (1987)(Martech Games)[a2][48-128K] | tzx | 128K | Check | Exact | Picture agrees 61% with the reference emulator |
+| Pulsator (1987)(Martech Games)[48-128K] | tzx | 128K | Good | Exact | Shows the same pictures as the reference emulator, at a different moment |
+| Pulsator (1987)(Martech Games)[a2][48-128K] | tzx | 128K | Good | Exact | Shows the same pictures as the reference emulator, at a different moment |
 | Pulsator (1987)(Martech Games)[a3][48-128K] | tzx | 128K | Check | Exact | Picture agrees 58% with the reference emulator |
-| Pulsator (1987)(Martech Games)[a4][48-128K] | tzx | 128K | Check | Exact | Picture agrees 61% with the reference emulator |
-| Pulsator (1987)(Martech Games)[a][48-128K] | tzx | 128K | Check | Exact | Picture agrees 61% with the reference emulator |
+| Pulsator (1987)(Martech Games)[a4][48-128K] | tzx | 128K | Good | Exact | Shows the same pictures as the reference emulator, at a different moment |
+| Pulsator (1987)(Martech Games)[a][48-128K] | tzx | 128K | Good | Exact | Shows the same pictures as the reference emulator, at a different moment |
 | Pulse Warrior (1988)(Mastertronic) | tap | 48K | Good | Exact | Picture matches the reference emulator |
 | Pulse Warrior (1988)(Mastertronic) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Pulse Warrior (1988)(Mastertronic) | z80 | 48K | Good | Exact | Picture matches the reference emulator |

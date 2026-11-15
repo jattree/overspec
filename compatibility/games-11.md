@@ -374,7 +374,7 @@ Page 11 of 20. What the words mean is on the [main page](../COMPATIBILITY.md).
 | Kung-Fu (1984)(Bug-Byte Software)[a] | tap | 48K | Good | Exact | Picture matches the reference emulator |
 | Kung-Fu (1984)(Bug-Byte Software)[a] | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Kung-Fu Master (1986)(Americana Software)[re-release] | tzx | 48K | Good | Exact | Picture matches the reference emulator |
-| Kung-Fu Master (1986)(U.S. Gold) | tzx | 48K | Differs | Exact | Picture agrees only 13% with the reference emulator |
+| Kung-Fu Master (1986)(U.S. Gold) | tzx | 48K | Ahead | Exact | Runs on while the reference emulator stays on one picture |
 | Kung-Fu Master (1986)(U.S. Gold) | z80 | 48K | Good | Exact | Picture matches the reference emulator |
 | Kung-Fu Master (1986)(U.S. Gold)[a2] | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Kung-Fu Master (1986)(U.S. Gold)[a2] | z80 | 48K | Good | Exact | Picture matches the reference emulator |
@@ -400,7 +400,7 @@ Page 11 of 20. What the words mean is on the [main page](../COMPATIBILITY.md).
 | L.E.D. Storm (1988)(Go!) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | L.E.D. Storm (1988)(Go!)[128K] | tzx | 128K | Good | Exact | Matches the reference emulator over a three minute run |
 | L.E.D. Storm (1988)(Go!)[a2] | tzx | 48K | Good | Exact | Picture matches the reference emulator |
-| L.E.D. Storm (1988)(Go!)[a3] | tzx | 48K | Good | Exact | Picture matches the reference emulator |
+| L.E.D. Storm (1988)(Go!)[a3] | tzx | 48K | Good | Exact | Shows the same pictures as the reference emulator, at a different moment |
 | L.E.D. Storm (1988)(Go!)[a] | tap | 48K | Good | Exact | Picture matches the reference emulator |
 | L.E.D. Storm (1988)(Go!)[a] | tzx | 48K | Good | Exact | Shows the same pictures as the reference emulator, at a different moment |
 | L.E.D. Storm (1988)(Go!)[a][128K] | tzx | 128K | Good | Exact | Matches the reference emulator over a three minute run |
@@ -1022,7 +1022,7 @@ Page 11 of 20. What the words mean is on the [main page](../COMPATIBILITY.md).
 | Lone Wolf III - The Mirror of Death (1991)(Audiogenic Software)[b] | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Lone Wolf III - The Mirror of Death (1991)(Audiogenic Software)[cr Matasoft - Kamilsoft][t +3 Matasoft - Kamilsoft][128K] | tap | 128K | Good | Exact | Picture matches the reference emulator |
 | Lone Wolf III - The Mirror of Death (1991)(System 4)(Side A)[re-release] | tzx | 48K | Good | Exact | Picture matches the reference emulator |
-| Lone Wolf III - The Mirror of Death (1991)(System 4)(Side B)[re-release] | tzx | 48K | Good | Exact | Picture matches the reference emulator |
+| Lone Wolf III - The Mirror of Death (1991)(System 4)(Side B)[re-release] | tzx | 48K | Check | Exact | Picture agrees 58% with the reference emulator |
 | Loogaroo - Werewolf Simulator (1988)(Top Ten Software) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Loogaroo - Werewolf Simulator (1988)(Top Ten Software) | z80 | 48K | Good | Exact | Picture matches the reference emulator |
 | Loogaroo - Werewolf Simulator (1988)(Top Ten Software)[a] | tzx | 48K | Good | Exact | Picture matches the reference emulator |

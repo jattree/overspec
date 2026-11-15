@@ -236,7 +236,7 @@ Page 2 of 2. What the words mean is on the [main page](../COMPATIBILITY.md).
 | Rocks (1985)(Load 'n' Run)(es)[a][aka Thrusta] | z80 | 48K | Good | Exact | Picture matches the reference emulator |
 | Rocks (1985)(Load 'n' Run)(es)[aka Thrusta] | tap | 48K | Good | Exact | Picture matches the reference emulator |
 | Rocks (1985)(Load 'n' Run)(es)[aka Thrusta] | z80 | 48K | Good | Exact | Picture matches the reference emulator |
-| Rod-Land (demo) (1991)(Storm Software - Sinclair User)[128K] | tzx | 128K | Check | Exact | Picture agrees 63% with the reference emulator |
+| Rod-Land (demo) (1991)(Storm Software - Sinclair User)[128K] | tzx | 128K | Good | Exact | Picture matches the reference emulator |
 | Roller Coaster (1992)(Elite Systems - Sinclair User)[a][password WINDOW] | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Roller Coaster (1992)(Elite Systems - Sinclair User)[password AMAAAA] | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Roller Coaster (1992)(Elite Systems - Sinclair User)[password WINDOW] | tzx | 48K | Good | Exact | Picture matches the reference emulator |
@@ -505,7 +505,7 @@ Page 2 of 2. What the words mean is on the [main page](../COMPATIBILITY.md).
 | Sinclair User - Issue 126 - Great Eight 15 (1992)(Sinclair User)(Side B) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Sinclair User - Issue 126 - Great Eight 15 - Pokemania (1992)(Sinclair User)[48-128K] | tzx | 128K | Good | Exact | Picture matches the reference emulator |
 | Sinclair User - Issue 126 - Great Eight 15 - Tips Amazing (1992)(Sinclair User) | tzx | 48K | Check | Exact | Picture agrees 88% with the reference emulator |
-| Sinclair User - Issue 127 - Great Eight 16 - Hacks Amazing (1992)(Sinclair User) | tzx | 48K | Good | Exact | Shows the same pictures as the reference emulator, at a different moment |
+| Sinclair User - Issue 127 - Great Eight 16 - Hacks Amazing (1992)(Sinclair User) | tzx | 48K | Check | Exact | Picture agrees 84% with the reference emulator |
 | Sinclair User - Issue 127 - Great Eight 16 - Hacks Amazing (1992)(Sinclair User)[b] | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Sinclair User - Issue 127 - Great Eight 16 - Pokemania (1992)(Sinclair User)[48-128K] | tzx | 128K | Good | Exact | Picture matches the reference emulator |
 | Sinclair User - Issue 128 - Great Eight 17 (1992)(Sinclair User)(Side A) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
@@ -859,7 +859,7 @@ Page 2 of 2. What the words mean is on the [main page](../COMPATIBILITY.md).
 | Xenon (demo) (1988)(Melbourne House - Sinclair User)[48-128K] | tap | 128K | Good | Exact | Picture matches the reference emulator |
 | Your Sinclair - Issue 01 - Smash Tape 01 (1986)(Your Sinclair) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Your Sinclair - Issue 17 - Smash Tape 02 (1987)(Your Sinclair) | tzx | 48K | Differs | Exact | Picture agrees only 36% with the reference emulator |
-| Your Sinclair - Issue 22 - Smash Tape 03 (1987)(Your Sinclair) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
+| Your Sinclair - Issue 22 - Smash Tape 03 (1987)(Your Sinclair) | tzx | 48K | Good | Exact | Matches the reference emulator over a three minute run |
 | Your Sinclair - Issue 24 - Smash Tape 04 (1987)(Your Sinclair) | tzx | 48K | Good | Exact | Matches the reference emulator over a three minute run |
 | Your Sinclair - Issue 25 - Smash Tape 05 (1988)(Your Sinclair) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Your Sinclair - Issue 29 - Smash Tape 06 (1988)(Your Sinclair) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
@@ -982,7 +982,7 @@ Page 2 of 2. What the words mean is on the [main page](../COMPATIBILITY.md).
 | Your Sinclair - Issue 68 - The Magnificent Seven 05 (1991)(Your Sinclair)(Side B)[a] | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Your Sinclair - Issue 68 - The Magnificent Seven 05 - Practical Pokes (1991)(Your Sinclair) | tzx | 48K | Differs | Exact | Picture agrees only 11% with the reference emulator |
 | Your Sinclair - Issue 69 - The Magnificent Seven 06 (1991)(Your Sinclair)(Side A) | tzx | 48K | Differs | Exact | Picture agrees only 16% with the reference emulator |
-| Your Sinclair - Issue 69 - The Magnificent Seven 06 (1991)(Your Sinclair)(Side A)[a] | tzx | 48K | Differs | Exact | Picture agrees only 16% with the reference emulator |
+| Your Sinclair - Issue 69 - The Magnificent Seven 06 (1991)(Your Sinclair)(Side A)[a] | tzx | 48K | Ahead | Exact | Runs on while the reference emulator stays on one picture |
 | Your Sinclair - Issue 69 - The Magnificent Seven 06 (1991)(Your Sinclair)(Side B) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Your Sinclair - Issue 69 - The Magnificent Seven 06 (1991)(Your Sinclair)(Side B)[a] | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Your Sinclair - Issue 69 - The Magnificent Seven 06 - Practical Pokes (1991)(Your Sinclair) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
@@ -994,8 +994,8 @@ Page 2 of 2. What the words mean is on the [main page](../COMPATIBILITY.md).
 | Your Sinclair - Issue 70 - The Magnificent Seven 07 - Practical Pokes (1991)(Your Sinclair) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Your Sinclair - Issue 71 - The Magnificent Seven 08 (1991)(Your Sinclair)(Side A) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Your Sinclair - Issue 71 - The Magnificent Seven 08 (1991)(Your Sinclair)(Side A)[a] | tzx | 48K | Good | Exact | Picture matches the reference emulator |
-| Your Sinclair - Issue 71 - The Magnificent Seven 08 (1991)(Your Sinclair)(Side B) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
-| Your Sinclair - Issue 71 - The Magnificent Seven 08 (1991)(Your Sinclair)(Side B)[a] | tzx | 48K | Ahead | Exact | Gets further than the reference emulator in the same time |
+| Your Sinclair - Issue 71 - The Magnificent Seven 08 (1991)(Your Sinclair)(Side B) | tzx | 48K | Differs | Exact | Picture agrees only 0% with the reference emulator |
+| Your Sinclair - Issue 71 - The Magnificent Seven 08 (1991)(Your Sinclair)(Side B)[a] | tzx | 48K | Differs | Exact | Picture agrees only 0% with the reference emulator |
 | Your Sinclair - Issue 71 - The Magnificent Seven 08 - Practical Pokes (1991)(Your Sinclair) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Your Sinclair - Issue 72 - The Magnificent Seven 09 (1991)(Your Sinclair)(Side A) | tzx | 48K | Check | Exact | Picture agrees 74% with the reference emulator |
 | Your Sinclair - Issue 72 - The Magnificent Seven 09 (1991)(Your Sinclair)(Side A)[a2] | tzx | 48K | Good | Exact | Picture matches the reference emulator |
@@ -1073,8 +1073,8 @@ Page 2 of 2. What the words mean is on the [main page](../COMPATIBILITY.md).
 | Your Sinclair - Issue 85 - Christmas Collection 2 (1993)(Your Sinclair)(Side A)[a] | tzx | 48K | Good | Exact | Matches the reference emulator over a three minute run |
 | Your Sinclair - Issue 85 - Christmas Collection 2 (1993)(Your Sinclair)(Side B) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Your Sinclair - Issue 85 - Christmas Collection 2 - Practical Pokes (1993)(Your Sinclair) | tzx | 48K | Good | Exact | Shows the same pictures as the reference emulator, at a different moment |
-| Your Sinclair - Issue 86 - Beaut Box 1 (1993)(Your Sinclair)(Side A) | tzx | 48K | Check | Exact | Picture agrees 87% with the reference emulator |
-| Your Sinclair - Issue 86 - Beaut Box 1 (1993)(Your Sinclair)(Side A)[a] | tzx | 48K | Check | Exact | Picture agrees 87% with the reference emulator |
+| Your Sinclair - Issue 86 - Beaut Box 1 (1993)(Your Sinclair)(Side A) | tzx | 48K | Good | Exact | Shows the same pictures as the reference emulator, at a different moment |
+| Your Sinclair - Issue 86 - Beaut Box 1 (1993)(Your Sinclair)(Side A)[a] | tzx | 48K | Good | Exact | Shows the same pictures as the reference emulator, at a different moment |
 | Your Sinclair - Issue 86 - Beaut Box 1 (1993)(Your Sinclair)(Side B) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Your Sinclair - Issue 86 - Beaut Box 1 (1993)(Your Sinclair)(Side B)[a] | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Your Sinclair - Issue 86 - Beaut Box 1 - Practical Pokes (1993)(Your Sinclair) | tap | 48K | Check | Exact | Picture agrees 84% with the reference emulator |

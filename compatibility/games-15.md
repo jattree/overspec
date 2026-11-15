@@ -484,7 +484,7 @@ Page 15 of 20. What the words mean is on the [main page](../COMPATIBILITY.md).
 | Red L.E.D. (1987)(Starlight Software) | tap | 48K | Good | Exact | Matches the reference emulator over a three minute run |
 | Red L.E.D. (1987)(Starlight Software) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Red L.E.D. (1987)(Starlight Software)[a2] | tzx | 48K | Good | Exact | Picture matches the reference emulator |
-| Red L.E.D. (1987)(Starlight Software)[a3] | tzx | 48K | Differs | Exact | Picture agrees only 23% with the reference emulator |
+| Red L.E.D. (1987)(Starlight Software)[a3] | tzx | 48K | Good | Exact | Shows the same pictures as the reference emulator, at a different moment |
 | Red L.E.D. (1987)(Starlight Software)[a] | tap | 48K | Ahead | Exact | Runs on while the reference emulator stays on one picture |
 | Red L.E.D. (1987)(Starlight Software)[a] | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Red L.E.D. (1987)(Starlight Software)[m] | tzx | 48K | Good | Exact | Matches the reference emulator over a three minute run |
@@ -1106,7 +1106,7 @@ Page 15 of 20. What the words mean is on the [main page](../COMPATIBILITY.md).
 | Rocco (1985)(Gremlin Graphics Software)[a2][re-release][aka Rocky] | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Rocco (1985)(Gremlin Graphics Software)[a3][re-release][aka Rocky] | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Rocco (1985)(Gremlin Graphics Software)[a][aka Rocky] | tap | 48K | Good | Exact | Picture matches the reference emulator |
-| Rocco (1985)(Gremlin Graphics Software)[a][re-release][aka Rocky] | tzx | 48K | Good | Exact | Picture matches the reference emulator |
+| Rocco (1985)(Gremlin Graphics Software)[a][re-release][aka Rocky] | tzx | 48K | Ahead | Exact | Runs on while the reference emulator stays on one picture |
 | Rocco (1985)(Gremlin Graphics Software)[aka Rocky] | tap | 48K | Good | Exact | Picture matches the reference emulator |
 | Rocco (1985)(Gremlin Graphics Software)[aka Rocky] | z80 | 48K | Good | Exact | Picture matches the reference emulator |
 | Rocco (1985)(Gremlin Graphics Software)[re-release][aka Rocky] | tzx | 48K | Good | Exact | Picture matches the reference emulator |
@@ -1167,7 +1167,7 @@ Page 15 of 20. What the words mean is on the [main page](../COMPATIBILITY.md).
 | Rocky Horror Show, The (1985)(CRL Group) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Rocky Horror Show, The (1985)(CRL Group) | z80 | 48K | Good | Exact | Picture matches the reference emulator |
 | Rocky Horror Show, The (1985)(CRL Group)[128K] | tap | 128K | Good | Exact | Picture matches the reference emulator |
-| Rocky Horror Show, The (1985)(CRL Group)[128K] | tzx | 128K | Good | Exact | Matches the reference emulator over a three minute run |
+| Rocky Horror Show, The (1985)(CRL Group)[128K] | tzx | 128K | Good | Exact | Shows the same pictures as the reference emulator, at a different moment |
 | Rocky Horror Show, The (1985)(CRL Group)[128K] | z80 | 128K | Good | Exact | Picture matches the reference emulator |
 | Rocky Horror Show, The (1985)(CRL Group)[a2] | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Rocky Horror Show, The (1985)(CRL Group)[a] | tzx | 48K | Good | Exact | Picture matches the reference emulator |
@@ -1183,8 +1183,8 @@ Page 15 of 20. What the words mean is on the [main page](../COMPATIBILITY.md).
 | Rocman (1986)(Magic Team)(es) | z80 | 48K | Good | Exact | Picture matches the reference emulator |
 | Rocman (1986)(Magic Team)(es)[a] | tap | 48K | Good | Exact | Picture matches the reference emulator |
 | Rocman (1986)(Magic Team)(es)[a] | z80 | 48K | Good | Exact | Picture matches the reference emulator |
-| Rod-Land (1991)(Dro Soft)[128K][re-release] | tzx | 128K | Good | Exact | Picture matches the reference emulator |
-| Rod-Land (1991)(Storm Software)[128K] | tzx | 128K | Good | Exact | Picture matches the reference emulator |
+| Rod-Land (1991)(Dro Soft)[128K][re-release] | tzx | 128K | Good | Exact | Shows the same pictures as the reference emulator, at a different moment |
+| Rod-Land (1991)(Storm Software)[128K] | tzx | 128K | Good | Exact | Shows the same pictures as the reference emulator, at a different moment |
 | Rod-Land (1991)(Storm Software)[128K] | z80 | 128K | Good | Exact | Picture matches the reference emulator |
 | Rod-Land (1991)(Storm Software)[a][128K] | tzx | 128K | Good | Exact | Picture matches the reference emulator |
 | Rod-Land (1991)(Storm Software)[cr Matasoft][t Matasoft][128K] | tap | 128K | Good | Exact | Picture matches the reference emulator |

@@ -35,7 +35,7 @@ Page 2 of 2. What the words mean is on the [main page](../COMPATIBILITY.md).
 | Story So Far Vol 2, The - Overlander (1989)(Elite Systems) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Story So Far Vol 2, The - Space Harrier (1989)(Elite Systems) | tzx | 48K | Good | Exact | Shows the same pictures as the reference emulator, at a different moment |
 | Story So Far Vol 4, The - Aliens (1989)(Elite Systems) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
-| Story So Far Vol 4, The - Back to the Future (1989)(Elite Systems) | tzx | 48K | Check | Exact | Picture agrees 58% with the reference emulator |
+| Story So Far Vol 4, The - Back to the Future (1989)(Elite Systems) | tzx | 48K | Good | Exact | Matches the reference emulator over a three minute run |
 | Story So Far Vol 4, The - Ghostbusters (1989)(Elite Systems) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Story So Far Vol 4, The - Quartet (1989)(Elite Systems) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Story So Far Vol 4, The - The Eidolon (1989)(Elite Systems) | tzx | 48K | Good | Exact | Picture matches the reference emulator |

@@ -480,7 +480,7 @@ Page 20 of 20. What the words mean is on the [main page](../COMPATIBILITY.md).
 | World Series Baseball (1989)(Erbe Software)[re-release] | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | World Series Basketball (1985)(Erbe Software)[re-release] | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | World Series Basketball (1985)(Erbe Software)[small case][re-release] | tzx | 48K | Good | Exact | Picture matches the reference emulator |
-| World Series Basketball (1985)(Imagine Software) | tzx | 48K | Good | Exact | Shows the same pictures as the reference emulator, at a different moment |
+| World Series Basketball (1985)(Imagine Software) | tzx | 48K | Check | Exact | Picture agrees 56% with the reference emulator |
 | World Series Basketball (1985)(Imagine Software) | z80 | 48K | Good | Exact | Picture matches the reference emulator |
 | World Series Basketball (1985)(Imagine Software)[a2] | tzx | 48K | Good | Exact | Shows the same pictures as the reference emulator, at a different moment |
 | World Series Basketball (1985)(Imagine Software)[a2] | z80 | 48K | Good | Exact | Picture matches the reference emulator |
@@ -572,9 +572,9 @@ Page 20 of 20. What the words mean is on the [main page](../COMPATIBILITY.md).
 | WWF Wrestle Mania (1991)(Erbe Software)(Side A)[128K][re-release] | tzx | 128K | Good | Exact | Shows the same pictures as the reference emulator, at a different moment |
 | WWF Wrestle Mania (1991)(Erbe Software)(Side B)[128K][re-release] | tzx | 128K | Good | Exact | Picture matches the reference emulator |
 | WWF Wrestle Mania (1991)(Ocean)[128K] | tap | 128K | Good | Exact | Picture matches the reference emulator |
-| WWF Wrestle Mania (1991)(Ocean)[128K] | tzx | 128K | Check | Exact | Picture agrees 69% with the reference emulator |
+| WWF Wrestle Mania (1991)(Ocean)[128K] | tzx | 128K | Good | Exact | Shows the same pictures as the reference emulator, at a different moment |
 | WWF Wrestle Mania (1991)(Ocean)[a2][128K] | tzx | 128K | Good | Exact | Shows the same pictures as the reference emulator, at a different moment |
-| WWF Wrestle Mania (1991)(Ocean)[a][128K] | tzx | 128K | Check | Exact | Picture agrees 68% with the reference emulator |
+| WWF Wrestle Mania (1991)(Ocean)[a][128K] | tzx | 128K | Good | Exact | Shows the same pictures as the reference emulator, at a different moment |
 | WWF Wrestle Mania (1991)(Ocean)[h Ice'n'Green] | scl | Pentagon 128K | Good | Exact | Picture matches the reference emulator |
 | WWF Wrestle Mania (1991)(Ocean)[m][128K] | tzx | 128K | Good | Exact | Picture matches the reference emulator |
 | X and O (1996)(Nasty Group) | trd | Pentagon 128K | Good | Exact | Shows the same pictures as the reference emulator, at a different moment |

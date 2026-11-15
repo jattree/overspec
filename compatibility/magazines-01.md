@@ -556,8 +556,8 @@ Page 1 of 2. What the words mean is on the [main page](../COMPATIBILITY.md).
 | Heresy 07 (2002)(Techno Lab - Jeez)(ru) | trd | Pentagon 128K | Good | Exact | Picture matches the reference emulator |
 | Heresy 07 (2002)(Techno Lab - Jeez)(ru)[a] | trd | Pentagon 128K | Good | Exact | Picture matches the reference emulator |
 | Heresy 09 (2002)(Techno Lab - Jeez)(ru) | scl | Pentagon 128K | Good | Exact | Picture matches the reference emulator |
-| Hit Parade - Issue 01 (1988)(Sipe)(it) | tzx | 48K | Check | Exact | Picture agrees 51% with the reference emulator |
-| Hit Parade - Issue 02 (1988)(Sipe)(it)(Side A) | tzx | 48K | Check | Exact | Picture agrees 51% with the reference emulator |
+| Hit Parade - Issue 01 (1988)(Sipe)(it) | tzx | 48K | Ahead | Exact | Runs on while the reference emulator stays on one picture |
+| Hit Parade - Issue 02 (1988)(Sipe)(it)(Side A) | tzx | 48K | Ahead | Exact | Runs on while the reference emulator stays on one picture |
 | Hit Parade - Issue 02 (1988)(Sipe)(it)(Side B) | tzx | 48K | Good | Exact | Matches the reference emulator over a three minute run |
 | Hit Parade - Issue 03 (1988)(Sipe)(it) | tzx | 48K | Ahead | Exact | Runs on while the reference emulator stays on one picture |
 | Idea Computer - Issue 01 (198x)(Mongolfiera)(it) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
@@ -925,7 +925,7 @@ Page 1 of 2. What the words mean is on the [main page](../COMPATIBILITY.md).
 | MicroHobby Games - Issue 30 (1985)(Hobby Press)(es) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | MicroHobby Games - Issue 31 (1985)(Hobby Press)(es) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | MicroHobby Games - Issue 32 (1985)(Hobby Press)(es) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
-| MicroHobby Games - Issue 33 (1985)(Hobby Press)(es) | tzx | 48K | Differs | Exact | Picture agrees only 1% with the reference emulator |
+| MicroHobby Games - Issue 33 (1985)(Hobby Press)(es) | tzx | 48K | Good | Exact | Shows the same pictures as the reference emulator, at a different moment |
 | MicroHobby Games - Issue 34 (1985)(Hobby Press)(es) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | MicroHobby Games - Issue 35 (1985)(Hobby Press)(es) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | MicroHobby Games - Issue 36 (1985)(Hobby Press)(es) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
@@ -1081,7 +1081,7 @@ Page 1 of 2. What the words mean is on the [main page](../COMPATIBILITY.md).
 | New Special Playgames - Issue 07 (1988)(Sipe)(it) | tzx | 48K | Differs | Exact | Picture agrees only 20% with the reference emulator |
 | New Special Playgames - Issue 08 (1988)(Sipe)(it) | tzx | 48K | Differs | Exact | Picture agrees only 20% with the reference emulator |
 | New Special Playgames - Issue 09 (1988)(Sipe)(it) | tzx | 48K | Differs | Exact | Picture agrees only 21% with the reference emulator |
-| New Special Playgames - Issue 10 (1988)(Sipe)(it) | tzx | 48K | Differs | Exact | Picture agrees only 21% with the reference emulator |
+| New Special Playgames - Issue 10 (1988)(Sipe)(it) | tzx | 48K | Ahead | Exact | Gets further than the reference emulator in the same time |
 | New Special Playgames - Issue 11 (1988)(Sipe)(it) | tzx | 48K | Differs | Exact | Picture agrees only 20% with the reference emulator |
 | New Special Playgames - Issue 12 (1988)(Sipe)(it) | tzx | 48K | Differs | Exact | Picture agrees only 20% with the reference emulator |
 | New Special Playgames - Issue 13 (1988)(Sipe)(it) | tzx | 48K | Ahead | Exact | Gets further than the reference emulator in the same time |
@@ -1106,7 +1106,7 @@ Page 1 of 2. What the words mean is on the [main page](../COMPATIBILITY.md).
 | New Special Playgames - Issue 30 (1990)(Sipe)(it)[a] | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | New Special Playgames - Issue 31 (1990)(Sipe)(it) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | New Special Playgames - Issue 32 (1990)(Sipe)(it) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
-| New Special Playgames - Issue 33 (1990)(Sipe)(it) | tzx | 48K | Check | Exact | Picture agrees 83% with the reference emulator |
+| New Special Playgames - Issue 33 (1990)(Sipe)(it) | tzx | 48K | Good | Exact | Shows the same pictures as the reference emulator, at a different moment |
 | New Special Playgames - Issue 34 (1990)(Sipe)(it) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | New Special Playgames - Issue 35 (1990)(Sipe)(it) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | New Special Playgames - Issue 36 (1990)(Sipe)(it) | tzx | 48K | Good | Exact | Picture matches the reference emulator |

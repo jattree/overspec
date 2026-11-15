@@ -60,7 +60,7 @@ Page 18 of 20. What the words mean is on the [main page](../COMPATIBILITY.md).
 | Super Chopper (1984)(Software Super Savers) | tap | 48K | Good | Exact | Picture matches the reference emulator |
 | Super Chopper (1984)(Software Super Savers) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Super Chopper (1984)(Software Super Savers) | z80 | 48K | Good | Exact | Picture matches the reference emulator |
-| Super Chopper (1984)(Software Super Savers)[a] | tzx | 48K | Check | Exact | Picture agrees 88% with the reference emulator |
+| Super Chopper (1984)(Software Super Savers)[a] | tzx | 48K | Check | Exact | Picture agrees 89% with the reference emulator |
 | Super Chopper (1984)(Software Super Savers)[a] | z80 | 48K | Good | Exact | Picture matches the reference emulator |
 | Super Cobra (1983)(Robert Spahl)(de) | tap | 48K | Good | Exact | Picture matches the reference emulator |
 | Super Com (1986)(Atlantis Software) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
@@ -1136,7 +1136,7 @@ Page 18 of 20. What the words mean is on the [main page](../COMPATIBILITY.md).
 | Thundercats (1987)(MCM Software)[re-release][Small Case] | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Thundercats (1988)(Encore)[128K][re-release] | tzx | 128K | Good | Exact | Picture matches the reference emulator |
 | Thundercats (1988)(MCM Software)[re-release][Double Case] | tzx | 48K | Good | Exact | Picture matches the reference emulator |
-| Thunderceptor (1987)(Go!) | tzx | 48K | Differs | Exact | Picture agrees only 1% with the reference emulator |
+| Thunderceptor (1987)(Go!) | tzx | 48K | Ahead | Exact | Gets further than the reference emulator in the same time |
 | Thunderceptor (1987)(Go!) | z80 | 48K | Good | Exact | Picture matches the reference emulator |
 | Thunderceptor (1987)(Go!)[a] | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Thunderceptor (1987)(Go!)[a] | z80 | 48K | Good | Exact | Picture matches the reference emulator |

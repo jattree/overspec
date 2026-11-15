@@ -1003,8 +1003,8 @@ Page 6 of 20. What the words mean is on the [main page](../COMPATIBILITY.md).
 | Dr. Jekyll and Mr. Hyde - Part 3 - Denouement (1988)(Essential Myth)[128K] | z80 | 128K | Differs | Exact | Picture agrees only 6% with the reference emulator |
 | Dr. Jekyll and Mr. Hyde - Part 3 - Denouement (1988)(Essential Myth)[a][128K] | z80 | 128K | Good | Exact | Picture matches the reference emulator |
 | Dr. Jekyll vs Mr Hyde (1989)(Morbosoft)(es) | z80 | 48K | Good | Exact | Picture matches the reference emulator |
-| Dr. Maddo (1986)(Americana Software)[a][re-release] | tzx | 48K | Good | Exact | Picture matches the reference emulator |
-| Dr. Maddo (1986)(Americana Software)[re-release] | tzx | 48K | Good | Exact | Shows the same pictures as the reference emulator, at a different moment |
+| Dr. Maddo (1986)(Americana Software)[a][re-release] | tzx | 48K | Good | Exact | Shows the same pictures as the reference emulator, at a different moment |
+| Dr. Maddo (1986)(Americana Software)[re-release] | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Dr. Maddo (1986)(U.S. Gold) | tap | 48K | Good | Exact | Picture matches the reference emulator |
 | Dr. Maddo (1986)(U.S. Gold) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Dr. Maddo (1986)(U.S. Gold) | z80 | 48K | Good | Exact | Picture matches the reference emulator |
@@ -1184,7 +1184,7 @@ Page 6 of 20. What the words mean is on the [main page](../COMPATIBILITY.md).
 | Draughts Genius (1987)(Rack-It) | tap | 48K | Differs | Exact | Picture agrees only 20% with the reference emulator |
 | Draughts Genius (1987)(Rack-It) | tzx | 48K | Differs | Exact | Picture agrees only 20% with the reference emulator |
 | Draughts Genius (1987)(Rack-It) | z80 | 48K | Good | Exact | Picture matches the reference emulator |
-| Draughts Genius (1987)(Rack-It)[a2] | tzx | 48K | Differs | Exact | Picture agrees only 19% with the reference emulator |
+| Draughts Genius (1987)(Rack-It)[a2] | tzx | 48K | Differs | Exact | Picture agrees only 20% with the reference emulator |
 | Draughts Genius (1987)(Rack-It)[a2] | z80 | 48K | Good | Exact | Picture matches the reference emulator |
 | Draughts Genius (1987)(Rack-It)[a3] | z80 | 48K | Good | Exact | Picture matches the reference emulator |
 | Draughts Genius (1987)(Rack-It)[a4] | z80 | 48K | Good | Exact | Picture matches the reference emulator |

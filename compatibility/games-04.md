@@ -297,10 +297,10 @@ Page 4 of 20. What the words mean is on the [main page](../COMPATIBILITY.md).
 | Buccaneer (1985)(Firebird Software) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Buccaneer (1985)(Firebird Software)[a] | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Buck Rogers - Planet of Zoom (1985)(U.S. Gold) | tap | 48K | Good | Exact | Shows the same pictures as the reference emulator, at a different moment |
-| Buck Rogers - Planet of Zoom (1985)(U.S. Gold) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
+| Buck Rogers - Planet of Zoom (1985)(U.S. Gold) | tzx | 48K | Good | Exact | Shows the same pictures as the reference emulator, at a different moment |
 | Buck Rogers - Planet of Zoom (1985)(U.S. Gold) | z80 | 48K | Good | Exact | Picture matches the reference emulator |
 | Buck Rogers - Planet of Zoom (1985)(U.S. Gold)[a2] | z80 | 48K | Good | Exact | Picture matches the reference emulator |
-| Buck Rogers - Planet of Zoom (1985)(U.S. Gold)[a] | tzx | 48K | Good | Exact | Picture matches the reference emulator |
+| Buck Rogers - Planet of Zoom (1985)(U.S. Gold)[a] | tzx | 48K | Good | Exact | Shows the same pictures as the reference emulator, at a different moment |
 | Buck Rogers - Planet of Zoom (1985)(U.S. Gold)[a] | z80 | 48K | Good | Exact | Picture matches the reference emulator |
 | Buckaroo Banzai (1987)(Adventure International) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Buckaroo Banzai (1987)(Adventure International) | z80 | 48K | Good | Exact | Picture matches the reference emulator |
@@ -489,7 +489,7 @@ Page 4 of 20. What the words mean is on the [main page](../COMPATIBILITY.md).
 | Butterfly (1983)(Hugh Davis) | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Buzz Off! (1984)(Electric Software) | tzx | 48K | Good | Exact | Shows the same pictures as the reference emulator, at a different moment |
 | By Fair Means or Foul (1989)(Superior Software) | dsk | +3 | Good | Exact | Picture matches the reference emulator |
-| By Fair Means or Foul (1989)(Superior Software) | tzx | 48K | Differs | Exact | Picture agrees only 15% with the reference emulator |
+| By Fair Means or Foul (1989)(Superior Software) | tzx | 48K | Ahead | Exact | Runs on while the reference emulator stays on one picture |
 | By Fair Means or Foul (1989)(Superior Software) | z80 | 48K | Good | Exact | Picture matches the reference emulator |
 | By Fair Means or Foul (1989)(Superior Software)[a] | z80 | 48K | Good | Exact | Picture matches the reference emulator |
 | Byegstvo na Harhan (1998)(Air)(ru)[h Dr. Dash] | trd | Pentagon 128K | Good | Exact | Picture matches the reference emulator |
@@ -631,7 +631,7 @@ Page 4 of 20. What the words mean is on the [main page](../COMPATIBILITY.md).
 | Capitan Trueno (1989)(Dinamic Software)(es)(Side A)[a] | tap | 48K | Good | Exact | Picture matches the reference emulator |
 | Capitan Trueno (1989)(Dinamic Software)(es)(Side A)[a] | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Capitan Trueno (1989)(Dinamic Software)(es)(Side B) | tap | 48K | Good | Exact | Picture matches the reference emulator |
-| Capitan Trueno (1989)(Dinamic Software)(es)(Side B) | tzx | 48K | Check | Exact | The reference emulator gets further in the same time |
+| Capitan Trueno (1989)(Dinamic Software)(es)(Side B) | tzx | 48K | Ahead | Exact | Gets further than the reference emulator in the same time |
 | Capitan Trueno (1989)(Dinamic Software)(es)(Side B)[a2] | tzx | 48K | Good | Exact | Picture matches the reference emulator |
 | Capitan Trueno (1989)(Dinamic Software)(es)(Side B)[a] | tap | 48K | Good | Exact | Picture matches the reference emulator |
 | Capitan Trueno (1989)(Dinamic Software)(es)(Side B)[a] | tzx | 48K | Good | Exact | Shows the same pictures as the reference emulator, at a different moment |
@@ -1378,7 +1378,7 @@ Page 4 of 20. What the words mean is on the [main page](../COMPATIBILITY.md).
 | Circus Games (1988)(Tynesoft)(Side A) | dsk | +3 | Good | Exact | Picture matches the reference emulator |
 | Circus Games (1988)(Tynesoft)(Side B) | dsk | +3 | Good | Exact | Picture matches the reference emulator |
 | Cisco Heat (1991)(Image Works)[128K] | tap | 128K | Good | Exact | Picture matches the reference emulator |
-| Cisco Heat (1991)(Image Works)[128K] | tzx | 128K | Check | Exact | Picture agrees 88% with the reference emulator |
+| Cisco Heat (1991)(Image Works)[128K] | tzx | 128K | Good | Exact | Shows the same pictures as the reference emulator, at a different moment |
 | Cisco Heat (1991)(Image Works)[128K] | z80 | 128K | Good | Exact | Picture matches the reference emulator |
 | Cisco Heat (1991)(Image Works)[a][128K] | tzx | 128K | Good | Exact | Shows the same pictures as the reference emulator, at a different moment |
 | Cisco Heat (1991)(Image Works)[f Ramsoft][128K] | slt | 128K | Good | Exact | Picture matches the reference emulator |
