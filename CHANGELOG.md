@@ -1,5 +1,59 @@
 # OverSpec changes
 
+## 0.6.20261116 (beta)
+
+- **Record and share replays of Spectrum Next games.** While a Next game is
+  running, Pause > Picture & sound > Record Next replay records what you play,
+  for up to an hour. Rewind while recording and the replay continues from
+  where you rewound to, so a mistake does not end the take. The replay then
+  plays as that game's preview in the library. Export replay saves it as an
+  `.rzx` file someone else can bring in with Import replay, provided they
+  have the same game: the file holds your key presses and the machine's
+  memory at the start, as a classic Spectrum RZX does, and not the game file.
+  Every replay is checked frame by frame, picture and sound, before it is
+  kept. Games started through NextZXOS can be recorded but not shared.
+- **OverSpec tells you about new versions.** Once a day, while it is open, it
+  asks its GitHub page whether there is a newer build. When there is, it asks
+  what to do: update now, later, or skip that version. Update now downloads
+  the package for your system, checks it against the size and SHA-256 listed
+  for the release, and installs it: on Windows it starts the setup program, on
+  Linux it updates a copy installed with `install.sh`, and on a Mac it opens
+  the disk image. A copy that was only unzipped is sent to the download page
+  instead. Nothing is downloaded or installed without a yes, and it never asks
+  while a game is on screen. The check sends nothing but the request itself,
+  which carries the OverSpec version; it can be turned off in Settings >
+  Updates > New version alerts.
+- **The update check now sees test builds.** Earlier builds looked for
+  GitHub's "latest" release, which leaves out builds marked as pre-releases,
+  as every OverSpec build so far is. Settings > Updates always answered that
+  there was no public release.
+- **Settings and saves on Windows** (reported in issue 2): OverSpec could
+  not create or use its settings folder when it was started from the top of
+  a drive, or installed on a different drive from that folder. Nothing could
+  be saved, and choosing another folder answered "OverSpec cannot write to
+  that folder". Fixed. A `--data-dir` folder written with backslashes is
+  now created too.
+- **Compatibility, from a run of 42,427 Spectrum files.** Every file in the
+  2012 TOSEC Spectrum set was run and compared with another emulator. Three
+  faults that came out of it are fixed:
+  - Games that write to port $FF by accident no longer get a garbled
+    picture (Hawk Storm, Full Throttle II, World Cup Challenge, Pulsator and
+    about thirty more). Only a Timex has its screen mode on that port; a
+    tape written for a Timex is started on a TC2048 instead.
+  - A tape now waits in the silence between two blocks while nothing is
+    reading it, as a person at the tape deck would. Combat School, Athena
+    and Road Runner load where they used to stop at a black screen.
+  - A +3 disk laid out as a CPC's is started from its boot sector (Tintin
+    on the Moon).
+- **Choosing a folder on Windows** (reported in issue 1): going up from the
+  top of a drive now leads to Locations, which lists every drive with its
+  name and any network folders in use. A network folder such as
+  `\\server\share` can be browsed like any other.
+- **Command line, for front ends such as LaunchBox:** `overspec GAME` has
+  always started a game. `--fullscreen` starts full screen for that run, and
+  `--quit-with-game` closes OverSpec when the game is left, so a front end
+  gets control back.
+
 ## 0.6.20261115 (beta)
 
 More of the Spectrum's extra display hardware, checked against a test set of

@@ -22,7 +22,7 @@ Installers for **Windows**, **Linux** and **Mac** are on the [Releases page](htt
 | Mac, Apple Silicon (macOS 13 or later) | `overspec-…-macos-arm64.dmg` | Open it and drag OverSpec to Applications. |
 | Mac, Intel (macOS 13 or later) | `overspec-…-macos-x86_64.dmg` | Open it and drag OverSpec to Applications. |
 
-The newest build, 0.6.20261115, is out for Windows, Linux and Mac.
+The newest build, 0.6.20261116, is out for Windows and Linux. The Mac build of it is on its way; until then the Mac packages are 0.6.20261115.
 
 ### Mac users: we need your feedback most
 
@@ -46,12 +46,16 @@ Reports are exactly what this build is for.
 
 ### What a report holds
 
-Nothing is ever sent unless you choose to send it, and OverSpec shows what will be sent first.
+No report is ever sent unless you choose to send it, and OverSpec shows what will be sent first.
 
 - A crash report holds the OverSpec version, your type of system (for example "windows-x64"), the file name of the last game started and where the program failed.
 - A problem report holds the same, plus your display settings, how many games are in your library, how long the last scan took and, if you send it from inside a game, the picture the game is showing. The library screen is never sent.
 
 Reports go to a server run by OverSpec's author, and your internet address is not stored with them.
+
+### Checking for a new version
+
+From 0.6.20261116, OverSpec asks this GitHub page once a day, while it is open, whether there is a newer build. That request carries the OverSpec version and nothing else about you or your games. When there is a newer build it asks before downloading or installing anything. Settings > Updates > New version alerts turns the check off.
 
 ## What it is
 
