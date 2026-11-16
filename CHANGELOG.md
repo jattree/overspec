@@ -1,5 +1,21 @@
 # OverSpec changes
 
+## 0.6.20261119 (beta)
+
+Online play gets a menu and Spectrum Next games.
+
+- **Play online from the menu.** In a game, Menu > Play online. Host a game
+  shows your code; Join a game takes the other player's code, typed or
+  picked out with a controller. When the other player arrives the menus
+  close and the game starts again for both.
+- **Online: Spectrum Next games can be hosted.** 0.6.20261118 refused to
+  host a Next game unless its Start mode had been set to Fast start by
+  hand, even when it was already starting that way. It now refuses only a
+  game that is really running through NextZXOS.
+- **Online: keys wait while the game loads.** For the first five seconds of
+  a shared game neither player's keys count, so a key pressed too soon no
+  longer lands in the middle of the Spectrum typing LOAD "".
+
 ## 0.6.20261118 (beta)
 
 Online play for two, faster tape loading, and two Windows fixes.
