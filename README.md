@@ -22,13 +22,13 @@ Installers for **Windows**, **Linux** and **Mac** are on the [Releases page](htt
 | Mac, Apple Silicon (macOS 13 or later) | `overspec-…-macos-arm64.dmg` | Open it and drag OverSpec to Applications. |
 | Mac, Intel (macOS 13 or later) | `overspec-…-macos-x86_64.dmg` | Open it and drag OverSpec to Applications. |
 
-The newest build, 0.6.20261118, is out for Windows and Linux; the Mac build is still 0.6.20261117 and will follow. It adds a first version of online play for two, loads many more tapes at once, and fixes two Windows faults: see the [changelog](CHANGELOG.md).
+The newest build, 0.6.20261118, is out for Windows, Linux and Mac. It adds a first version of online play for two, loads many more tapes at once, and fixes two Windows faults: see the [changelog](CHANGELOG.md).
 
-**Windows users: please install 0.6.20261118 by hand.** Earlier Windows builds could not make a secure connection once installed, so their daily check for a new version never found one and reports you chose to send were not delivered. This build fixes that. On Linux, 0.6.20261116 or later should offer you the update by itself: please tell us whether it worked.
+**Windows users: please install 0.6.20261118 by hand.** Earlier Windows builds could not make a secure connection once installed, so their daily check for a new version never found one and reports you chose to send were not delivered. This build fixes that. On Linux and Mac, 0.6.20261116 or later should offer you the update by itself: please tell us whether it worked.
 
 ### Mac users: we need your feedback most
 
-We cannot test the Mac build as widely as the others. It has passed its automated checks on one Apple Silicon Mac, and the Intel build has only been run under Rosetta, never on a real Intel Mac. In 0.6.20261117 nobody has yet heard preview sound, used a game controller, seen the folder dialog and the Report a problem dialog, or updated from an earlier build on a Mac. If you try it, please tell us how it went, even if everything worked: which Mac, which macOS, whether the window opened, whether games play, whether you hear sound, and which controller you used. An [issue](https://github.com/jattree/overspec/issues) is the best place.
+We cannot test the Mac build as widely as the others. It has passed its automated checks on one Apple Silicon Mac, and the Intel build has only been run under Rosetta, never on a real Intel Mac. In 0.6.20261118 nobody has yet heard preview sound, used a game controller, seen the folder dialog and the Report a problem dialog, updated from an earlier build, or played online against another computer on a Mac. If you try it, please tell us how it went, even if everything worked: which Mac, which macOS, whether the window opened, whether games play, whether you hear sound, and which controller you used. An [issue](https://github.com/jattree/overspec/issues) is the best place.
 
 The Mac app is not notarised yet, so macOS will refuse to open it the first time. Right-click OverSpec in Applications and choose Open, or allow it under System Settings > Privacy & Security.
 
