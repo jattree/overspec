@@ -1,5 +1,54 @@
 # OverSpec changes
 
+## 0.6.20261118 (beta)
+
+Online play for two, faster tape loading, and two Windows fixes.
+
+- **Two players online (first version, from the command line).** One player
+  starts `overspec GAME --host` and gets a six-letter code; the other starts
+  `overspec GAME --join CODE` with the same game file and the same OverSpec.
+  Both machines begin the game afresh and then run the same frames on both
+  players' keys and joysticks, so either player can press anything. Key
+  presses travel through a small meeting point run by OverSpec's author on
+  Cloudflare; the game itself is never sent. Rewind, loading a save and
+  restart are off while a game is shared, and it stops with a message if the
+  two machines ever differ. Windows and Linux copies have been checked to
+  compute identical machines; nobody has yet played it between two homes,
+and it has no menu entry yet.
+- **More tapes load at once.** OverSpec loads a block instantly when a
+  program reads it with the Spectrum's own loader. It used to do so only
+  when the block was exactly the length asked for. It now reads whatever the
+  loader would have read, stops where the loader would have stopped, and
+  lets the tape play on from there, so a block with a stray byte after it, a
+  block the program is skipping, and ordinary blocks stored in a tape file
+  pulse by pulse all load at once. So does a block shorter than what the
+  program asked for, which many games rely on and ignore the error (Sir
+  Fred, Minder, Iron Lord). Across the TOSEC set this cuts the time spent in
+  the Spectrum's loader at cassette speed by nearly three quarters, and some
+  tapes that used to stop part way now load: Critical Mass, Fairlight,
+  Kung-Fu Master, International Rugby, Turrican II and The NeverEnding
+  Story among them.
+- **Windows: update checks and reports now get through.** An installed
+  Windows copy could not make a secure connection: its web library looked
+  for a list of trusted certificates in a place that exists only on the
+  machine that built it. So on Windows the daily check for a new version
+  never found one, and a crash or problem report you chose to send was not
+  delivered. OverSpec now trusts the certificates Windows trusts. Because
+  of this, a Windows copy older than this one will not offer this update:
+  install it by hand once. Every Windows build from 0.6.20261114 to
+  0.6.20261117 is affected. Nobody reported it; it was found while testing
+  online play between a Windows and a Linux machine.
+- **Windows: disk timing no longer runs out after ten minutes.** On Windows
+  the disk controllers counted time in a number that overflowed after about
+  ten minutes of play. From then on a TR-DOS disk's index mark read as
+  always present, and a disk read begun at the wrong instant could be cut
+  short. Time is now counted the same way on every system. Found while
+  checking that a Windows and a Linux machine stay identical for online
+  play; nobody reported it.
+- **Save picture.** In a game, Menu > Picture & sound > Save picture saves
+  what the game is showing as a PNG, three times its size so the pixels stay
+  sharp, in the pictures folder beside your saves and settings.
+
 ## 0.6.20261117 (beta)
 
 Three tape fixes, found by running the whole TOSEC set again after each one.

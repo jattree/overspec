@@ -22,7 +22,9 @@ Installers for **Windows**, **Linux** and **Mac** are on the [Releases page](htt
 | Mac, Apple Silicon (macOS 13 or later) | `overspec-…-macos-arm64.dmg` | Open it and drag OverSpec to Applications. |
 | Mac, Intel (macOS 13 or later) | `overspec-…-macos-x86_64.dmg` | Open it and drag OverSpec to Applications. |
 
-The newest build, 0.6.20261117, is out for Windows, Linux and Mac. It fixes how several tapes load: see the [changelog](CHANGELOG.md). If you are running 0.6.20261116 it should offer you the update by itself, and this is the first time it has had the chance: please tell us whether it worked.
+The newest build, 0.6.20261118, is out for Windows and Linux; the Mac build is still 0.6.20261117 and will follow. It adds a first version of online play for two, loads many more tapes at once, and fixes two Windows faults: see the [changelog](CHANGELOG.md).
+
+**Windows users: please install 0.6.20261118 by hand.** Earlier Windows builds could not make a secure connection once installed, so their daily check for a new version never found one and reports you chose to send were not delivered. This build fixes that. On Linux, 0.6.20261116 or later should offer you the update by itself: please tell us whether it worked.
 
 ### Mac users: we need your feedback most
 
@@ -56,6 +58,10 @@ Reports go to a server run by OverSpec's author, and your internet address is no
 ### Checking for a new version
 
 From 0.6.20261116, OverSpec asks this GitHub page once a day, while it is open, whether there is a newer build. That request carries the OverSpec version and nothing else about you or your games. When there is a newer build it asks before downloading or installing anything. Settings > Updates > New version alerts turns the check off.
+
+### Playing online
+
+From 0.6.20261118 two people can play one game together over the internet. It is a first version and is started from a terminal or a shortcut: one player runs `overspec GAME --host` and reads out the six-letter code it shows, the other runs `overspec GAME --join CODE` with the same game file and the same OverSpec. Each player's key presses and joystick pass through a small meeting point run by OverSpec's author on Cloudflare, which sees your network address as any web site does. The game itself is never sent, and nothing is kept. Nothing connects to it unless you start or join an online game.
 
 ## What it is
 
@@ -123,7 +129,7 @@ Your saves and settings are kept in your own data folder, never in the program's
 
 ## Coming next
 
-- Recordings (RZX) for Spectrum Next games.
+- A menu entry for online play, so it no longer needs the command line.
 - Sound for the video previews of enhanced editions; today only previews made from recordings have sound.
 - A signed Windows setup program and a notarised Mac app.
 
