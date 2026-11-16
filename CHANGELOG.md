@@ -1,5 +1,18 @@
 # OverSpec changes
 
+## 0.6.20261120 (beta)
+
+A big library opens at once.
+
+- **A big library no longer rescans on every start.** OverSpec looked
+  through the whole games folder each time it started, which is quick for a
+  few hundred games and slow for tens of thousands. It now keeps the list
+  the last scan made. When that scan took long enough to notice, the next
+  start opens from the kept list at once, and More > Refresh library scans
+  again when you have added or removed games. A small folder is still
+  scanned on every start, so new games simply appear. Asked for by a user
+  with 38,000 games.
+
 ## 0.6.20261119 (beta)
 
 Online play gets a menu and Spectrum Next games.
