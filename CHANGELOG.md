@@ -1,5 +1,22 @@
 # OverSpec changes
 
+## 0.6.20261123 (beta)
+
+For programmers.
+
+- **The debugger works with Spectrum Next programs.** Started with
+  `--debugger PORT`, OverSpec lets DeZog and tools like it attach to a Next
+  program as they could to a classic one: breakpoints, stepping, registers,
+  memory by address and by 8K page, the memory slots and Next registers.
+- **Watchpoints**, on classic and Next programs: stop when a byte is read or
+  written.
+- A replay cannot be recorded while a debugger is attached, and a debugger
+  cannot attach while one is being recorded.
+
+Tested with test clients written from DeZog's published protocol, and
+answering the same as JNext; not yet with DeZog itself. See the README that
+comes with OverSpec.
+
 ## 0.6.20261122 (beta)
 
 Games can save, and online play no longer needs matching settings.
