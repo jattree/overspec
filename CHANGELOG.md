@@ -1,5 +1,27 @@
 # OverSpec changes
 
+## 0.6.20261122 (beta)
+
+Games can save, and online play no longer needs matching settings.
+
+- **Games started directly can save.** A Next game on Fast start, or a
+  ZX-Uno style program on the classic machine, could read the files beside
+  it but never write one, so a game that keeps high scores, options or a
+  key layout in a file lost them every time. What a game writes is now kept
+  in a folder of its own inside OverSpec's data folder and read back from
+  there. The game's own folder is never changed. Found with Cosmic Carnival
+  and BUD. Not used while playing online or in a replay, where both sides
+  must read the same files.
+- **Online: the host sets the game up.** The player who hosts chooses the
+  machine a game runs on, and the player who joins gets the same one for
+  that game. A joiner whose own choice was different, or whose Next games
+  start through NextZXOS, no longer has to change anything first, and is
+  told when the host's setup is in use. Their own choices are back when the
+  online game ends, and were never saved over. Before this, two players with
+  different choices were refused with "The two machines start differently".
+  A patch's own menu is shared like the rest of the game: either player's
+  keys work on it, and both see the same choices.
+
 ## 0.6.20261121 (beta)
 
 A patch you have updated plays again.
