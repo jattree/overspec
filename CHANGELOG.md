@@ -1,5 +1,21 @@
 # OverSpec changes
 
+## 0.6.20261121 (beta)
+
+A patch you have updated plays again.
+
+- **A game whose file has changed can be played again.** With "Prepare Next /
+  .nxc games on Play" switched on, a game whose file changed after OverSpec
+  had prepared it (a patch you updated, for one) was refused with "prepare
+  it again", and nothing in OverSpec could do that. Play now prepares it
+  afresh. The card OverSpec made for the old file is kept, untouched, beside
+  the new one, so nothing saved on it is lost. If that game is the one
+  running, OverSpec asks you to leave it first.
+- **A patch can name its colours line.** The .nxc format gained an optional
+  name for the menu line that used to read "Enhanced colours", for a patch
+  whose colour option is something else, such as painted backgrounds.
+  OverSpec shows it. The first patch to use it is 3D Stock Car Championship.
+
 ## 0.6.20261120 (beta)
 
 A big library opens at once.
