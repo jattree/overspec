@@ -22,7 +22,7 @@ Installers for **Windows**, **Linux** and **Mac** are on the [Releases page](htt
 | Mac, Apple Silicon (macOS 13 or later) | `overspec-…-macos-arm64.dmg` | Open it and drag OverSpec to Applications. |
 | Mac, Intel (macOS 13 or later) | `overspec-…-macos-x86_64.dmg` | Open it and drag OverSpec to Applications. |
 
-The newest build, 0.6.20261121, is out for Windows, Linux and Mac. A game whose file changed after OverSpec prepared it (a patch you updated, for one) plays again. A big library now opens from the list the last scan made instead of being scanned on every start (More > Refresh library scans again), online play has a menu, and Spectrum Next games can be played online: see the [changelog](CHANGELOG.md).
+The newest build, 0.6.20261122, is out for Windows and Linux; the Mac build is 0.6.20261121 and will follow. Games started directly can now save their high scores and options, and in online play the host sets the game up so the two players no longer need matching settings. A game whose file changed after OverSpec prepared it (a patch you updated, for one) plays again. A big library now opens from the list the last scan made instead of being scanned on every start (More > Refresh library scans again), online play has a menu, and Spectrum Next games can be played online: see the [changelog](CHANGELOG.md).
 
 **Windows users on 0.6.20261117 or older: please install the newest build by hand.** Those builds could not make a secure connection once installed, so their daily check for a new version never found one and reports you chose to send were not delivered. 0.6.20261118 fixed that. From 0.6.20261118 on Windows, and 0.6.20261116 on Linux and Mac, OverSpec should offer you the update by itself: please tell us whether it worked.
 
