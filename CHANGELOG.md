@@ -1,5 +1,25 @@
 # OverSpec changes
 
+## 0.6.20261124 (beta)
+
+Spectrum Next timing closer to the real machine.
+
+- **Contended memory on the Next now costs what it does on the real core.**
+  OverSpec had given Next programs the 128K's rules. The Next, in the timing
+  NextZXOS runs in, slows only real memory accesses in the screen's banks, and
+  by a different pattern. Programs running at 3.5 MHz from that memory ran a
+  few percent slow; they now keep the real machine's time. Measured against
+  the Next core running on an FPGA board: the same count to within one part
+  in 250,000. Programs at 7 MHz and faster, which is most Next games, are not
+  affected.
+- Online play needs both players on this version, as with every release.
+
+For programmers.
+
+- The debugger answers DeZog's sprite views: sprites, patterns, the two
+  sprite palettes and the clip window.
+- Memory moved by DMA trips a watchpoint.
+
 ## 0.6.20261123 (beta)
 
 For programmers.
