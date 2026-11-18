@@ -1,5 +1,35 @@
 # OverSpec changes
 
+## 0.6.20261125 (beta)
+
+DeZog itself now works with the debugger, and online play sends half as much.
+
+For programmers.
+
+- **DeZog can load and debug a program.** The last two builds answered
+  DeZog's protocol but had only been tried with test programs written from
+  its description. DeZog itself (3.7.4) could not load anything: it uses an
+  older message for that, which OverSpec did not have. It now attaches, loads
+  a `.nex` or a 48K or 128K `.sna`, and debugs it: stepping, source
+  breakpoints, registers, memory, the call stack, pause, and on a Next the
+  sprite and pattern views. Checked by running DeZog itself against a Next,
+  a 48K and a 128K machine.
+- Stepping out of a routine, which DeZog does one instruction at a time, is
+  about ten times quicker.
+- DeZog 3.7 does not use watchpoints over this kind of connection. OverSpec
+  has them for other debuggers that speak the same protocol.
+
+Online play.
+
+- The controls are read once for every two frames, which halves what goes
+  through the meeting point. A press can wait up to one frame longer before
+  it counts; a key tapped and let go between two readings is still seen.
+- Online play needs both players on this version, as with every release.
+
+Under the surface.
+
+- Loading a file no longer assumes memory was there to copy it into.
+
 ## 0.6.20261124 (beta)
 
 Spectrum Next timing closer to the real machine.
