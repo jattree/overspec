@@ -1,5 +1,44 @@
 # OverSpec changes
 
+## 0.6.20261126 (beta)
+
+Spectrum Next programs can keep their own files, and more Next loading
+screens show.
+
+Spectrum Next.
+
+- **Loading screens of newer NEX files show.** Files in the V1.3 format
+  could start with a black screen where their title picture should be: IK+
+  was one. The wide Layer 2 pictures, tile screens, their palettes and a
+  Copper effect carried in the file are now read as the Next's own loader
+  reads them.
+- **Programs can manage their own files.** A Next program started directly
+  can now make and remove folders, and delete, rename and shorten files, as
+  well as write them. All of it happens in your saves folder: the game's own
+  files are never changed.
+- A program that lists a folder and deletes each file as it goes is given
+  every file.
+
+For programmers.
+
+- A break instruction in your program (FD 00, which sjasmplus's BREAK makes,
+  or DD 01 or ED FF) stops it there while a debugger is attached.
+- A debugger that disconnects and connects again straight away is served,
+  not refused, and can end its session and start another on the same
+  connection.
+- dezogif_ng's protocol conformance suite and its session checks pass
+  against OverSpec.
+
+Classic Spectrums.
+
+- An interrupt arriving straight after LD A,I or LD A,R now finds the parity
+  flag clear, as on the real machines' processor.
+
+Under the surface.
+
+- The build treats compiler warnings as errors on Linux.
+- Online play needs both players on this version, as with every release.
+
 ## 0.6.20261125 (beta)
 
 DeZog itself now works with the debugger, and online play sends half as much.
