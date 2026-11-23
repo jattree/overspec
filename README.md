@@ -32,7 +32,7 @@ The Mac app is not notarised yet, so macOS will refuse to open it the first time
 
 The Windows setup program is not code signed yet, so Windows SmartScreen will warn you. Choose "More info", then "Run anyway".
 
-What changed in each build is in the [changelog](CHANGELOG.md).
+What changed in each build is in the [changelog](CHANGELOG.md). Everything OverSpec does, and where to find it, is in the [user guide](USER-GUIDE.md), which also comes with OverSpec as `USER-GUIDE.html`.
 
 ## If something goes wrong
 
@@ -70,7 +70,7 @@ OverSpec is an emulator built around picking a game and playing it.
 - Spec256, EmuZWin, ZX-Poly and NexClash `.nxc` support, alongside native Spectrum Next games.
 - Animated gameplay backdrops, and the ability to record your own previews.
 - The Spectrum Next's Raspberry Pi (the real NextPi, run by QEMU from your own copy), its WiFi and its clock.
-- A user guide, `USER-GUIDE.html`, in the program's folder.
+- A [user guide](USER-GUIDE.md), also in the program's folder as `USER-GUIDE.html`.
 - Cassette-art surrounds, three skins, original pixels, Smooth, Scale2x and Scale4x.
 - Controller setup, in-game cheats and options, saves and rewind.
 - An updater for `.nxc` patches and their notes.
