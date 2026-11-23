@@ -1,8 +1,6 @@
-# OverSpec (early test build)
+# OverSpec
 
 Classic ZX Spectrum games, enhanced colour editions and native Spectrum Next games, together in one library you can drive from the sofa with a game controller.
-
-> **Expect this to be somewhere between an alpha and a beta.** It has had a lot of polish, but there are probably plenty of problems we have not noticed yet. Things will change before the first full release.
 
 ![The OverSpec library](screenshots/library.png)
 
@@ -22,13 +20,13 @@ Installers for **Windows**, **Linux** and **Mac** are on the [Releases page](htt
 | Mac, Apple Silicon (macOS 13 or later) | `overspec-…-macos-arm64.dmg` | Open it and drag OverSpec to Applications. |
 | Mac, Intel (macOS 13 or later) | `overspec-…-macos-x86_64.dmg` | Open it and drag OverSpec to Applications. |
 
-The newest build, 0.6.20261126, is out for Windows, Linux and Mac. Spectrum Next programs started directly can now keep their own files (make folders, delete and rename as well as write), all in your saves folder, and the loading screens of newer NEX files show. Games started directly can now save their high scores and options, and in online play the host sets the game up so the two players no longer need matching settings. A game whose file changed after OverSpec prepared it (a patch you updated, for one) plays again. A big library now opens from the list the last scan made instead of being scanned on every start (More > Refresh library scans again), online play has a menu, and Spectrum Next games can be played online: see the [changelog](CHANGELOG.md).
+The newest version, 0.7.20261122, is out for Windows, Linux and Mac. The Spectrum Next runs much closer to the real machine, so effects made part way down the screen appear where they should and programs that time themselves against the screen behave as they do on a Next. It gains its Raspberry Pi, WiFi and clock, Timex hi-res pictures show correctly, and the Next runs 7 to 23% faster. Saved positions for Next games from earlier versions cannot be restored by this one; Spectrum and Spec256 saves are not affected. See the [changelog](CHANGELOG.md).
 
 **Windows users on 0.6.20261117 or older: please install the newest build by hand.** Those builds could not make a secure connection once installed, so their daily check for a new version never found one and reports you chose to send were not delivered. 0.6.20261118 fixed that. From 0.6.20261118 on Windows, and 0.6.20261116 on Linux and Mac, OverSpec should offer you the update by itself: please tell us whether it worked.
 
 ### Mac users: we need your feedback most
 
-We cannot test the Mac build as widely as the others. It has passed its automated checks on one Apple Silicon Mac, and the Intel build has only been run under Rosetta, never on a real Intel Mac. In 0.6.20261118 nobody has yet heard preview sound, used a game controller, seen the folder dialog and the Report a problem dialog, updated from an earlier build, or played online against another computer on a Mac. If you try it, please tell us how it went, even if everything worked: which Mac, which macOS, whether the window opened, whether games play, whether you hear sound, and which controller you used. An [issue](https://github.com/jattree/overspec/issues) is the best place.
+We cannot test the Mac build as widely as the others. It has passed its automated checks on one Apple Silicon Mac, and the Intel build has only been run under Rosetta, never on a real Intel Mac. So far nobody has heard preview sound, used a game controller, seen the folder dialog and the Report a problem dialog, updated from an earlier build, or played online against another computer on a Mac. If you try it, please tell us how it went, even if everything worked: which Mac, which macOS, whether the window opened, whether games play, whether you hear sound, and which controller you used. An [issue](https://github.com/jattree/overspec/issues) is the best place.
 
 The Mac app is not notarised yet, so macOS will refuse to open it the first time. Right-click OverSpec in Applications and choose Open, or allow it under System Settings > Privacy & Security.
 
@@ -71,10 +69,12 @@ OverSpec is an emulator built around picking a game and playing it.
 - Classic and enhanced editions together. Choose your version when you press Play.
 - Spec256, EmuZWin, ZX-Poly and NexClash `.nxc` support, alongside native Spectrum Next games.
 - Animated gameplay backdrops, and the ability to record your own previews.
+- The Spectrum Next's Raspberry Pi (the real NextPi, run by QEMU from your own copy), its WiFi and its clock.
+- A user guide, `USER-GUIDE.html`, in the program's folder.
 - Cassette-art surrounds, three skins, original pixels, Smooth, Scale2x and Scale4x.
 - Controller setup, in-game cheats and options, saves and rewind.
 - An updater for `.nxc` patches and their notes.
-- A full-screen interface that works entirely from a game controller, with the keyboard and mouse as alternatives. New in 0.6.20261115, and tested so far with simulated controllers only: tell us how yours behaves.
+- A full-screen interface that works entirely from a game controller, with the keyboard and mouse as alternatives. Tested so far with simulated controllers only: tell us how yours behaves.
 - The 16K to +3 Spectrums, the Pentagon, the Timex TC2048 and TS2068, and the Spectrum Next, with ULAplus, Timex screen modes, Radastan, Gigascreen, multicolour and SPECTRA display hardware.
 
 ## Games in the box
@@ -117,7 +117,7 @@ Your saves and settings are kept in your own data folder, never in the program's
 
 [COMPATIBILITY.md](COMPATIBILITY.md) has the result for every file OverSpec has been run against: all 42,427 tapes, disks and snapshots in the 2012 TOSEC Spectrum set, each compared with a reference emulator, plus the colour editions, patches and Next games. 95.7% match the reference. A run with nobody at the controls does not show that a game plays to the end, so the few a person has played are listed separately. If a game you care about is marked as a problem, tell us in an issue.
 
-## Known limits in this build
+## Known limits
 
 - The Windows setup program is unsigned.
 - Starting Next games through NextZXOS is not available on Windows; they start directly.

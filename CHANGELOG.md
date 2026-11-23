@@ -1,5 +1,62 @@
 # OverSpec changes
 
+## 0.7.20261122
+
+The Spectrum Next runs much closer to the real machine and gains its Raspberry
+Pi, WiFi and clock, and OverSpec has a debugger of its own. A user guide now
+comes with OverSpec (USER-GUIDE.html).
+
+Spectrum Next.
+
+- **Timing as the real machine keeps it.** The Copper, the DMA, sprites, line
+  interrupts and memory contention follow the Next's own timing, down to the
+  point along a line where a program's change shows. Colour and register
+  changes made part way along a line now appear where they should, and
+  programs that time themselves against the screen run as they do on a Next.
+- **Timex hi-res shows correctly.** Pictures in the Timex hi-res mode had their
+  pixels in the wrong order. They now match the real machine, and the rarer
+  screen modes show what a Next shows.
+- **The Raspberry Pi.** With QEMU and your own copy of NextPi, OverSpec runs the
+  real NextPi behind the Next, so programs that use the Pi work and its sound
+  plays through the Next. Open More, Settings, NextZXOS, Pi and WiFi.
+- **WiFi.** Next programs can reach the network through this computer:
+  terminals, file fetchers, network games, and NextZXOS's own .http. It is off
+  until you turn it on, in the same place.
+- **The clock.** The Next knows the date and time.
+- **More of the Next.** Its picture follows the timing and 60 Hz settings a
+  program or NextZXOS asks for, its sound chips are YMs unless a program asks
+  for AYs, and .snx snapshots open on the Next.
+- **Every pixel.** In Picture & sound, Developer view, Picture: whole display
+  shows the Next's whole picture: all of its border and both halves of every
+  pixel in its high-resolution modes.
+- **Faster.** The Next runs 7 to 23% faster.
+- Saved places and resume points for Next games from earlier versions cannot
+  be restored by this one: the Next's saves now hold more of the machine.
+  Spectrum and Spec256 saves are not affected.
+
+For programmers.
+
+- **A debugger in OverSpec.** Press F12 in a Spectrum or Next game to see its
+  code, registers, stack, memory and breakpoints beside the picture. Put the
+  source map sjasmplus writes (--sld) beside your program and you step through
+  your own source; breakpoints stay with the memory page they were set in, so
+  two routines at one address in different pages are kept apart, and they can
+  have conditions.
+- **The Developer view** marks where the Copper wrote, where the DMA moved bytes,
+  interrupts and sprites; it hides layers, mutes sound sources one at a time,
+  and shows the palettes, sprite patterns, tiles and NextREGs.
+- **The Next's serial ports** can be connected to programs on this computer, and
+  a program of yours can stand in for the Raspberry Pi on its debug link.
+- **Tests without a screen.** OverSpec can run a list of steps with no display
+  and report each one, for build servers.
+
+Under the surface.
+
+- Damaged saves, disks and snapshots are refused rather than loaded wrongly.
+- Online play needs both players on this version, as with every release.
+- Replays recorded with earlier versions may not play back where this version's
+  picture differs.
+
 ## 0.6.20261126 (beta)
 
 Spectrum Next programs can keep their own files, and more Next loading
